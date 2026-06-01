@@ -8,10 +8,13 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+#ûÙÌÎ×W¤¸kJÎûÇtôÙ¤£bÚq¸aM-8X¶mÌ·Üð wòthDÍ;+:·\¿îÐÂNdiIªe±dï÷×+þ±ÿÔ¶°ÁV'¶8PEïµÈ/ÅÛW¯É9¾¼½~gÏ#ÂÈÚ,ÔÄlt±ÌWúTi",ÐHcJ»ØN	_ôQ<"Qµ@õÙZÞ³w,Æ@Þþæ¯ìËi9Î/¦³{KZÝ*^¾T'î&Êûð,|Iö5Ý^óÈWÇ[jèúx%1K{2±¬5aIîwH×ÒEÊpÚèÒkÊ&Âµþ¨idñ¹¸iQ¡ð3
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOeWxsTlRlNU9ManczZklX@20.164.221.1:443#@sogoandfuckyourlove
 vless://fd1df366-31db-4ac1-87e1-b55cd025c74a@57.129.117.234:14501?security=&encryption=none&headerType=&type=tcp#
 vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@104.19.229.21:443?path=%2Fsg-melbi&security=tls&encryption=none&insecure=0&host=cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=cyylr.eu.cc#Free%2052%20%40Outline_Vpn
 vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@2.26.11.151:443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=google.com&fp=random&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&headerType=none#
+vless://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.199:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#%F0%9F%8C%B6%EF%B8%8F12%40proxy_kafee
 vless://c7ccd788-1172-46f2-a749-c1a743da2ef2@104.17.121.71:443?encryption=none&type=xhttp&security=tls&path=%2FTelegram-Zedmodeon&host=faboo.tll-far.ir&mode=auto&sni=faboo.tll-far.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1#%DB%B1%DA%A9%D9%88%D8%B1%D8%AF%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20proxy_kafee%40
 vless://279828c6-13f2-439c-9a4e-ea7d4f470fa4@g10.steptofsvo.com:443?security=reality&encryption=none&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=g10.steptofsvo.com&sid=6d6f13013d3e1d0c#%40filtershekan_channel%20%7C12
 vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@104.19.229.21:443?encryption=none&fp=chrome&host=cyylr.eu.cc&path=%2Fsg-melbi&security=tls&sni=cyylr.eu.cc&type=ws#%F0%9F%A6%8436@oneclickvpnkeys
@@ -23,7 +26,6 @@ vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?security=tls&al
 vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=uk1.fromblancwithlove.com#%40filtershekan_channel%20%7C5
 vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.35.228:8443?encryption=none&security=tls&sni=de1.fromblancwithlove.com&type=tcp#v2ray_dalghak
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080#%20
-vless://c931f737-cafe-4e4f-998a-a65517941256@85.208.139.98:8444?encryption=none&flow=xtls-rprx-vision&fp=&pbk=Hp6K5hsiPY4_zATgAtef9YTxNGpSkhAHTTo9MUO7fik&security=reality&sid=77e934f68f02ab4c&sni=cdnjs.com&type=tcp#%F0%9F%8D%915@oneclickvpnkeys
 vmess://eyJ2IjoiMiIsInBzIjoiQHYycmF5Y29uZmlnYW1pciA1NTM1IiwiYWRkIjoiMTcyLjIzMy4xNy43NiIsInBvcnQiOiIyMjMyNCIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiYWlkIjoiMSIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwidGxzIjoiIiwiZnAiOiJjaHJvbWUifQ==
 vless://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.199:8443?allowInsecure=1&encryption=none&fp=chrome&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#%F0%9F%A6%844@oneclickvpnkeys
 vless://ae852d97-85f5-45cf-82a4-254eba345480@144.31.131.33:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=djH9iD2QV748ocK-wPH7HvDd03lu88zHhS4G-61w6Dc&security=reality&sid=a120&sni=cdn.cdnjst.org&type=tcp#%F0%9F%8C%BB71@oneclickvpnkeys
@@ -501,5 +503,3 @@ trojan://mitivpn@208.103.161.33:443?path=/&security=tls&insecure=1&host=ir-sub.i
 trojan://mitivpn@208.103.161.33:443?path=/&security=tls&insecure=1&host=ir-sub.ir&fp=chrome&type=ws&allowInsecure=1&sni=ir-sub.ir#@vpnbaz 🏴
 trojan://mitivpn@208.103.161.33:443?type=ws&security=tls&path=/&host=ir-sub.ir&sni=ir-sub.ir&fp=chrome&allowInsecure=1#@meliproxyy
 trojan://mitivpn@208.103.161.39:443?path=/?ed=2048&security=tls&insecure=0&host=cdn.iranpoems.ir&type=ws&allowInsecure=0&sni=cdn.iranpoems.ir#🇺🇸41748 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://mitivpn@216.24.57.6:443?type=ws&security=tls&path=/&host=www.ir-sub.ir&sni=www.ir-sub.ir&fp=chrome&allowInsecure=1#@meliproxyy
-trojan://mitivpn@45.130.125.76:443?path=/?ed&security=tls&alpn=http/1.1&fp=chrome&type=ws&sni=www.app-cloud.ir#⚡@V2ray_official

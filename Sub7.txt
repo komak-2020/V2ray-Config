@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://Telegram-Parsashonam-1@45.130.125.76:443?mode=auto&amp%3Bpath=/p4r34m&amp%3Bsecurity=tls&amp%3Balpn=h2%2Chttp/1.1&amp%3Bencryption=none&amp%3Binsecure=1&amp%3Bhost=p4r34m.hendevaneh.sbs&amp%3Bfp=chrome&amp%3Btype=xhttp&amp%3BallowInsecure=1&amp%3Bsni=p4r34m.hendevaneh.sbs#%F0%9F%87%B8%F0%9F%87%A8%20SC%20%7C%20VLESS%20%7C%20%40parsashonam%20%231
+trojan://telegram-id-privatevpns@18.184.212.180:22222?security=tls&amp%3Balpn=http/1.1&amp%3BheaderType=none&amp%3Btype=tcp&amp%3Bsni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20TROJAN%20%7C%20%40privatevpns%20%231
 vless://2169fc1b-1e61-4d44-e42e-34230695d5d5@104.18.12.126:2053?mode=gun&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Btype=grpc&amp%3BserviceName=%40foxnim&amp%3Bsni=dd.foxnim.info#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40pro_chaneel%20%231
 vless://392afad2-43e3-4414-a5c3-b529a44df4e3@avalpardakht.com:80?path=/%40v2rayNG_VPNN&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=7.arsalanv2.sbs&amp%3Btype=ws#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40prooxyk%20%231
 vmess://eyJhZGQiOiI3Ny52MnJheTEueHl6IiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoiNzcudjJyYXkxLnh5eiIsImlkIjoiMTdiMmEzMTMtMzdhMC00OTQ1LWE4ZTQtZTYzMzc1NTA2YjRhIiwibmV0Ijoid3MiLCJwYXRoIjoiL0EyREpPUEZUIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HuvCfh7ggVVMgfCBWTUVTUyB8IEBwcm9veHlrICMxIiwic2N5IjoiYXV0byIsInNuaSI6Ijc3LnYycmF5MS54eXoiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
@@ -501,5 +503,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-penni
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.181:443#%F0%9F%87%AC%F0%9F%87%A7GB-141.98.101.181-0151
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.187:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.187-0174
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNWmVTVHZwbDJ1b2V5MVIwZnJoUHlK@109.107.182.229:51544#%F0%9F%87%AB%F0%9F%87%AEFI-109.107.182.229-4635
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.179-0176
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.179:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.179-0177

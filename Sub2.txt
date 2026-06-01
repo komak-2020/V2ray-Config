@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://mitivpn@216.24.57.6:443?type=ws&security=tls&path=/&host=www.ir-sub.ir&sni=www.ir-sub.ir&fp=chrome&allowInsecure=1#@meliproxyy
+trojan://mitivpn@45.130.125.76:443?path=/?ed&security=tls&alpn=http/1.1&fp=chrome&type=ws&sni=www.app-cloud.ir#⚡@V2ray_official
 trojan://mitivpn@45.130.125.76:443?path=/?ed&security=tls&alpn=http/1.1&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.app-cloud.ir#powerro
 trojan://mitivpn@45.130.125.76:443?path=/?ed=2048&security=tls&alpn=http/1.1&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.app-cloud.ir#@vpnbaz 🥝
 trojan://mitivpn@45.130.125.76:443?type=ws&security=tls&path=/?ed=2048&sni=www.app-cloud.ir&alpn=http/1.1&fp=chrome&allowInsecure=1#@v2raybaaz
@@ -501,5 +503,3 @@ vless://2d461e79-7a79-4891-83c8-b34d5ad48251@varzesh3.com:80?type=ws&path=/&host
 vless://2d9942f9-1d0c-4919-b538-bfb0d2380f82@txt.irajapan.store:28561?security=reality&encryption=none&pbk=Oeqvti84_ZY-qSA3sQv4F7mc7-9eOwxw3oXDVtSOaRg&headerType=none&fp=chrome&spx=/&type=tcp&sni=yahoo.com&sid=538dbb66ff#@Vasl_b
 vless://2d9942f9-1d0c-4919-b538-bfb0d2380f82@txt.irajapan.store:28561?security=reality&encryption=none&pbk=Oeqvti84_ZY-qSA3sQv4F7mc7-9eOwxw3oXDVtSOaRg&headerType=none&fp=chrome&spx=/&type=tcp&sni=yahoo.com&sid=538dbb66ff#🇩🇪41733 | ⚡️Telegram = t.me/SOSkeyNET
 vless://2d9942f9-1d0c-4919-b538-bfb0d2380f82@txt.irajapan.store:28561?security=reality&encryption=none&pbk=Oeqvti84_ZY-qSA3sQv4F7mc7-9eOwxw3oXDVtSOaRg&headerType=none&fp=chrome&spx=/&type=tcp&sni=yahoo.com&sid=538dbb66ff#🔵@chillguy_vpn
-vless://2e7062e5-260b-4139-b221-21f2ae7dce21@45.130.125.220:8443?security=tls&type=xhttp&headerType=&path=&host=&mode=auto&extra={"scMaxEachPostBytes":+1000000,+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}&sni=spa.nimhub.ir.&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#@on_proxy1
-vless://2e7a09b1-1c94-45e0-9b0a-9a221dc7280b@macnetdev.macnetdev.link:52483?encryption=none&security=none&type=tcp#🇨🇭41749 | ⚡️Telegram = t.me/SOSkeyNET
