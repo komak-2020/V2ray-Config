@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://79ee7516-aea4-4ba5-bfc8-980347a9ca36@blubank.sb24.ir:2082?path=/&security=&encryption=none&host=mci.ejavidfar.ir&type=ws#🔵@chillguy_vpn
-vless://7a30b7fc-4868-4d1d-84b8-16a3d3df0139@45.89.109.25:18278?encryption=none&fp=chrome&pbk=8Fglzc7t2LS4r1vQWlVMNe_EsFdhMawlxeDacbhmiAg&security=reality&sid=f0&sni=yahoo.com&type=tcp#@v2reya88 | @confinghub2
-vless://7aa517e2-435f-4236-a68b-7777a3b1a76a@46.225.157.188:8443?mode=auto&path=/xhttp&security=none&encryption=none&extra={"scMaxEachPostBytes":"1000000","scMinPostsIntervalMs":"30","xPaddingBytes":"100-1000"}&host=46.225.157.188&type=xhttp#@bored_vpn
-vless://7aa517e2-435f-4236-a68b-7777a3b1a76a@46.225.157.188:8443?mode=auto&path=/xhttp&security=none&encryption=none&extra={"scMaxEachPostBytes":"1000000","scMinPostsIntervalMs":"30","xPaddingBytes":"100-1000"}&host=46.225.157.188&type=xhttp#@icv2ray
 vless://7aa517e2-435f-4236-a68b-7777a3b1a76a@46.225.157.188:8443?mode=auto&path=/xhttp&security=none&encryption=none&extra={"scMaxEachPostBytes":"1000000","scMinPostsIntervalMs":"30","xPaddingBytes":"100-1000"}&host=46.225.157.188&type=xhttp#@mehrosaboran
 vless://7b110fd1-2c7f-4df3-8a2f-10085c500f4c@162.159.81.132:443?encryption=none&fp=chrome&host=orange-math-8a2e.parsa-esfandpoor89.workers.dev&path=/&security=tls&sni=orange-math-8a2e.parsa-esfandpoor89.workers.dev&type=ws#🐤63@oneclickvpnkeys
 vless://7b3ed8de-00bf-4675-9112-25aa835f1942@f1.mszqwn5718.site:2052?path=/&security=&encryption=none&type=ws#x4plcll9
@@ -503,3 +499,7 @@ vless://aeec50e6-f176-4f87-9f46-0610a0e76435@104.26.6.159:8443?path=/RoBeRt&secu
 vless://aef92bdf-79b6-4962-b3ff-164dd938d2dd@94.183.149.98:6000?security=none&encryption=none&headerType=http&type=tcp#@CUSTOMVPNSERVER
 vless://af194c0e-95c3-417b-85bf-9ac3027f903e@146.0.73.104:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=xSnNFylG-eUpKDPa2a-R3rdSB1HDrmenM-jU19n-xXA&security=reality&sid=612d8fa72c&sni=ads.5ka.ru&type=tcp#🐤56@oneclickvpnkeys
 vless://af194c0e-95c3-417b-85bf-9ac3027f903e@146.0.73.104:8443?security=reality&encryption=none&pbk=xSnNFylG-eUpKDPa2a-R3rdSB1HDrmenM-jU19n-xXA&headerType=none&fp=chrome&spx=/&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.5ka.ru&sid=612d8fa72c#🇩🇪All²² | @meliproxyy
+vless://af194c0e-95c3-417b-85bf-9ac3027f903e@146.0.73.104:8443?security=reality&encryption=none&pbk=xSnNFylG-eUpKDPa2a-R3rdSB1HDrmenM-jU19n-xXA&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=ads.5ka.ru&sid=612d8fa72c#@FarazV2ray
+vless://af194c0e-95c3-417b-85bf-9ac3027f903e@146.0.73.104:8443?security=reality&encryption=none&pbk=xSnNFylG-eUpKDPa2a-R3rdSB1HDrmenM-jU19n-xXA&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=ads.5ka.ru&sid=612d8fa72c#@Proxy_Vpney (2)
+vless://af194c0e-95c3-417b-85bf-9ac3027f903e@146.0.73.104:8443?security=reality&encryption=none&pbk=xSnNFylG-eUpKDPa2a-R3rdSB1HDrmenM-jU19n-xXA&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=ads.5ka.ru&sid=612d8fa72c#@filtershekan_channel |5
+vless://af194c0e-95c3-417b-85bf-9ac3027f903e@146.0.73.104:8443?security=reality&encryption=none&pbk=xSnNFylG-eUpKDPa2a-R3rdSB1HDrmenM-jU19n-xXA&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=ads.5ka.ru&sid=612d8fa72c#🕊️Tel: @Proxy_Vpney (2)
