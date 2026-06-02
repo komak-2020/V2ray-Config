@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://729d3d1e-ee1a-4c42-84bc-2ff331518221@2.26.160.79:443?security=reality&encryption=none&pbk=Aak3FEVpJGzxzVz4wWkNpFA9dANDnvQg15X4eYNr_hw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=6ba8f65dee6e#Free 41 @Outline_ir
-vless://72aa7afe-097d-4be7-ae69-7c71ad257325@helixgaming.ir:80?path=/&security=none&encryption=none&host=play.google.com&type=ws#@outline_ir
-vless://72c1f977-cd56-4c44-b4ba-4330a339cd6b@cdnirtr87.2ad.ir.nic.stp.debian.org.ubuntu.ir.reservedns.website:1096?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#@v2rayconfigamir 7274
-vless://72c1f977-cd56-4c44-b4ba-4330a339cd6b@cdnirtr87.2ad.ir.nic.stp.debian.org.ubuntu.ir.reservedns.website:1096?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#@v2rayconfigamir 8475
 vless://72e2f99b-0e11-447e-8a8d-a7a2f9ea78c6@164.90.191.58:443?path=/proxyip=144.124.252.83&security=tls&encryption=none&insecure=0&host=plain-art-420b.pouyanmotamedi0.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=plain-art-420b.pouyanmotamedi0.workers.dev#🔵@config_free2
 vless://7366d24e-e395-42f5-affb-d2c45f3e2596@185.126.12.39:443?security=none&encryption=none&headerType=none&type=tcp#🇩🇪+Germany+|+@on_proxy1
 vless://73c02b8f-5420-4739-bc48-1ec43c3ffcbc@snapp.ir:80?type=ws&security=none&path=/&host=derakhshan.molvliafor.ir# به کانال مابپیوندید@khazan_news
@@ -503,3 +499,7 @@ vless://a8a663db-1789-4dfe-8786-151d980fc1e2@snappfood.ir:443?path=/bspath&secur
 vless://a9160eba-23cd-407d-8cb3-39a2bc43148c@45.130.125.69:2096?mode=gun&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=sharghdaily.com.tasnimnews.com.yjc.ir.entekhab.ir.tasnimnews.com.isna.ir.entekhab.ir&allowInsecure=0&sni=sHort-aCtIon40S8o1J3v9.SaMSUNgOVEnS.Ir#✅Tel: @Proxy_Vpney (4)
 vless://a9cd18d2-dbf3-462b-9380-920a08fbc16b@104.17.121.71:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/sg-do&security=tls&encryption=none&insecure=0&host=support.zoom.us.cyylr.eu.cc&type=ws&allowInsecure=0&sni=support.zoom.us.cyylr.eu.cc#👉🆔@freenettir📡🇨🇦®️Canada©️Toronto🅿️ping:46.18ms
 vless://a9cd18d2-dbf3-462b-9380-920a08fbc16b@104.17.121.71:443?path=/sg-do&security=tls&encryption=none&insecure=0&host=support.zoom.us.cyylr.eu.cc&type=ws&allowInsecure=0&sni=support.zoom.us.cyylr.eu.cc#@freenettir
+vless://a9cd18d2-dbf3-462b-9380-920a08fbc16b@104.17.121.71:443?path=/sg-do&security=tls&encryption=none&insecure=0&host=support.zoom.us.cyylr.eu.cc&type=ws&allowInsecure=0&sni=support.zoom.us.cyylr.eu.cc#@meliproxyy
+vless://a9cd18d2-dbf3-462b-9380-920a08fbc16b@104.17.121.71:443?path=/sg-do&security=tls&encryption=none&insecure=0&host=support.zoom.us.cyylr.eu.cc&type=ws&allowInsecure=0&sni=support.zoom.us.cyylr.eu.cc#[69544] - Telegram : @V2All
+vless://a9cd18d2-dbf3-462b-9380-920a08fbc16b@104.17.121.71:443?path=/sg-do&security=tls&encryption=none&insecure=0&host=support.zoom.us.cyylr.eu.cc&type=ws&allowInsecure=0&sni=support.zoom.us.cyylr.eu.cc#🇨🇦44812 | ⚡️Telegram = t.me/SOSkeyNET
+vless://a9cd18d2-dbf3-462b-9380-920a08fbc16b@104.17.121.71:443?path=/sg-do&security=tls&encryption=none&insecure=0&host=support.zoom.us.cyylr.eu.cc&type=ws&allowInsecure=0&sni=support.zoom.us.cyylr.eu.cc#🔵@chillguy_vpn
