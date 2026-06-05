@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://9a98146a-235c-40ed-9633-a67fe3bf9f18@46.202.30.87:443?security=tls&type=xhttp&path=/xn--q9jyb4c&host=cloudflare.dns.xn--q9jyb4c&sni=cloudflare.dns.xn--q9jyb4c&fp=chrome&mode=packet-up&extra={"xPaddingBytes":"100-1000"}&encryption=none#Telegram:@v2ray_configs_pools
+vless://9a98146a-235c-40ed-9633-a67fe3bf9f18@46.202.30.87:443?type=xhttp&security=tls&path=/xn--q9jyb4c&sni=cloudflare.dns.xn--q9jyb4c#Telegram:@v2ray_configs_pools
+vless://9a98146a-235c-40ed-9633-a67fe3bf9f18@5.175.141.113:443?mode=packet-up&path=/xn--q9jyb4c&security=tls&encryption=none&extra={"scMaxEachPostBytes":"1000000","scMinPostsIntervalMs":"30","xPaddingBytes":"100-1000"}&insecure=0&host=cloudflare.dns.xn--q9jyb4c&type=xhttp&allowInsecure=0&sni=cloudflare.dns.xn--q9jyb4c#Telegram:@v2ray_configs_pools
 vless://9a98146a-235c-40ed-9633-a67fe3bf9f18@5.175.141.113:443?security=tls&type=xhttp&path=/xn--q9jyb4c&host=cloudflare.dns.xn--q9jyb4c&sni=cloudflare.dns.xn--q9jyb4c&fp=chrome&mode=packet-up&extra={"xPaddingBytes":"100-1000"}&encryption=none#Telegram:@FvpnProxy
 vless://9a98146a-235c-40ed-9633-a67fe3bf9f18@5.175.141.113:443?type=xhttp&security=tls&path=/xn--q9jyb4c&sni=cloudflare.dns.xn--q9jyb4c#Telegram:@v2ray_configs_pools
 vless://9a98146a-235c-40ed-9633-a67fe3bf9f18@5.175.141.14:443?mode=packet-up&path=/xn--q9jyb4c&security=tls&encryption=none&extra={"scMaxEachPostBytes":"1000000","scMinPostsIntervalMs":"30","xPaddingBytes":"100-1000"}&insecure=0&host=cloudflare.dns.xn--q9jyb4c&type=xhttp&allowInsecure=0&sni=cloudflare.dns.xn--q9jyb4c#Telegram:@v2ray_configs_pools
@@ -500,6 +503,3 @@ vless://c83014e0-ad3e-4ebd-9e8f-8f7a1f6088d6@159.65.92.206:27774?security=none&e
 vless://c83014e0-ad3e-4ebd-9e8f-8f7a1f6088d6@159.65.92.206:27774?security=none&encryption=none&headerType=none&type=tcp#@V2rayAlpha🍤 4
 vless://c83014e0-ad3e-4ebd-9e8f-8f7a1f6088d6@159.65.92.206:27774?security=none&encryption=none&headerType=none&type=tcp#برای اتصال دائمی جوین شو🌐 TelegramID ⌲v2ray_configs_pools 🪩
 vless://c83014e0-ad3e-4ebd-9e8f-8f7a1f6088d6@159.65.92.206:27774?security=none&encryption=none&headerType=none&type=tcp#⏳@Proxy_Vpney پینگ نگیرید (5)
-vless://c83014e0-ad3e-4ebd-9e8f-8f7a1f6088d6@159.65.92.206:27774?security=none&encryption=none&headerType=none&type=tcp&brand=@Arvand_soul#@Arvand_soul @Arvand_soul ❤️🧑‍💻: کانفیگ ملی در
-vless://c83014e0-ad3e-4ebd-9e8f-8f7a1f6088d6@178.62.87.183:27774?security=none&encryption=none&headerType=none&type=tcp #best_internet_iran 💎
-vless://c83014e0-ad3e-4ebd-9e8f-8f7a1f6088d6@178.62.87.183:27774?security=none&encryption=none&headerType=none&type=tcp#@VPsave
