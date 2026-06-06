@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://ff246f65-8ecf-4e08-901e-3a15e09c68d0@varzesh3.com:80?type=ws&path=/&host=kabotar.garfar.ir&security=none#@imokping
-vless://ff665f2a-bfd8-4baa-87de-5b10c200086b@195.254.165.42:8080?security=none&type=tcp&headerType=http#@Hope_Net-join-us-on-Telegram
-vless://ff665f2a-bfd8-4baa-87de-5b10c200086b@195.254.165.42:8080?security=none&type=tcp&headerType=http#🇫🇷51748 | ⚡️Telegram = t.me/SOSkeyNET
 vless://ff665f2a-bfd8-4baa-87de-5b10c200086b@195.254.165.42:8080?security=none&type=tcp&headerType=http#🇮🇷IR-🚀@VPNine1
 vless://ff66dcb8-3ba2-4191-a255-9a590084c29c@hnmt.samentech.info:8443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=Node--USA.zarghamportal.ir&type=ws&allowInsecure=0&sni=Node--USA.zarghamportal.ir#@vmesskhodam
 vless://ff9307e6-f04a-4905-8cd4-7e690bd63eb8@104.17.119.248:8080?path=/eyJqdW5rIjoiYUVJQnRNVEk1MlJKUiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560&security=none&encryption=none&host=green-flower-361d.iamxenor.workers.dev&type=ws#@KAFING_2
@@ -503,3 +500,6 @@ vless://03bc875d-0d8e-49b6-9094-89a8159e65ee@91.107.191.12:29376?Telegram=@Gozar
 vless://0440e93c-a9d3-4998-aeaa-d0e2363131e4@172.64.48.201:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=rahammahar.photoazadeh9100.workers.dev&path=%2F&security=tls&sni=rahammahar.photoazadeh9100.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@OV-Italy1.09vpn.com:80?path=/vless/&security=&encryption=none&type=ws#%3E%3E%40configshub2%3A%3AIT
 vless://12cb0a24-0438-4980-8617-9c93205895fa@162.159.34.103:2083?encryption=none&fp=chrome&host=yellow-field-6ce5.kakoolnews.workers.dev&path=%2F&security=tls&sni=yellow-field-6ce5.kakoolnews.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://12cb0a24-0438-4980-8617-9c93205895fa@198.41.223.60:2083?allowInsecure=1&encryption=none&host=yellow-field-6ce5.kakoolnews.workers.dev&security=tls&sni=yellow-field-6ce5.kakoolnews.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@ov-italy1.09vpn.com:80?encryption=none&host=OV-Italy1.09vpn.com&path=%2Fvless%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AIT
+vless://0c61d46d-4c4d-421b-b0fb-d211415da368@52.14.47.44:443?security=&encryption=none&headerType=none&type=tcp#%3E%3E%40configV2rayNG%3A%3AUS
