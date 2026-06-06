@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://Config0plus@104.16.75.127:443?path=/id-tksi&security=tls&insecure=0&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=api24-normal.tiktokv.com.cyylr.eu.cc#@Net2ray Server🔥 3
-trojan://Config0plus@104.16.75.127:443?path=/id-tksi&security=tls&insecure=0&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=api24-normal.tiktokv.com.cyylr.eu.cc#@v2ray313 کانالمون 😐
-trojan://Config0plus@104.16.75.127:443?path=/id-tksi&security=tls&insecure=0&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=api24-normal.tiktokv.com.cyylr.eu.cc#🏳️‍🌈@FreakConfig
-trojan://Config0plus@104.16.75.127:443?path=/id-tksi&security=tls&insecure=0&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=api24-normal.tiktokv.com.cyylr.eu.cc#🏳️‍🌈@V2rayng_Fast
-trojan://Config0plus@104.16.75.127:443?path=/id-tksi&security=tls&insecure=0&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=api24-normal.tiktokv.com.cyylr.eu.cc&brand=@Arvand_soul#@Arvand_soul @Arvand_soul ❤️🧑‍💻: کانفیگ ملی در
 trojan://Config0plus@104.16.75.127:443?path=/id-tksi&security=tls&insecure=0&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=api24-normal.tiktokv.com.cyylr.eu.cc&brand=@Arvand_soul#@Arvand_soul @Arvand_soul ❤️🧑‍💻: کانفیگ ملی در #5
 trojan://Config0plus@104.16.75.127:443?type=ws&security=tls&path=/id-tksi&host=api24-normal.tiktokv.com.cyylr.eu.cc&sni=api24-normal.tiktokv.com.cyylr.eu.cc&allowInsecure=0#@meliproxyy
 trojan://Config0plus@104.19.229.21:443?path=/id-tksi&security=tls&host=api24-normal.tiktokv.com.cyylr.eu.cc&allowinsecure=0&type=ws&sni=api24-normal.tiktokv.com.cyylr.eu.cc#@meliproxyy
@@ -503,3 +498,8 @@ vless://0525f54a-568b-4f0b-89e5-c2666e800d83@188.114.99.160:8443?path=/downloade
 vless://0525f54a-568b-4f0b-89e5-c2666e800d83@188.114.99.160:8443?path=/downloader&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=matoride.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=matoride.adaspoloandco.com&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
 vless://053cebab-de6a-47a1-af86-ed49948dc289@104.16.75.127:443?path=/ca-cl&security=tls&encryption=none&insecure=1&host=www.genflix.co.id.r3xxe.eu.cc&type=ws&allowInsecure=1&sni=www.genflix.co.id.r3xxe.eu.cc#@HajmVPN_Config ⚡
 vless://053cebab-de6a-47a1-af86-ed49948dc289@104.16.75.127:443?path=/ca-cl&security=tls&encryption=none&insecure=1&host=www.genflix.co.id.r3xxe.eu.cc&type=ws&allowInsecure=1&sni=www.genflix.co.id.r3xxe.eu.cc#@HajmVPN_Config 🚀
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.246.85.191:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#@Hope_Net-join-us-on-Telegram
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.181.236.109:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#[72493] - Telegram : @V2All
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.181.236.109:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇩🇪52381 | ⚡️Telegram = t.me/SOSkeyNET
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.181.236.109:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇩🇪DE-🚀@VPNine1
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.185.124.176:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@v2ray_configs_pools
