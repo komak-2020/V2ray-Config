@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://I1vtf6pjYsAu-nFnraWAMjKTy90AHitdAz@91.233.8.25:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=fra34.tracker-ws.click#🇩🇪53731 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://I1vtf6pjYsAu-nFnraWAMjKTy90AHitdAz@91.233.8.25:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=fra34.tracker-ws.click&brand=@Arvand_soul#@Arvand_soul @Arvand_soul ❤️🧑‍💻: کانفیگ ملی در
 trojan://I1vtf6pjYsAu-nFnraWAMjKTy90AHitdAz@91.233.8.25:443?type=tcp&security=tls&headerType=none&sni=fra34.tracker-ws.click&allowInsecure=0#4https://t.me/ConfigX2ray
 trojan://IbezlLAYfrLRwFn9.mHn5FDwk1asLi599U@130.94.65.52:443?security=tls&headerType=none&type=tcp&sni=www.static-cast.click#@hi_proxy_iran :👈کانال تلگرام
 trojan://IbezlLAYfrLRwFn9.mHn5FDwk1asLi599U@130.94.65.52:443?type=tcp&security=tls&headerType=none&sni=www.static-cast.click&allowInsecure=0#@meliproxyy
@@ -501,5 +503,3 @@ vless://0a2f8145-290f-4848-a011-3d1e5fe62a14@45.130.125.194:8443?mode=auto&path=
 vless://0a2f8145-290f-4848-a011-3d1e5fe62a14@45.130.125.194:8443?mode=auto&path=/?ed=2053&security=tls&alpn=h3,h2&encryption=none&extra={"scMaxEachPostBytes":1000000,"scMaxConcurrentPosts":100,"scMinPostsIntervalMs":30,"xPaddingBytes":"100-1000","noGRPCHeader":false}&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=vi.new-persian-song.ir#@icv2ray
 vless://0a2f8145-290f-4848-a011-3d1e5fe62a14@45.130.125.194:8443?mode=auto&path=/?ed=2053&security=tls&alpn=h3,h2&encryption=none&fp=chrome&type=xhttp&sni=vi.new-persian-song.ir#@Vibe_Zoone|@MojeVazheh|@Radixvpn|@ForiMarketGp
 vless://0a2f8145-290f-4848-a011-3d1e5fe62a14@45.130.125.194:8443?mode=auto&path=/?ed=2053&security=tls&alpn=h3,h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=vi.new-persian-song.ir#@V2dogs_n
-vless://0a2f8145-290f-4848-a011-3d1e5fe62a14@45.130.125.194:8443?mode=auto&path=/?ed=2053&security=tls&alpn=h3,h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=vi.new-persian-song.ir#@bored_vpn
-vless://0a2f8145-290f-4848-a011-3d1e5fe62a14@45.130.125.194:8443?mode=auto&path=/?ed=2053&security=tls&alpn=h3,h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=vi.new-persian-song.ir#@confiig_hub

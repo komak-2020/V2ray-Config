@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://0a2f8145-290f-4848-a011-3d1e5fe62a14@45.130.125.194:8443?mode=auto&path=/?ed=2053&security=tls&alpn=h3,h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=vi.new-persian-song.ir#@bored_vpn
+vless://0a2f8145-290f-4848-a011-3d1e5fe62a14@45.130.125.194:8443?mode=auto&path=/?ed=2053&security=tls&alpn=h3,h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=vi.new-persian-song.ir#@confiig_hub
 vless://0a2f8145-290f-4848-a011-3d1e5fe62a14@45.130.125.194:8443?mode=auto&path=/?ed=2053&security=tls&alpn=h3,h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=vi.new-persian-song.ir#@mehrosaboran
 vless://0a2f8145-290f-4848-a011-3d1e5fe62a14@45.130.125.194:8443?mode=auto&path=/?ed=2053&security=tls&alpn=h3,h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=vi.new-persian-song.ir#@meliproxyy
 vless://0a2f8145-290f-4848-a011-3d1e5fe62a14@45.130.125.194:8443?mode=auto&path=/?ed=2053&security=tls&alpn=h3,h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=vi.new-persian-song.ir#@v2reya88 | @confinghub2
@@ -501,5 +503,3 @@ vless://36796640-99ff-4834-a43e-5336b6afe450@104.25.114.8:8443?mode=auto&path=/t
 vless://36796640-99ff-4834-a43e-5336b6afe450@104.25.114.8:8443?mode=auto&path=/take&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=s3.alivpn.qzz.io&fp=chrome&type=xhttp&allowInsecure=0&sni=s3.alivpn.qzz.io#telegram @mtmvpn 14
 vless://36796640-99ff-4834-a43e-5336b6afe450@141.101.121.194:8443?mode=auto&path=/take&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=s3.alivpn.qzz.io&fp=chrome&type=xhttp&allowInsecure=0&sni=s3.alivpn.qzz.io#@meliproxyy
 vless://36796640-99ff-4834-a43e-5336b6afe450@141.101.121.194:8443?mode=auto&path=/take&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=s3.alivpn.qzz.io&fp=chrome&type=xhttp&allowInsecure=0&sni=s3.alivpn.qzz.io#telegram @mtmvpn 20
-vless://36796640-99ff-4834-a43e-5336b6afe450@188.114.97.6:8443?mode=auto&path=/take&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=s3.alivpn.qzz.io&fp=chrome&type=xhttp&allowInsecure=0&sni=s3.alivpn.qzz.io#@meliproxyy
-vless://36796640-99ff-4834-a43e-5336b6afe450@188.114.97.6:8443?mode=auto&path=/take&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=s3.alivpn.qzz.io&fp=chrome&type=xhttp&allowInsecure=0&sni=s3.alivpn.qzz.io#telegram @mtmvpn 8

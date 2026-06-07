@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://36796640-99ff-4834-a43e-5336b6afe450@188.114.97.6:8443?mode=auto&path=/take&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=s3.alivpn.qzz.io&fp=chrome&type=xhttp&allowInsecure=0&sni=s3.alivpn.qzz.io#@meliproxyy
+vless://36796640-99ff-4834-a43e-5336b6afe450@188.114.97.6:8443?mode=auto&path=/take&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=s3.alivpn.qzz.io&fp=chrome&type=xhttp&allowInsecure=0&sni=s3.alivpn.qzz.io#telegram @mtmvpn 8
 vless://36796640-99ff-4834-a43e-5336b6afe450@188.114.98.76:8443?mode=auto&path=/take&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=s3.alivpn.qzz.io&fp=chrome&type=xhttp&allowInsecure=0&sni=s3.alivpn.qzz.io#@meliproxyy
 vless://36796640-99ff-4834-a43e-5336b6afe450@188.114.98.76:8443?mode=auto&path=/take&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=s3.alivpn.qzz.io&fp=chrome&type=xhttp&allowInsecure=0&sni=s3.alivpn.qzz.io#telegram @mtmvpn 12
 vless://3686e17d-3b01-48e3-bbc2-3ec7d141b815@blit2.hamrahcore.ir:719?security=none&allowInsecure=0&encryption=none&type=ws&host=play.google.com&path=/api/v2/xtrnwqjbkr?ed=2560#@Netzone_ir
@@ -501,5 +503,3 @@ vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@tunnle.izumii.ir:2009?security=none
 vless://5f2c8a1b-911f-422f-8a12-0d98b0d55fcb@151.101.108.223:443?path=/&security=tls&encryption=none&insecure=1&host=oijji.global.ssl.fastly.neT&type=ws&allowInsecure=1&sni=speedtest.net#@HajmVPN_Config 🚀
 vless://5f2c8a1b-911f-422f-8a12-0d98b0d55fcb@151.101.108.223:443?path=/&security=tls&encryption=none&insecure=1&host=oijji.global.ssl.fastly.neT&type=ws&allowInsecure=1&sni=speedtest.net#@vmessorg
 vless://5f6aa870-86fb-4381-8d2b-bd02c51b2043@panel.dibaux.ir:80?encryption=none&host=panel.dibaux.ir&path=/stream&security=none&type=ws#onnevpn-@onnevpn_bot-100.00GB📊-3D⏳
-vless://5fac0891-1969-414a-a71a-3d47f48aa6e1@45.77.64.108:38723?security=reality&encryption=none&pbk=fjVkBw3GtFj_P4rcY8Su2MCtY4YE5Obkrr9wfbCt0G8&headerType=none&fp=chrome&spx=/V4BmR75EBJnnj1K&allowinsecure=0&type=tcp&sni=aws.amazon.com&sid=19af4d59592013#SafeV2ray🇩🇪🍌
-vless://5fac0891-1969-414a-a71a-3d47f48aa6e1@45.77.64.108:38723?type=tcp&security=reality&encryption=none&sni=aws.amazon.com&pbk=fjVkBw3GtFj_P4rcY8Su2MCtY4YE5Obkrr9wfbCt0G8&sid=19af4d59592013&spx=/V4BmR75EBJnnj1K&fp=chrome&allowInsecure=1&headerType=none#@VPsave
