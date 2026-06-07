@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://5a23e6b2-3cd3-4475-898e-0885d71da6ec@154.38.116.8:443?encryption=none&security=tls&sni=us2.wxgqlfx.xyz&type=ws&host=us2.wxgqlfx.xyz&path=/TG@VPNine1&fp=chrome&alpn=http/1.1#🇭🇰HK-🚀@VPNine1
-vless://5a23e6b2-3cd3-4475-898e-0885d71da6ec@162.19.243.185:8443?encryption=none&security=tls&sni=us2.wxgqlfx.xyz&type=ws&host=us2.wxgqlfx.xyz&path=/TG@VPNine1&fp=chrome&alpn=http/1.1#🇫🇷FR-🚀@VPNine1
 vless://5a23e6b2-3cd3-4475-898e-0885d71da6ec@162.19.79.211:2053?encryption=none&security=tls&sni=us2.wxgqlfx.xyz&type=ws&host=us2.wxgqlfx.xyz&path=/TG@VPNine1&fp=chrome&alpn=http/1.1#🇫🇷FR-🚀@VPNine1
 vless://5a23e6b2-3cd3-4475-898e-0885d71da6ec@165.232.136.226:443?encryption=none&security=tls&sni=us2.wxgqlfx.xyz&type=ws&host=us2.wxgqlfx.xyz&path=/TG@VPNine1&fp=chrome&alpn=http/1.1#🇺🇸US-🚀@VPNine1
 vless://5a23e6b2-3cd3-4475-898e-0885d71da6ec@185.186.245.22:81?encryption=none&security=tls&sni=us2.wxgqlfx.xyz&type=ws&host=us2.wxgqlfx.xyz&path=/TG@VPNine1&fp=chrome&alpn=http/1.1#🇺🇸US-🚀@VPNine1
@@ -503,3 +501,5 @@ vless://827466ba-0910-4c48-b156-2f37fdbda362@193.23.222.99:55152?security=realit
 vless://827466ba-0910-4c48-b156-2f37fdbda362@193.23.222.99:55152?security=reality&encryption=none&pbk=fX2XkujtqhnkQDy-Lwgqm_OofDs1qO5ytvVNM6aV4C4&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cloudflare.com&sid=ddcac8ed#@outline_ir
 vless://827466ba-0910-4c48-b156-2f37fdbda362@193.23.222.99:55152?security=reality&encryption=none&pbk=fX2XkujtqhnkQDy-Lwgqm_OofDs1qO5ytvVNM6aV4C4&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cloudflare.com&sid=ddcac8ed#SPEED @REZ1VPN
 vless://827466ba-0910-4c48-b156-2f37fdbda362@193.23.222.99:55152?security=reality&encryption=none&pbk=fX2XkujtqhnkQDy-Lwgqm_OofDs1qO5ytvVNM6aV4C4&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cloudflare.com&sid=ddcac8ed#kurdconfig
+vless://827466ba-0910-4c48-b156-2f37fdbda362@193.23.222.99:55152?security=reality&encryption=none&pbk=fX2XkujtqhnkQDy-Lwgqm_OofDs1qO5ytvVNM6aV4C4&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cloudflare.com&sid=ddcac8ed&note=#@Ap_Ir6
+vless://829658bf-03c4-4c28-81e9-dd6ea141b2d0@188.114.98.0:443?path=/?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=5jq7fvwpqt5owo2fi198sa6qoxznkzfea7en4m3xroeqrt3u3q.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=5jq7fvwpqt5owo2fi198sa6qoxznkzfea7en4m3xroeqrt3u3q.zjde5.de5.net#@KAFING_2
