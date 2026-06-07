@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@149.202.58.99:443?path=/vws/&security=tls&encryption=none&host=bab-6.site&fp=chrome&type=ws&sni=bab-6.site#@hi_proxy_iran :👈کانال تلگرام
 vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@149.202.58.99:443?path=/vws/&security=tls&encryption=none&host=bab-6.site&fp=chrome&type=ws&sni=bab-6.site#🛸@V2ray_official
 vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@149.202.58.99:443?path=/vws/&security=tls&encryption=none&insecure=0&host=bab-6.site&fp=chrome&type=ws&allowInsecure=0&sni=bab-6.site#@Outline_ir
 vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@149.202.58.99:443?path=/vws/&security=tls&encryption=none&insecure=0&host=bab-6.site&fp=chrome&type=ws&allowInsecure=0&sni=bab-6.site#@bored_vpn
@@ -502,4 +503,3 @@ vless://e3115c84-266b-4c46-b3f2-16cc3263d555@85.234.73.125:13278?mode=gun&securi
 vless://e3115c84-266b-4c46-b3f2-16cc3263d555@speedtest.net:80?encryption=none&type=ws&path=/&host=pinghub.global.ssl.fastly.net#@meliproxyy
 vless://e3115c84-266b-4c46-b3f2-16cc3263d555@speedtest.net:80?path=/&security=&encryption=none&host=pinghub.global.ssl.fastly.net&type=ws#@vmesskhodam
 vless://e3115c84-266b-4c46-b3f2-16cc3263d555@speedtest.net:80?path=/&security=none&encryption=none&host=pinghub.global.ssl.fastly.net&type=ws#@VPsave
-vless://e3115c84-266b-4c46-b3f2-16cc3263d555@speedtest.net:80?path=/&security=none&encryption=none&host=pinghub.global.ssl.fastly.net&type=ws#@config_NG
