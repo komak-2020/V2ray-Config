@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://4311bd3f-4f66-4538-a624-221b87690b2c@188.114.97.6:2087?encryption=none&type=ws&security=tls&path=/fl?ed&host=mjtbknetmkhremge.ordak.qzz.io&sni=mjtbknetmkhremge.ordak.qzz.io&fp=chrome&allowInsecure=0#kurdconfig
-vless://4311bd3f-4f66-4538-a624-221b87690b2c@188.114.97.6:2087?path=/fl?ed=2560&security=tls&encryption=none&host=mjtbknetmkhremge.ordak.qzz.io&fp=chrome&type=ws&sni=mjtbknetmkhremge.ordak.qzz.io#@appsooner کانال تلگرام 🕊️
 vless://4311bd3f-4f66-4538-a624-221b87690b2c@188.114.97.6:2087?path=/fl?ed=2560&security=tls&encryption=none&host=mjtbknetmkhremge.ordak.qzz.io&fp=chrome&type=ws&sni=mjtbknetmkhremge.ordak.qzz.io#@confiig_hub
 vless://4311bd3f-4f66-4538-a624-221b87690b2c@188.114.97.6:2087?path=/fl?ed=2560&security=tls&encryption=none&insecure=0&host=mjtbknetmkhremge.ordak.qzz.io&fp=chrome&type=ws&allowInsecure=0&sni=mjtbknetmkhremge.ordak.qzz.io#@icv2ray
 vless://4311bd3f-4f66-4538-a624-221b87690b2c@188.114.97.6:443?encryption=none&type=ws&security=tls&path=/fl?ed&host=mjtbknetmkhremge.ordak.qzz.io&sni=mjtbknetmkhremge.ordak.qzz.io&alpn=http/1.1&fp=chrome&allowInsecure=0#🇨🇦57790 | ⚡️Telegram = t.me/SOSkeyNET
@@ -503,3 +501,5 @@ vless://71eba8ce-2ea8-48c4-9371-76c73a3d2632@varzesh3.com:80?type=ws&path=/&host
 vless://71ff6388-fbd5-462b-afbd-90630b13704f@62.60.214.161:35445?type=tcp&headerType=none#@v2rayconfigamir 5720
 vless://7255ad9b-e5c3-4d9f-be6d-b94caba00642@mizan.onetwothree123.ir:443?encryption=none&security=tls&sni=mizan.onetwothree123.ir&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=grpc&authority=mizan.onetwothree123.ir&serviceName=/59773/mehdi&mode=gun#🍒🎀𝑀𝐸𝐻𝒟𝐼🎀🍒
 vless://72639c63-427e-4d02-8a38-b3355caab152@162.159.245.44:8443?path=/&security=tls&encryption=none&insecure=0&host=young-field-911e.m38625271.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=young-field-911e.m38625271.workers.dev#kurdconfig
+vless://72639c63-427e-4d02-8a38-b3355caab152@162.159.245.81:8443?path=/&security=tls&encryption=none&insecure=0&host=young-field-911e.m38625271.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=young-field-911e.m38625271.workers.dev#kurdconfig
+vless://7270612b-49f6-4b04-999c-34d8263da767@108.162.195.45:443?encryption=none&host=picassooo.info&path=/aymdlws&security=tls&sni=picassooo.info&type=ws#🔔96@oneclickvpnkeys

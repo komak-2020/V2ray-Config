@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://a42fdac4-53c7-4a5d-8655-4168eecbe43d@65.109.181.18:27014?security=none&encryption=none&headerType=http&type=tcp#@outline_ir
-vless://a42fdac4-53c7-4a5d-8655-4168eecbe43d@65.109.181.18:27014?security=none&encryption=none&headerType=http&type=tcp#☑➜چنلمون: Express_freevpn@
 vless://a42fdac4-53c7-4a5d-8655-4168eecbe43d@65.109.181.18:27014?security=none&encryption=none&headerType=http&type=tcp#🇩🇪All⁸ | @AarazV2ray
 vless://a42fdac4-53c7-4a5d-8655-4168eecbe43d@65.109.181.18:27014?security=none&encryption=none&headerType=http&type=tcp#🇩🇪All⁸ | @FREE_VPN02
 vless://a42fdac4-53c7-4a5d-8655-4168eecbe43d@65.109.181.18:27014?security=none&encryption=none&headerType=http&type=tcp#🇩🇪All⁸ | @meliproxyy
@@ -503,3 +501,5 @@ vless://d78c12c4-6927-40b8-8550-ed9be00334da@217.179.6.84:443?security=reality&e
 vless://d7fa9374-3d62-4fac-b0d6-ddb3428b46ce@mizan.onetwothree123.ir:443?encryption=none&security=tls&sni=mizan.onetwothree123.ir&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=httpupgrade&host=mizan.onetwothree123.ir&path=/39947/mehdi#🍒🎀𝑀𝐸𝐻𝒟𝐼🎀🍒
 vless://d80e27b6-1dee-466a-8b18-8f64bfd66a60@104.24.17.48:2052?path=/&security=none&encryption=none&host=vxpor.positivsis.website&type=ws#amirhoseinvalian
 vless://d815c2de-d8fe-4db4-a107-fbc48bad9737@45.130.125.0:2053?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&insecure=0&host=de.download100.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=de.download100.ir#☁️ 𝗖𝗹𝗼𝘂𝗱𝗳𝗹𝗮𝗿𝗲 ³ [ 𝗖𝗗𝗡 ] 🇩🇪
+vless://d815c2de-d8fe-4db4-a107-fbc48bad9737@45.130.125.76:2053?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&insecure=0&host=IT.download100.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=iT.download100.ir#☁️ 𝗖𝗹𝗼𝘂𝗱𝗳𝗹𝗮𝗿𝗲 ⁸ [ 𝗖𝗗𝗡 ] 🇮🇹
+vless://d815c2de-d8fe-4db4-a107-fbc48bad9737@chatgpt.com:2053?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&insecure=0&host=Paris.download100.ir&type=xhttp&allowInsecure=0&sni=Paris.download100.ir#☁️ 𝗖𝗹𝗼𝘂𝗱𝗳𝗹𝗮𝗿𝗲  [ 𝗖𝗗𝗡 ] 🇫🇷
