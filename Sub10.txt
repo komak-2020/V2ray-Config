@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://394f6981-a782-4779-9a85-e6cf22935d93@178.249.213.177:8443?allowInsecure=1&encryption=none&security=tls&sni=jp1.fromblancwithlove.com&type=tcp#%3E%3E%40configshub2%3A%3AJP
 vless://394f6981-a782-4779-9a85-e6cf22935d93@185.156.47.96:8443?encryption=none&security=tls&sni=yyz-ca-01.fromblancwithlove.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ACA
 vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.35.228:8443?allowInsecure=1&encryption=none&security=tls&sni=de1.fromblancwithlove.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ADE
 vless://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.199:8443?allowInsecure=1&alpn=h2&encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ANL
@@ -503,3 +502,4 @@ vless://1043634e-8d9d-4736-83fa-f14ddc9d464c@188.114.97.6:443?encryption=none&ty
 vless://1043634e-8d9d-4736-83fa-f14ddc9d464c@188.114.97.6:443?encryption=none&type=ws&security=tls&path=%2Fid-amz&host=dfsuporte.garena.com.ex33r.eu.cc&sni=dfsuporte.garena.com.ex33r.eu.cc&allowInsecure=1#🔵@chillguy_vpn
 vless://a253ff3f-fb8d-4160-85e8-61b080f0f561@188.114.97.6:443?encryption=none&type=ws&security=tls&path=%2Fmy-mbv&host=dfsuporte.garena.com.ex33r.eu.cc&sni=dfsuporte.garena.com.ex33r.eu.cc&alpn=http%2F1.1&allowInsecure=2#PERSIANVIBEJun7-2`
 vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@tg.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#%E2%99%BE%EF%B8%8F%20%D0%91%D0%B5%D0%B7%D0%BB%D0%B8%D0%BC%D0%B8%D1%82%D0%BD%D1%8B%D0%B9%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%20%D0%BA%20Telegram
+vless://03bc875d-0d8e-49b6-9094-89a8159e65ee@91.107.191.12:29376?type=tcp&security=none#En_Vpn`
