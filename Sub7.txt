@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://Telegram-Parsashonam-12@188.114.97.6:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=cdn.limoo.blog&fp=chrome&type=ws&allowInsecure=0&sni=cdn.limoo.blog#@Parsashonam-6Jun
-vless://Telegram-Parsashonam-12@188.114.97.6:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=cdn.limoo.blog&fp=chrome&type=ws&allowInsecure=0&sni=cdn.limoo.blog#@vmesskhodam
 vless://Telegram-Parsashonam-12@188.114.97.6:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=cdn.limoo.blog&fp=chrome&type=ws&allowInsecure=0&sni=cdn.limoo.blog#🇩🇪 @FreakConfig
 vless://Telegram-Parsashonam-12@188.114.97.6:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=cdn.limoo.blog&fp=chrome&type=ws&allowInsecure=0&sni=cdn.limoo.blog#🛰️ Channel : @NitruStore 112
 vless://Telegram-Parsashonam-12@188.114.97.6:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=cdn.limoo.blog&fp=chrome&type=ws&allowInsecure=0&sni=cdn.limoo.blog&brand=@Arvand_soul#@Arvand_soul @Arvand_soul❤️🧑‍💻 کانفیگ ملی در
@@ -503,3 +501,5 @@ vless://d3d046fa-d372-430a-8ed9-083d62c44efb@45.130.125.194:8443?mode=auto&path=
 vless://d3d046fa-d372-430a-8ed9-083d62c44efb@45.130.125.194:8443?mode=auto&path=/?ed=2053&security=tls&encryption=none&alpn=h3,h2&echfq=none&fp=chrome&allowinsecure=0&type=xhttp&sni=vip.mojaz-persian-music.ir#kurdconfig
 vless://d3d59da0-31a4-45da-bf9e-373c6ab140db@62.60.251.131:45656?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#@filembad
 vless://d3d59da0-31a4-45da-bf9e-373c6ab140db@62.60.251.131:45656?security=none&encryption=none&headerType=none&type=tcp#@hex_proxy ³
+vless://d3d59da0-31a4-45da-bf9e-373c6ab140db@62.60.251.131:45656?security=none&encryption=none&headerType=none&type=tcp#🌀 v2ray_configs_pools
+vless://d3d59da0-31a4-45da-bf9e-373c6ab140db@62.60.251.131:45656?security=none&type=tcp&packetEncoding=xudp#@VPsave
