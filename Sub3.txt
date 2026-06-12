@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://039a1658-e86e-475f-a3a4-67cc249acada@81.177.212.44:443?encryption=none&type=tcp&security=reality&headerType=none&sni=sw1.panel11.ru&fp=chrome&insecure=1&allowInsecure=1&pbk=UQLa8BZNvHnwWL7pUnMbO046iRPh0jGhvA2xtjJRgQE&sid=8b263e22ba03b4c1&flow=xtls-rprx-vision#@meliproxyy
-vless://039a1658-e86e-475f-a3a4-67cc249acada@81.177.212.44:443?security=reality&encryption=none&pbk=UQLa8BZNvHnwWL7pUnMbO046iRPh0jGhvA2xtjJRgQE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sw1.panel11.ru&sid=8b263e22ba03b4c1#@filembad
-vless://039a1658-e86e-475f-a3a4-67cc249acada@81.177.212.44:443?security=reality&encryption=none&pbk=UQLa8BZNvHnwWL7pUnMbO046iRPh0jGhvA2xtjJRgQE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sw1.panel11.ru&sid=8b263e22ba03b4c1#@freenettir
 vless://039a1658-e86e-475f-a3a4-67cc249acada@81.177.212.44:443?security=reality&encryption=none&pbk=UQLa8BZNvHnwWL7pUnMbO046iRPh0jGhvA2xtjJRgQE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sw1.panel11.ru&sid=8b263e22ba03b4c1#@meliproxyy
 vless://039a1658-e86e-475f-a3a4-67cc249acada@81.177.212.44:443?security=reality&encryption=none&pbk=UQLa8BZNvHnwWL7pUnMbO046iRPh0jGhvA2xtjJRgQE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sw1.panel11.ru&sid=8b263e22ba03b4c1#Mix--@V2rayAlpha--15
 vless://039a1658-e86e-475f-a3a4-67cc249acada@81.177.212.44:443?security=reality&encryption=none&pbk=UQLa8BZNvHnwWL7pUnMbO046iRPh0jGhvA2xtjJRgQE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sw1.panel11.ru&sid=8b263e22ba03b4c1#🇩🇪@vmesskhodam
@@ -503,3 +500,6 @@ vless://33bd7d64-2b03-4b19-82e5-9610afde3c3d@de2.tgru.in:443?security=reality&en
 vless://33bd7d64-2b03-4b19-82e5-9610afde3c3d@es2.tgru.in:443?security=reality&encryption=none&pbk=5HItszJ7XSKexeNn6F9BSdJLXTfSiCDwUSqLi1Hxd2Q&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tgru.in&sid=cd85b2abe0feed49#@V2VODKA_A🇪🇸
 vless://33bd7d64-2b03-4b19-82e5-9610afde3c3d@fr.tgru.in:443?security=reality&encryption=none&pbk=5HItszJ7XSKexeNn6F9BSdJLXTfSiCDwUSqLi1Hxd2Q&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tgru.in&sid=cd85b2abe0feed49#@V2VODKA_A🇫🇷
 vless://33bd7d64-2b03-4b19-82e5-9610afde3c3d@nl.tgru.in:443?security=reality&encryption=none&pbk=5HItszJ7XSKexeNn6F9BSdJLXTfSiCDwUSqLi1Hxd2Q&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tgru.in&sid=3287e9988ca1e611#@V2VODKA_A🇳🇱
+vless://33bd7d64-2b03-4b19-82e5-9610afde3c3d@nl.tgru.in:8443?mode=auto&path=/&security=none&encryption=none&type=xhttp#@V2VODKA_A🇳🇱
+vless://33bd7d64-2b03-4b19-82e5-9610afde3c3d@ru.tgru.in:443?security=reality&encryption=none&pbk=5HItszJ7XSKexeNn6F9BSdJLXTfSiCDwUSqLi1Hxd2Q&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tgru.in&sid=cd85b2abe0feed49#@V2VODKA_A🇷🇺
+vless://33bd7d64-2b03-4b19-82e5-9610afde3c3d@tr.tgru.in:443?security=reality&encryption=none&pbk=5HItszJ7XSKexeNn6F9BSdJLXTfSiCDwUSqLi1Hxd2Q&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tgru.in&sid=cd85b2abe0feed49#@V2VODKA_A🇹🇷
