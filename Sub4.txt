@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://3d191784-762a-454c-8c36-61ae08a00305@del.fattsh8.ir:29113?security=reality&encryption=none&pbk=O022ghAvOsnRm9w68MKbfuyvlwWJsmytJBSj4F2dgkQ&headerType=&fp=chrome&spx=/&type=tcp&sni=aws.amazon.com&sid=2641062b76c9#@icv2ray
+vless://3d4ea5b8-501a-426c-8ba3-554e089bc1d9@cart.ankerios.ir:8443?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#@CUSTOMVPNSERVER
 vless://3d4ea5b8-501a-426c-8ba3-554e089bc1d9@cart.ankerios.ir:8443?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#@KAFING_2
 vless://3d4ea5b8-501a-426c-8ba3-554e089bc1d9@cart.ankerios.ir:8443?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#⚡Telegram =@CUSTOMVPNSERVER
 vless://3d6518df-cab2-4840-83fa-a0d0759d1309@31.77.134.144:443?security=reality&encryption=none&pbk=xHu-Rb1oSeNcFUwEOYJ3hNi1ZeRq40KNFms8v-AikHE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.nokia.com&sid=0011223344556677#@FarazV2ray
@@ -501,5 +503,3 @@ vless://6e0a18d3-2598-4a73-9a41-1030b165e447@inkie.mmrknight.app:80?path=/&secur
 vless://6e0a18d3-2598-4a73-9a41-1030b165e447@inkie.mmrknight.app:80?path=/&security=&encryption=none&host=play.google.com&type=httpupgrade#🇺🇸69033 | ⚡️Telegram = t.me/SOSkeyNET
 vless://6e0a18d3-2598-4a73-9a41-1030b165e447@inkie.mmrknight.app:80?path=/&security=none&encryption=none&host=play.google.com&type=httpupgrade#@  ♥️👈 تلگرام
 vless://6e0a18d3-2598-4a73-9a41-1030b165e447@inkie.mmrknight.app:80?path=/&security=none&encryption=none&host=play.google.com&type=httpupgrade#@prrofile_purple  ♥️👈 تلگرام
-vless://6e0a18d3-2598-4a73-9a41-1030b165e447@inkie.mmrknight.app:80?path=/&security=none&encryption=none&host=play.google.com&type=httpupgrade#🔵@chillguy_vpn
-vless://6e0f7207-a6cd-4ec8-a919-9578129ace3d@46.4.162.63:443?security=&encryption=none&headerType=&type=tcp#@icv2ray
