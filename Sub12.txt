@@ -1,9 +1,0 @@
-#profile-title: base64:8J+GkyBHaXQ6YmFycnktZmFyIHwgU3ViMTIg8J+UpQ==
-#profile-update-interval: 1
-#subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
-#support-url: https://github.com/barry-far/V2ray-config
-#profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@wstg.datasynctrue.online:443?path=%2Fapi%2Fconnect&security=tls&encryption=none&host=wstg.datasynctrue.online&type=ws#@v2reya88
-trojan://humanity@104.16.71.213:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@v2reya88
-trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&host=www.calmlunch.com&type=ws#
-trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#Channel%20id%3A%20%40internet_azad_2026%20%F0%9F%87%A8%F0%9F%87%A6
