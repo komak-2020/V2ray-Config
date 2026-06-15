@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://c61ec320-29f1-4e00-9272-8b676e6957b4@89.169.39.55:443?security=reality&encryption=none&pbk=Lbug_wz0y9xgKeDK44D9kuUap0fXzNKyv_nMJxnZRzU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=28a059440d3d5ba1#@v2raybaaz
+vless://c61ec320-29f1-4e00-9272-8b676e6957b4@89.169.39.55:443?security=reality&encryption=none&pbk=Lbug_wz0y9xgKeDK44D9kuUap0fXzNKyv_nMJxnZRzU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=28a059440d3d5ba1#@vpnbaz 🍭
 vless://c61ec320-29f1-4e00-9272-8b676e6957b4@89.169.39.55:443?security=reality&encryption=none&pbk=Lbug_wz0y9xgKeDK44D9kuUap0fXzNKyv_nMJxnZRzU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=28a059440d3d5ba1#NormanV2ray-323
 vless://c61ec320-29f1-4e00-9272-8b676e6957b4@89.169.39.55:443?security=reality&encryption=none&pbk=Lbug_wz0y9xgKeDK44D9kuUap0fXzNKyv_nMJxnZRzU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=28a059440d3d5ba1#✅  @vistav2ray  👈👈کانال ما ✅
 vless://c61ec320-29f1-4e00-9272-8b676e6957b4@89.169.39.55:443?security=reality&encryption=none&pbk=Lbug_wz0y9xgKeDK44D9kuUap0fXzNKyv_nMJxnZRzU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=28a059440d3d5ba1#❤️‍🔥 کانال تلگرام HiByeVPNN@
@@ -501,5 +503,3 @@ vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@chat.openai.com:443?path=/fp&securi
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@dx.mmhh.eu.cc:443?encryption=none&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws&host=hhlfy.twiladaphne.ndjp.net&path=/fp=chrome&packetEncoding=xudp#🇸🇬 Join+Telegram:@Farah_VPN 🇸🇬
 vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@162.159.36.20:2053?path=/&security=tls&encryption=none&insecure=0&host=ir1.airpanel.top&type=ws&allowInsecure=0&sni=ir1.airpanel.top#@v2rayngzendegimamad🕊️
 vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@162.159.36.20:2053?path=/&security=tls&encryption=none&insecure=1&host=ir1.airpanel.top&type=ws&allowInsecure=1&sni=ir1.airpanel.top&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
-vless://e60f7330-5c6e-48a0-80ce-e76492d17852@185.244.192.101:443?mode=packet-up&path=/ping&security=reality&encryption=none&pbk=ugUk7zRVpcxM3XwWMXQI8X9UFuKPqQvuN2hGY3tFM3Q&host=search.yahoo.com&fp=chrome&spx=/search;_ylt&type=xhttp&sni=search.yahoo.com&sid=b1eb854b#@V2dogs_n
-vless://e60f7330-5c6e-48a0-80ce-e76492d17852@185.244.192.101:443?mode=packet-up&path=/ping&security=reality&encryption=none&pbk=ugUk7zRVpcxM3XwWMXQI8X9UFuKPqQvuN2hGY3tFM3Q&host=search.yahoo.com&fp=chrome&spx=/search;_ylt&type=xhttp&sni=search.yahoo.com&sid=b1eb854b#@erfanandroid
