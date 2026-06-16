@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://73796e63-0000-4000-8000-000000000000@104.17.148.22:443?path=/sync&security=tls&host=hide.sasadism77.workers.dev&fp=chrome&type=ws&sni=hide.sasadism77.workers.dev#@filembad
+trojan://73796e63-0000-4000-8000-000000000000@104.17.148.22:443?path=/sync&security=tls&host=hide.sasadism77.workers.dev&fp=chrome&type=ws&sni=hide.sasadism77.workers.dev#🇨🇦73088 | ⚡️Telegram = t.me/SOSkeyNET
 trojan://73796e63-0000-4000-8000-000000000000@104.17.148.22:443?path=/sync&security=tls&host=hide.sasadism77.workers.dev&fp=chrome&type=ws&sni=hide.sasadism77.workers.dev#🚀@VPNine1
 trojan://86768774-70b2-4c15-80c3-02066fb1e3b6@104.21.39.202:443?host=zholli90.biggestqut.workers.dev&path=/152.32.181.246-44070&sni=zholli90.biggestqut.workers.dev&type=ws#⏰60@oneclickvpnkeys
 trojan://899205001001bba@ip2.feywebsite.ir:8443?mode=auto&path=/&security=tls&alpn=h2&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=sni3.asukasimp.com&fp=chrome&type=xhttp&allowInsecure=0&sni=sni3.asukasimp.com#@V2raySup0 | 🚀
@@ -501,5 +503,3 @@ vless://09548571-364e-4876-8e92-98f423e73913@a.r-o-o-t3.ir:443?security=reality&
 vless://09548571-364e-4876-8e92-98f423e73913@a.r-o-o-t3.ir:443?security=reality&encryption=none&pbk=nA87ol2_2BADZHfXhH00wy3fNe4R8TiGG_IQbzWbPnA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.linkedin.com&sid=56c96c1d14#@icv2ray
 vless://09548571-364e-4876-8e92-98f423e73913@a.r-o-o-t3.ir:443?security=reality&encryption=none&pbk=nA87ol2_2BADZHfXhH00wy3fNe4R8TiGG_IQbzWbPnA&host=www.linkedin.com&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.linkedin.com&sid=56c96c1d14#TEL:Father_vpn
 vless://09748875-9da3-440e-9809-9752e1dda1e4@38.244.137.198:443?security=reality&encryption=none&pbk=QXGsw1KqljvUiarkvFdBs3T1TeUQq4skwHFlsmbj31o&headerType=none&fp=chrome&spx=/&type=tcp&sni=google.com&sid=365c07ed#@v2rayngzendegimamad🕊️
-vless://098ad71d-c5f1-4e61-8df8-d3d21b6fc311@panel.hardvezoo.ir:2476?security=reality&encryption=none&pbk=vZIClKI7vhhV82hKZyiAdyoamDlOjz4zqwqmuR_1J3w&headerType=none&fp=chrome&type=tcp&sni=panel.hardvezoo.ir&sid=a713eda9121635c2#⚡@V2ray_official
-vless://09a4bf7f-f997-4174-8bef-9fab75aa186e@138.124.52.85:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=K7v4Rsxa-9lBsD_IQrzXREfIME_bFmwELHQAE3Yp1ng&security=reality&sid=b9988c11&sni=www.google.com&type=tcp#🇳🇱73077 | ⚡️Telegram = t.me/SOSkeyNET
