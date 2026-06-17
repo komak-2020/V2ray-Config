@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://f7e3ff36-276c-4477-b6d4-47257500d869@172.64.34.119:80?path=/?ed=3000&security=&encryption=none&host=pon.antalmani.mm.am&type=ws#🚀@VPNine1
-vless://f7e3ff36-276c-4477-b6d4-47257500d869@172.64.34.119:80?path=/?ed=3000&security=none&encryption=none&host=pon.antalmani.mm.am&type=ws#@FarazV2ray
 vless://f7e3ff36-276c-4477-b6d4-47257500d869@auth.vercel.com:80?path=/?ed=3000&security=&encryption=none&host=pon.antalmani.mm.am&type=ws#@NewsDarya
 vless://f7e3ff36-276c-4477-b6d4-47257500d869@auth.vercel.com:80?path=/?ed=3000&security=&encryption=none&host=pon.antalmani.mm.am&type=ws#Channel id: @ShadowProxy66 🇨🇦
 vless://f7e3ff36-276c-4477-b6d4-47257500d869@auth.vercel.com:80?path=/?ed=3000&security=none&encryption=none&host=pon.antalmani.mm.am&type=ws#@FarazV2ray
@@ -503,3 +501,5 @@ vless://266169d9-665f-4fed-b1a8-da29794ee3cd@berovps.masoodbiranvand-230.workers
 trojan://humanity@188.114.97.6:443?type=ws&amp%3Bsecurity=tls&amp%3Bpath=/assignment&amp%3Bhost=www.calmloud.com&amp%3Bsni=www.calmloud.com&amp%3Balpn=http/1.1&amp%3Binsecure=1#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20TROJAN%20%7C%20%40v2raych%20%231
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn9-33.vk-cdnvideo.com:8443?security=tls&amp%3Bencryption=none&amp%3Binsecure=0&amp%3BheaderType=none&amp%3Btype=tcp&amp%3BallowInsecure=0#%F0%9F%87%B7%F0%9F%87%B4%20RO%20%7C%20VLESS%20%7C%20%40v2raych%20%231
 vless://9d33dc91-fb84-4f96-d9b1-fe28a230a94f@5.223.42.211:443?security=reality&amp%3Bencryption=none&amp%3Bpbk=fXxqq2kGD1gwVUdFEHMtyxDudwQgQRWYz_YM02ONiW8&amp%3BheaderType=none&amp%3Bfp=chrome&amp%3Bspx=/x1&amp%3Btype=tcp&amp%3Bsni=www.faceit.com&amp%3Bsid=f7#%F0%9F%87%B8%F0%9F%87%AC%20SG%20%7C%20VLESS%20%7C%20%40v2rayexpress%20%231
+vless://89dd47b1-5677-44e6-85fc-7e52d4a2addc@109.205.63.187:443?security=reality&amp%3Bencryption=none&amp%3Bpbk=_1Z829fxl3oG_04DtAWpNtPbnwu0Y4n8C7bIwgCi8ww&amp%3BheaderType=none&amp%3Btype=tcp&amp%3Bflow=xtls-rprx-vision&amp%3Bsni=nl-rh-modx.webedg.net#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20VLESS%20%7C%20%40v2raying%20%231
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.168:8443?security=tls&amp%3Bencryption=none&amp%3BheaderType=none&amp%3Bfp=chrome&amp%3Btype=tcp&amp%3Bsni=cdn3-87.vk-cdnvideo.com#%F0%9F%87%B7%F0%9F%87%B4%20RO%20%7C%20VLESS%20%7C%20%40v2raying%20%231

@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://d27d0ec3-81b7-4f09-ba3d-788e27100b00@varzesh3.com:80?path=/&security=none&encryption=none&host=sajjad.panivo.ir&type=ws#@LumosConfig
-vless://d27d0ec3-81b7-4f09-ba3d-788e27100b00@varzesh3.com:80?path=/&security=none&encryption=none&host=sajjad.panivo.ir&type=ws#@prrofile_purple  ♥️👈 تلگرام
 vless://d27d0ec3-81b7-4f09-ba3d-788e27100b00@varzesh3.com:80?path=/&security=none&encryption=none&host=sajjad.panivo.ir&type=ws#kurdconfig
 vless://d2b29908-d015-4be8-a305-6e6a7d5ef00f@snapp.ir:2087?path=/BetForward&security=tls&alpn=h2,http/1.1,h3&encryption=none&insecure=0&host=dns.darafiq.ir&fp=chrome&type=ws&allowInsecure=0&sni=dns.darafiq.ir#V2RFA
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.245:2053?path=twitterfreecodessecurity&security=tls&encryption=none&type=ws&sni=a.ssll.gay#@Hope_Net-join-us-on-Telegram
@@ -503,3 +501,5 @@ vless://f7e3ff36-276c-4477-b6d4-47257500d869@172.64.149.54:80?path=/?ed=3000&sec
 vless://f7e3ff36-276c-4477-b6d4-47257500d869@172.64.149.54:80?path=/?ed=3000&security=none&encryption=none&host=pon.antalmani.mm.am&type=ws#@FarazV2ray
 vless://f7e3ff36-276c-4477-b6d4-47257500d869@172.64.34.119:80?path=/?ed=3000&security=&encryption=none&host=pon.antalmani.mm.am&type=ws#@NewsDarya
 vless://f7e3ff36-276c-4477-b6d4-47257500d869@172.64.34.119:80?path=/?ed=3000&security=&encryption=none&host=pon.antalmani.mm.am&type=ws#Channel id: @ShadowProxy66 🇨🇦
+vless://f7e3ff36-276c-4477-b6d4-47257500d869@172.64.34.119:80?path=/?ed=3000&security=&encryption=none&host=pon.antalmani.mm.am&type=ws#🚀@VPNine1
+vless://f7e3ff36-276c-4477-b6d4-47257500d869@172.64.34.119:80?path=/?ed=3000&security=none&encryption=none&host=pon.antalmani.mm.am&type=ws#@FarazV2ray

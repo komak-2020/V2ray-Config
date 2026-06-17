@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://32e32b00-b8ef-430c-b267-d141bc70e866@168.222.252.42:443?mode=auto&path=/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN&security=reality&encryption=none&pbk=XIRobh7wGiGvYVfywPRvTEeMbey6h45ZLE6K63laaxo&fp=chrome&spx=/&type=xhttp&sni=www.ya.ru&sid=dcc1#Begoo_VPN ¹⁷¹
-vless://331c4777-2c36-42ab-87af-f456efbe957c@94.182.107.242:38800?security=none&encryption=none&headerType=none&type=tcp#@Begoo_VPN ¹⁷⁷
 vless://33337adf-98da-48d0-a657-24cbdc6b1caa@162.19.236.48:443?security=reality&encryption=none&pbk=oUdfzSQKsYvxhG_fttIRTG72MV6tp9VD0zHjGvZMCiA&headerType=&fp=chrome&spx=/1D5uGOQuDs2murp&type=tcp&sni=www.google.com&sid=64#@confiig_hub
 vless://33337adf-98da-48d0-a657-24cbdc6b1caa@162.19.236.48:443?security=reality&encryption=none&pbk=oUdfzSQKsYvxhG_fttIRTG72MV6tp9VD0zHjGvZMCiA&headerType=none&fp=chrome&spx=/1D5uGOQuDs2murp&type=tcp&sni=www.google.com&sid=64#⚡@V2ray_official
 vless://33376978-b7e4-455b-b7db-e6a5d87aa8ed@ips.list.nonpath.ir:42542?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@v2raybaaz ⁵
@@ -503,3 +501,5 @@ vless://53feb5dd-9bb2-44ff-80ec-4d00debf1de4@erosan.appleseraj.ir:443?path=?ed=2
 vless://53feb5dd-9bb2-44ff-80ec-4d00debf1de4@solar.appleseraj.ir:2083?path=?ed=2048&security=tls&encryption=none&insecure=0&host=nurenbbbb.appleseraj.ir&fp=chrome&type=ws&allowInsecure=0&sni=nurenbbbb.appleseraj.ir#@prrofile_purple  ♥️👈 تلگرام
 vless://53feb5dd-9bb2-44ff-80ec-4d00debf1de4@solar.appleseraj.ir:2083?path=?ed=2048&security=tls&encryption=none&insecure=0&host=nurenbbbb.appleseraj.ir&fp=chrome&type=ws&allowInsecure=0&sni=nurenbbbb.appleseraj.ir#telegram @mtmvpn
 vless://5454343b-541b-4c96-8c2a-52e81079d124@51.44.16.107:31413?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=nMlxwhP34_5wFPscbso_hOfRDmsj9DonMpDSXUrnJR8&sid=ead3d6f82a9d&type=tcp&headerType=none#
+vless://5454343b-541b-4c96-8c2a-52e81079d124@51.44.16.107:31413?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=nMlxwhP34_5wFPscbso_hOfRDmsj9DonMpDSXUrnJR8&sid=ead3d6f82a9d&type=tcp&headerType=none#🇫🇷 t.me/Natrixo AA
+vless://5454343b-541b-4c96-8c2a-52e81079d124@51.44.16.107:31413?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=nMlxwhP34_5wFPscbso_hOfRDmsj9DonMpDSXUrnJR8&sid=ead3d6f82a9d&type=tcp&headerType=none#🇫🇷75905 | ⚡️Telegram = t.me/SOSkeyNET
