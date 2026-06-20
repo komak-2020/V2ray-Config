@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.251:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#🔵@chillguy_vpn
+vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.251:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#𝐃𝐀𝐋𝐓𝐎𝐍 𝐏𝐈𝐍𝐆🥐
+vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@lv.faygo.bot:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#@NewsDarya
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@lv.faygo.bot:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#🇱🇻LV-🚀@VPNine1
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@lv.faygo.bot:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#@NewsDarya
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@lv.faygo.bot:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#@hex_proxy ⁷
@@ -500,6 +503,3 @@ vless://953cf07c-a05e-4e38-9b80-d2edb46b128f@zone.tr1.netlume.ir:59699?encryptio
 vless://953cf07c-a05e-4e38-9b80-d2edb46b128f@zone.tr1.netlume.ir:59699?encryption=none&security=reality&sni=telewebion.ir&fp=chrome&pbk=7JOaNN3Z-PlrHTnW2PmdV-K3CwdFnzKjuSRFgd4E2xg&sid=f88fa86f62252dad&type=tcp&headerType=http&host=telewebion.ir&path=/assets#🇮🇷IR-🚀@VPNine1
 vless://953cf07c-a05e-4e38-9b80-d2edb46b128f@zone.tr1.netlume.ir:59699?encryption=none&security=reality&sni=telewebion.ir&fp=chrome&pbk=7JOaNN3Z-PlrHTnW2PmdV-K3CwdFnzKjuSRFgd4E2xg&sid=f88fa86f62252dad&type=tcp&headerType=http&host=telewebion.ir&path=/assets#🔵@chillguy_vpn
 vless://953cf07c-a05e-4e38-9b80-d2edb46b128f@zone.tr1.netlume.ir:59699?security=reality&encryption=none&pbk=7JOaNN3Z-PlrHTnW2PmdV-K3CwdFnzKjuSRFgd4E2xg&host=telewebion.ir&headerType=http&fp=chrome&type=tcp&sni=telewebion.ir&sid=f88fa86f62252dad#@erfanandroid
-vless://953cf07c-a05e-4e38-9b80-d2edb46b128f@zone.us1.f2gate.ir:47228?encryption=none&security=reality&sni=telewebion.ir&fp=chrome&pbk=FPwg4_Ajnx_RW2UPn1A1hvkFNIKeQvNgmbARisuFaQs&sid=52b956bba646f549&type=tcp&headerType=http&host=telewebion.ir&path=/assets#@Ap_Ir6
-vless://953cf07c-a05e-4e38-9b80-d2edb46b128f@zone.us1.f2gate.ir:47228?encryption=none&security=reality&sni=telewebion.ir&fp=chrome&pbk=FPwg4_Ajnx_RW2UPn1A1hvkFNIKeQvNgmbARisuFaQs&sid=52b956bba646f549&type=tcp&headerType=http&host=telewebion.ir&path=/assets#🇮🇷IR-🚀@VPNine1
-vless://955612f1-8eda-42f9-9fe6-46f83f68e6f4@164.90.230.100:17248?encryption=none&security=none&type=tcp&headerType=none#تخم مرغ 5 عدد زرده 1
