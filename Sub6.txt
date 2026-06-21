@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://78485147-82d0-4fc4-80cf-dd08c54bbaa1@app.mohammadaz2a.ir:39600?mode=auto&path=/static/javascripts/remoteEntry.js&security=reality&encryption=none&pbk=d42ZxYE57ip00pyGRuCufoy7fImR27Rv3XAMrQQNVXE&host=play.google.com&fp=chrome&spx=/DFDvLPxlY5iyiut&type=xhttp&sni=play.google.com&sid=0f#telegram @mtmvpn
 vless://7878a1a0-583c-4fba-841d-44ca4b1bcd47@fastru.phantom.direct:443?security=reality&encryption=none&pbk=wW4tZPP96i1H0NB4Ql1Qvqepf2ClQ9IsNhcxVdOVWkY&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=fastru.phantom.direct&sid=adc8372900bed89a#⭐️@ANA_SERVICE⭐️ثابت ip⭐️
 vless://7878a1a0-583c-4fba-841d-44ca4b1bcd47@fastsw.phantom.direct:443?security=reality&encryption=none&pbk=wW4tZPP96i1H0NB4Ql1Qvqepf2ClQ9IsNhcxVdOVWkY&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=fastsw.phantom.direct&sid=13171b0dd8985179#⭐️@ANA_SERVICE⭐️ثابت ip⭐️
 vless://7878a1a0-583c-4fba-841d-44ca4b1bcd47@fastsw.phantom.direct:443?security=reality&encryption=none&pbk=wW4tZPP96i1H0NB4Ql1Qvqepf2ClQ9IsNhcxVdOVWkY&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=fastsw.phantom.direct&sid=773353fbea287c00#⭐️@ANA_SERVICE⭐️ثابت ip⭐️
@@ -503,3 +502,4 @@ vless://921a2a0b-bfb9-445a-a4ec-d81769592d33@hm.khoycityman.ir:41319?security=&e
 vless://921a2a0b-bfb9-445a-a4ec-d81769592d33@hm.khoycityman.ir:443?encryption=none&security=reality&sni=www.yahoo.com&fp=chrome&pbk=cAprase508p_Y7olUKMa-aqER9NcBqaCZ8xyvll4Xgk&sid=edd3256dc1&spx=/zE5i3wltmjuE9Ml&type=tcp&headerType=none
 vless://921a2a0b-bfb9-445a-a4ec-d81769592d33@hm.khoycityman.ir:443?security=reality&encryption=none&pbk=cAprase508p_Y7olUKMa-aqER9NcBqaCZ8xyvll4Xgk&headerType=none&fp=chrome&spx=/zE5i3wltmjuE9Ml&type=tcp&sni=www.yahoo.com&sid=edd3256dc1
 vless://921a2a0b-bfb9-445a-a4ec-d81769592d33@hm.khoycityman.ir:443?security=reality&encryption=none&pbk=cAprase508p_Y7olUKMa-aqER9NcBqaCZ8xyvll4Xgk&headerType=none&fp=chrome&spx=/zE5i3wltmjuE9Ml&type=tcp&sni=www.yahoo.com&sid=edd3256dc1#@V2dogs_n
+vless://921a2a0b-bfb9-445a-a4ec-d81769592d33@hm.khoycityman.ir:443?security=reality&encryption=none&pbk=cAprase508p_Y7olUKMa-aqER9NcBqaCZ8xyvll4Xgk&headerType=none&fp=chrome&spx=/zE5i3wltmjuE9Ml&type=tcp&sni=www.yahoo.com&sid=edd3256dc1#@erfanandroid

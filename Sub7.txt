@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://921a2a0b-bfb9-445a-a4ec-d81769592d33@hm.khoycityman.ir:443?security=reality&encryption=none&pbk=cAprase508p_Y7olUKMa-aqER9NcBqaCZ8xyvll4Xgk&headerType=none&fp=chrome&spx=/zE5i3wltmjuE9Ml&type=tcp&sni=www.yahoo.com&sid=edd3256dc1#@erfanandroid
 vless://921a2a0b-bfb9-445a-a4ec-d81769592d33@hm.khoycityman.ir:443?security=reality&encryption=none&pbk=cAprase508p_Y7olUKMa-aqER9NcBqaCZ8xyvll4Xgk&headerType=none&fp=chrome&spx=/zE5i3wltmjuE9Ml&type=tcp&sni=www.yahoo.com&sid=edd3256dc1#@filembad
 vless://9229da01-d8d4-0d1a-0e33-eb59a8b25234@rvg-production-3182.up.railway.app:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/ws/9229da01-d8d4-0d1a-0e33-eb59a8b25234&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=&fp=chrome&type=ws&allowInsecure=0&sni=👉🆔freenettir📡🇺🇸®️United States©️San Francisco (Financial District)🅿️ping:172.11ms
 vless://9232a847-8f7d-4548-a23a-a8b3550e0f15@141.193.213.11:443?path=/id-tksi&security=tls&encryption=none&insecure=0&host=grabacademyportal.grab.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=grabacademyportal.grab.com.cyylr.eu.cc#@hopev2ray🤍
@@ -503,3 +502,4 @@ vless://a6349c3f-5234-4821-80b4-d99b33f0924d@45.196.224.233:8443?security=realit
 vless://a63daf4e-e245-4497-af49-9976c2ef51b7@188.114.97.6:443?path=/uploader.php&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=information.gamecenteriran.com&fp=chrome&type=ws&allowInsecure=0&sni=information.gamecenteriran.com#@prrofile_purple  ♥️👈 تلگرام
 vless://a6599ec4-6543-40c5-be54-ad90fc9c10ab@91.107.166.66:44728?security=reality&encryption=none&pbk=rOoltQhWKsF2PCZV4fIkxxsl7tg6-WUmQWMqJHEF6SM&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com&sid=dbb6ea0b#🇩🇪@FreakConfig
 vless://a7703bb9-3fc0-41d5-a931-9f6ee58e95d8@104.252.111.54:12595?security=none&encryption=none&headerType=http&type=tcp#17🐝Tel--@V2rayAlpha
+vless://a7703bb9-3fc0-41d5-a931-9f6ee58e95d8@104.252.111.54:12595?security=none&encryption=none&headerType=http&type=tcp#@ReleaseNet
