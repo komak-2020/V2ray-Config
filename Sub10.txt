@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://d23a1ce1-b6a6-4a58-b56b-1be6a1cd7d39@89.106.86.101:443?security=tls&alpn=http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=nlxeon41x611.potatosubge20.org#[🇳🇱]t.me/vmessorg
-vless://d23a1ce1-b6a6-4a58-b56b-1be6a1cd7d39@89.106.86.101:443?security=tls&alpn=http/1.1&encryption=none&insecure=0&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=nlxeon41x611.potatosubge20.org#@V2dogs_n 🇫🇷
-vless://d26598cf-2cdf-4219-80d0-94646dff160d@141.193.154.182:10000?security=&encryption=none&headerType=none&type=tcp#kurdconfig
-vless://d279f1b0-44b1-49ef-9670-f7ac855c017e@olds-1.lubbs.de:2086?path=/&security=none&encryption=none&host=beh2.salonemojallal.ir&type=httpupgrade#@mehrosaboran
-vless://d27d0ec3-81b7-4f09-ba3d-788e27100b00@varzesh3.com:80?path=/&security=none&encryption=none&host=sajjad.panivo.ir&type=ws#@prrofile_purple  ♥️👈 تلگرام
-vless://d296535e-1789-4149-8fb9-d84135401d5f@atts5vkx96ec.dxdx5.com:443?path=/tostream&security=tls&alpn=h2&encryption=none&host=atts5vkx96ec.dxdx5.com&fp=chrome&type=ws&sni=atts5vkx96ec.dxdx5.com#@appsooner کانال تلگرام 🕊️
 vless://d296535e-1789-4149-8fb9-d84135401d5f@atts5vkx96ec.dxdx5.com:443?path=/tostream&security=tls&alpn=h2&encryption=none&insecure=0&host=atts5vkx96ec.dxdx5.com&fp=chrome&type=ws&allowInsecure=0&sni=atts5vkx96ec.dxdx5.com#@bored_vpn
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.66.47.45:2083?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=wk1.f1w.de5.net&path=/&security=tls&sni=wk1.f1w.de5.net&type=ws#🚀@VPNine1
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.245:2053?path=twitterfreecodessecurity&security=tls&encryption=none&type=ws&sni=a.ssll.gay#@Hope_Net-join-us-on-Telegram
@@ -503,3 +497,9 @@ vless://f2390f38-ec10-4c25-a726-c0709b77330f@45.195.110.104:8443?security=realit
 vless://f2390f38-ec10-4c25-a726-c0709b77330f@45.195.110.104:8443?security=reality&encryption=none&pbk=66-fz0xjwauydj29EfFKyPHjJ2CIGaGSsJ6hsB--zAc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=6ecdb111a4e57f94#🇫🇮Filterboro☆3
 vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@104.16.72.162:8443?path=/&security=tls&encryption=none&insecure=0&host=srv37.hamiibar.com&fp=chrome&type=ws&allowInsecure=0&sni=srv37.hamiibar.com#@hopev2ray💚
 vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@45.130.125.114:8443?path=/&security=tls&encryption=none&insecure=0&host=srv10.perfectbulk.info&fp=chrome&type=ws&allowInsecure=0&sni=srv10.perfectbulk.info#@ehsawn8
+vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@45.130.125.114:8443?path=/&security=tls&encryption=none&insecure=0&host=srv10.perfectbulk.info&fp=chrome&type=ws&allowInsecure=0&sni=srv10.perfectbulk.info#@iguanaVPN3
+vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@45.130.125.114:8443?path=/&security=tls&encryption=none&insecure=0&host=srv75.perfectbulk.info&fp=chrome&type=ws&allowInsecure=0&sni=srv75.perfectbulk.info#@iguanaVPN1
+vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@45.130.125.158:8443?path=/&security=tls&encryption=none&host=srv03.perfectbulk.info&fp=chrome&type=ws&sni=srv03.perfectbulk.info#@outline_ir
+vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@45.130.125.158:8443?path=/&security=tls&encryption=none&host=srv03.perfectbulk.info&fp=chrome&type=ws&sni=srv03.perfectbulk.info#@vmess_ir
+vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@45.130.125.158:8443?path=/&security=tls&encryption=none&insecure=0&host=srv03.perfectbulk.info&fp=chrome&type=ws&allowInsecure=0&sni=srv03.perfectbulk.info#@Soul737
+vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@45.130.125.158:8443?path=/&security=tls&encryption=none&insecure=0&host=srv03.perfectbulk.info&fp=chrome&type=ws&allowInsecure=0&sni=srv03.perfectbulk.info#@V2dogs_n

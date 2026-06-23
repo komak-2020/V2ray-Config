@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://6253100c-3ff4-42d9-b183-7fe46e5a9039@euro.cloud-play.ir:80?mode=auto&path=/&security=none&encryption=none&extra={"xPaddingBytes":"100-1000"}&host=xenoengineer.com&type=xhttp#@flyv2ray
-vless://6253100c-3ff4-42d9-b183-7fe46e5a9039@global.cloud-play.ir:80?mode=auto&path=/&security=none&encryption=none&extra={"xPaddingBytes":"100-1000"}&host=xenoengineer.com&type=xhttp#@flyv2ray
-vless://6253100c-3ff4-42d9-b183-7fe46e5a9039@irancell.cloud-play.ir:80?encryption=none&extra={"xPaddingBytes":"100-1000"}&host=xenoengineer.com&mode=auto&path=/&security=none&type=xhttp&x_padding_bytes=100-1000#kurdconfig
-vless://6253100c-3ff4-42d9-b183-7fe46e5a9039@local.cloud-play.ir:80?encryption=none&extra={"xPaddingBytes":"100-1000"}&host=xenoengineer.com&mode=auto&path=/&security=none&type=xhttp&x_padding_bytes=100-1000#kurdconfig
-vless://6253100c-3ff4-42d9-b183-7fe46e5a9039@local.cloud-play.ir:80?mode=auto&path=/&security=none&encryption=none&extra={"xPaddingBytes":"100-1000"}&host=xenoengineer.com&type=xhttp#@flyv2ray
-vless://6253100c-3ff4-42d9-b183-7fe46e5a9039@mci.cloud-play.ir:80?mode=auto&path=/&security=&encryption=none&extra={"xPaddingBytes":"100-1000"}&host=xenoengineer.com&type=xhttp#@TEHRANARGO
 vless://6253100c-3ff4-42d9-b183-7fe46e5a9039@mci.cloud-play.ir:80?mode=auto&path=/&security=&encryption=none&extra={"xPaddingBytes":"100-1000"}&host=xenoengineer.com&type=xhttp#@configprxy
 vless://6253100c-3ff4-42d9-b183-7fe46e5a9039@mci.cloud-play.ir:80?mode=auto&path=/&security=none&encryption=none&extra={"xPaddingBytes":"100-1000"}&host=xenoengineer.com&type=xhttp#@flyv2ray
 vless://6263516e-13f4-4a29-8c6b-a999aafa438b@185.231.115.48:2053?type=tcp&security=none&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
@@ -503,3 +497,9 @@ vless://89049f79-320b-48a0-b1cf-110165cae30c@37.156.45.237:2083?security=reality
 vless://890cb407-0d00-4337-9e5d-b4df06a1635c@172.104.53.198:443?path=/&security=tls&encryption=none&insecure=0&host=auv.vavava.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=auv.vavava.kdns.fr#@Config0plus تلگرام🚀🏴󠁧󠁢󠁥󠁮󠁧󠁿
 vless://890cb407-0d00-4337-9e5d-b4df06a1635c@172.104.53.198:443?path=/&security=tls&encryption=none&insecure=0&host=auv.vavava.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=auv.vavava.kdns.fr#🔵@chillguy_vpn
 vless://890cb407-0d00-4337-9e5d-b4df06a1635c@18.143.76.130:443?path=/?ed=2560&security=tls&fragment=1,40-60,30-50,tlshello&encryption=none&insecure=0&host=auv.vavava.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=auv.vavava.kdns.fr#@Config0plus تلگرام🚀🇨🇦
+vless://890cb407-0d00-4337-9e5d-b4df06a1635c@18.143.76.130:443?security=tls&sni=auv.vavava.kdns.fr&alpn=&fp=chrome&type=ws&host=auv.vavava.kdns.fr&path=/?ed=2560&fragment=1,40-60,30-50,tlshello&encryption=none
+vless://890cb407-0d00-4337-9e5d-b4df06a1635c@18.143.76.130:443?security=tls&sni=auv.vavava.kdns.fr&alpn=&fp=chrome&type=ws&host=auv.vavava.kdns.fr&path=/?ed=2560&fragment=1,40-60,30-50,tlshello&encryption=none#🔵@chillguy_vpn
+vless://890cb407-0d00-4337-9e5d-b4df06a1635c@38.75.221.32:443?encryption=none&security=tls&sni=auv.vavava.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=auv.vavava.kdns.fr&path=/#🔵@chillguy_vpn
+vless://890cb407-0d00-4337-9e5d-b4df06a1635c@43.165.175.34:443?path=/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=auv.vavava.kdns.fr#@vmesskhodam
+vless://8937c203-8ec6-477f-830b-939992cba4eb@local.connectingissues.ir:80?mode=auto&path=/?ed=2048&security=&encryption=none&extra={"scMaxEachPostBytes":"1000000","scMinPostsIntervalMs":"30","xPaddingBytes":"100-1000"}&host=shirin-kose.de&type=xhttp#⚜️𝗝𝗼𝗶𝗻 ➠ @Soul737
+vless://8937c203-8ec6-477f-830b-939992cba4eb@local.connectingissues.ir:80?mode=auto&path=/?ed=2048&security=&encryption=none&extra={"scMaxEachPostBytes":"1000000","scMinPostsIntervalMs":"30","xPaddingBytes":"100-1000"}&host=shirin-kose.de&type=xhttp#⚜️𝗝𝗼𝗶𝗻 ➠ @TEHRANARGO
