@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.165:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#@icv2ray
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.168:8443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=cdn3-87.vk-cdnvideo.com#@appsooner کانال تلگرام 🕊️
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.168:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#@V2raySup0 🚀
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.168:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#⚡Tel: @Proxy_Vpney (2)
@@ -503,3 +502,4 @@ vless://ab24fb72-09dc-4e84-956c-19e076f7b3fa@9sbisocj5c11.dxdx5.com:33982?path=/
 vless://ab24fb72-09dc-4e84-956c-19e076f7b3fa@9sbisocj5c11.dxdx5.com:33982?path=/store&security=none&encryption=none&host=play.google.com&type=ws#@ReleaseNet
 vless://ab24fb72-09dc-4e84-956c-19e076f7b3fa@9sbisocj5c11.dxdx5.com:33982?path=/store&security=none&encryption=none&host=play.google.com&type=ws#@meliproxyy
 vless://ab67fdd6-f86c-431b-b0ed-ceb2073a42a0@www.cdnwizardxray.com.vidboxco.ir:443?encryption=none&type=ws&security=tls&path=/?ed=2048&sni=test2.iranvatanam.com&alpn=h3,h2,http/1.1&fp=chrome&insecure=0&allowInsecure=0#@meliproxyy
+vless://ab67fdd6-f86c-431b-b0ed-ceb2073a42a0@www.sourceforge.net:2086?path=/&security=none&encryption=none&host=test2.iranvatanam.com&type=httpupgrade#@NETMelliAnti

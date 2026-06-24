@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://5de6c5e2-de2e-4656-96aa-102985752504@pl.xenovpn.top:44443?security=reality&encryption=none&pbk=42gKBD7vt3Z4UFue8D7diHw6iKmwcsYSXlbzNz2c-QQ&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=pl.xenovpn.top#⭐️@ANA_SERVICE⭐️
 vless://5de6c5e2-de2e-4656-96aa-102985752504@r1bs.xenovpn.top:2443?security=reality&encryption=none&pbk=TRCcTuW5ZZOez52Hz6KMUWZGpGiaNHgIsWEa3DZ0DHE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=rutube.ru#⭐️@ANA_SERVICE⭐️
 vless://5de6c5e2-de2e-4656-96aa-102985752504@ru.xenovpn.top:443?security=reality&encryption=none&pbk=M-dHxwO6EEfi0PR44S2p2-TZ0McIVNCj2FF_au-gXGc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.xenovpn.top#⭐️@ANA_SERVICE⭐️
 vless://5de6c5e2-de2e-4656-96aa-102985752504@tr.xenovpn.top:443?security=reality&encryption=none&pbk=t7yDXjrCPnj8bdpCVSmWYHN0JJDRMFFwe03x5-AYJW4&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=tr.xenovpn.top&sid=ce53c9226f8fbee3#⭐️@ANA_SERVICE⭐️
@@ -503,3 +502,4 @@ vless://833f628c-1d6b-4dd1-89c9-40a8320f1a2c@144.31.159.84:443?encryption=none&f
 vless://83a589e2-3680-4bc2-a4e6-ed8f2d2452b4@188.114.97.6:2096?mode=gun&security=tls&encryption=none&insecure=0&type=grpc&serviceName=entekhab.ir.iribnews.ir.alalamtv.net.sharghdaily.com.ifpnews.com.alef.ir.hamshahrionline.ir&allowInsecure=0&sni=emotioNAl-haPPInEsswO85E1O13D.oNeeAt.co#TEL;Father_vpn
 vless://83bea1c3-4386-44cc-96de-e72e529a4244@s2.cvbesty.ir:58784?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=THDZjFEtOb85UM7wb9gMkaQeL2sJBarNw4RJ-mBrdWM&sid=3f5684&spx=/&type=grpc#Channel : @Daily_Configs
 vless://83bea1c3-4386-44cc-96de-e72e529a4244@s2.cvbesty.ir:58784?mode=gun&security=reality&encryption=none&pbk=THDZjFEtOb85UM7wb9gMkaQeL2sJBarNw4RJ-mBrdWM&fp=chrome&spx=/&type=grpc&sni=yahoo.com&sid=3f5684#@ReleaseNet
+vless://83bea1c3-4386-44cc-96de-e72e529a4244@s2.cvbesty.ir:58784?mode=gun&security=reality&encryption=none&pbk=THDZjFEtOb85UM7wb9gMkaQeL2sJBarNw4RJ-mBrdWM&fp=chrome&spx=/&type=grpc&sni=yahoo.com&sid=3f5684#@bored_vpn

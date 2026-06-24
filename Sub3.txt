@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://humanity@188.114.97.6:443?type=ws&security=tls&path=/assignment&sni=www.creationlong.org&insecure=0&allowInsecure=0#@meliproxyy
 trojan://humanity@188.114.98.0:443?host=www.creationlong.org&path=/assignment&sni=www.creationlong.org&type=ws#🐬36@oneclickvpnkeys
 trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#@appsooner کانال تلگرام 🕊️
 trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#@v2rayNplus
@@ -503,3 +502,4 @@ vless://13bdb27c-d773-4bb9-a15b-587eac2ba975@26000.accuratenetworkchecker.ir:443
 vless://13e8b1f7-7536-4ce8-8e8c-9e11bde7af3a@188.213.198.238:4050?security=&encryption=none&headerType=none&type=tcp#telegram @mtmvpn
 vless://13e8b1f7-7536-4ce8-8e8c-9e11bde7af3a@188.213.198.238:7080?security=&encryption=none&headerType=none&type=tcp#telegram @mtmvpn
 vless://13e8b1f7-7536-4ce8-8e8c-9e11bde7af3a@188.213.198.238:8090?security=&encryption=none&headerType=none&type=tcp#telegram @mtmvpn
+vless://13eca667-1903-4afd-b1e7-9f2608732e8a@ukr.arain-gogamecenter.ir:16005?security=reality&encryption=none&pbk=jFzJOAfxCMzSGXqfwwQeoUazA_9KYnypFoIblqQEhzY&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=e222b3afe4e26060#@SONIC_2524 کانال روبیکا و تلگرام 🕊⭐️

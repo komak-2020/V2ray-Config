@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://ab67fdd6-f86c-431b-b0ed-ceb2073a42a0@www.sourceforge.net:2086?path=/&security=none&encryption=none&host=test2.iranvatanam.com&type=httpupgrade#@NETMelliAnti
 vless://ab67fdd6-f86c-431b-b0ed-ceb2073a42a0@www.sourceforge.net:2086?path=/&security=none&encryption=none&host=test2.iranvatanam.com&type=httpupgrade#[81682] - Telegram : @V2All
 vless://abd880a5-d08f-4dfe-b8f5-d4b61892163a@37.77.104.182:443?security=reality&encryption=none&pbk=fTr_LAmKQdYpAhijlApm1kMjS8_11Y9HMKconlHmZWE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=e8d2a1b4c39f8877#@V2VODKA_A🇷🇺
 vless://abd880a5-d08f-4dfe-b8f5-d4b61892163a@37.77.104.182:443?security=reality&encryption=none&pbk=fTr_LAmKQdYpAhijlApm1kMjS8_11Y9HMKconlHmZWE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=e8d2a1b4c39f8877#اگه میخوای قطع نشی جوین شو : @farsiproxy
@@ -503,3 +502,4 @@ vless://d27a232b-de94-4204-9bae-b0c243c6b93c@167.82.101.251:443?path=/&security=
 vless://d27a232b-de94-4204-9bae-b0c243c6b93c@167.82.101.251:443?path=/&security=tls&encryption=none&insecure=1&host=newip.global.ssl.fastly.neT.&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#@tootffarangi🍓-9
 vless://d27a232b-de94-4204-9bae-b0c243c6b93c@167.82.101.251:443?path=/&security=tls&encryption=none&insecure=1&host=newip.global.ssl.fastly.neT.&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#🔵@chillguy_vpn
 vless://d27a232b-de94-4204-9bae-b0c243c6b93c@fast.cd-tur4.ir:443?encryption=none&type=ws&security=tls&path=/&host=newip.global.ssl.fastly.neT.&sni=default.ssl.fastly.net&insecure=1&allowInsecure=1#@v2rayNGcloud
+vless://d27d0ec3-81b7-4f09-ba3d-788e27100b00@varzesh3.com:80?path=/&security=none&encryption=none&host=sajjad.panivo.ir&type=ws#@prrofile_purple  ♥️👈 تلگرام
