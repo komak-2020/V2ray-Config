@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://3515fab9-6e91-467f-b30a-7c17f0dafae5@57.129.63.152:2053?encryption=none&security=tls&sni=ez-01eeff.ezaccess19f879f.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=ez-01eeff.ezaccess19f879f.workers.dev&path=/proxyip=94.131.123.74?u=135bd1e8e1#🇩🇪DE-🚀@VPNine1
 vless://3515fab9-6e91-467f-b30a-7c17f0dafae5@57.129.63.152:2053?encryption=none&security=tls&sni=ez-01eeff.ezaccess19f879f.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=ez-01eeff.ezaccess19f879f.workers.dev&path=/proxyip=94.131.123.74?u=135bd1e8e1#🔵@chillguy_vpn
 vless://3515fab9-6e91-467f-b30a-7c17f0dafae5@62.133.60.66:8443?encryption=none&security=tls&sni=ez-01eeff.ezaccess19f879f.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=ez-01eeff.ezaccess19f879f.workers.dev&path=/proxyip=94.131.123.74?u=135bd1e8e1#🔵@chillguy_vpn
 vless://3515fab9-6e91-467f-b30a-7c17f0dafae5@8.39.125.122:8443?encryption=none&security=tls&sni=ez-01eeff.ezaccess19f879f.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=ez-01eeff.ezaccess19f879f.workers.dev&path=/proxyip=94.131.123.74?u=135bd1e8e1#🔵@chillguy_vpn
@@ -502,4 +503,3 @@ vless://5768d6cf-2e1a-44cd-84d7-664d518d8d4c@82.40.62.159:37595?security=none&en
 vless://577581e7-d526-42f1-adb0-6559357b0575@5.75.207.247:2360?security=reality&encryption=none&pbk=KTAuJl8Ga2u2IZmfizQj6yEw3fOcqxLeYVhCA_r1wmQ&headerType=none&fp=chrome&spx=/fVVtZafM4VTSeQA&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=e35b#@ReleaseNet
 vless://577581e7-d526-42f1-adb0-6559357b0575@5.75.207.247:2360?security=reality&encryption=none&pbk=KTAuJl8Ga2u2IZmfizQj6yEw3fOcqxLeYVhCA_r1wmQ&host=//?ed=2560/JOIN/Proxy_Se7en&headerType=none&fp=chrome&spx=/fVVtZafM4VTSeQA&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=e35b#Proxy_Se7en
 vless://577581e7-d526-42f1-adb0-6559357b0575@5.75.207.247:2886?security=reality&encryption=none&pbk=cKOOhuCGj6qHK3znJDGnoG9DTJOJK_GZ_r7A68xi_DM&headerType=none&fp=chrome&spx=/KF3aPULpT5TYVqb&type=tcp&flow=xtls-rprx-vision&sni=www.oracle.com&sid=903c2ca9307a41f9#@ReleaseNet
-vless://577581e7-d526-42f1-adb0-6559357b0575@5.75.207.247:2886?security=reality&encryption=none&pbk=cKOOhuCGj6qHK3znJDGnoG9DTJOJK_GZ_r7A68xi_DM&host=//?ed=2560/JOIN/V2&headerType=none&fp=chrome&spx=/KF3aPULpT5TYVqb&type=tcp&flow=xtls-rprx-vision&sni=www.oracle.com&sid=903c2ca9307a41f9#Proxy_Se7en
