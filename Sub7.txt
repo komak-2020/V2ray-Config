@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://8847d8ad-19e1-4220-9c7a-6d3255e895b0@172.66.47.69:2096?path=/ws?ed=2560&security=tls&encryption=none&insecure=0&host=pLeAsEbEttErCalLsAuL.hOzhEeN.iR&fp=chrome&type=ws&allowInsecure=0&sni=ce144e7aafbcebb8.hozheen.ir#@SONIC_2524 کانال روبیکا و تلگرام 🕊⭐️
-vless://885d8e08-49f5-4b8f-b9cd-63d743f1c54d@v2tr.imesaagetext.ir:2081?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=client.imesaagetext.ir#Telegram : @V2ynpv
 vless://887ad9d0-85bd-495f-b4af-10b066d32b9c@5.75.200.19:31742?authority=&encryption=none&fp=chrome&mode=multi&pbk=awJWCmY2Ba9kY_dZj7nSylvtzAP1I5unwa_xp6qrvGA&security=reality&serviceName=&sid=16&sni=play.google.com&spx=/EltGJv6ZnEV16NH&type=grpc#@MimiTdl🔥
 vless://887ad9d0-85bd-495f-b4af-10b066d32b9c@65.109.177.195:5742?authority=&encryption=none&fp=chrome&mode=multi&pbk=awJWCmY2Ba9kY_dZj7nSylvtzAP1I5unwa_xp6qrvGA&security=reality&serviceName=&sid=8e354dc7dcee03fe&sni=play.google.com&spx=/PPidHlXz6pKOirC&type=grpc#@MimiTdl🔥
 vless://88e32d76-b49f-44ee-a90a-1ad01d542d55@104.16.43.192:2083?path=/eyJqdW5rIjoiOWc3WUROOHZXemEiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=ez-2cb1f5.sabzipolobamahi9.workers.dev&fp=chrome&type=ws&sni=ez-2cB1f5.sabZIpolObAMAHi9.WORkerS.deV#🇩🇪 @V2ngFast
@@ -503,3 +501,5 @@ vless://9b2558ad-f869-1bc9-283e-978ba192712d@homa.letsconnectu.com:1000?encrypti
 vless://9b6438bf-ad00-49b6-9752-0bc82899165f@n8.ramito.ir:2052?path=/&security=&encryption=none&type=ws#@TEHRANARGO丨چنل تلگرام
 vless://9b6438bf-ad00-49b6-9752-0bc82899165f@n8.ramito.ir:2052?path=/&security=&encryption=none&type=ws#@configprxy丨چنل تلگرام
 vless://9b6438bf-ad00-49b6-9752-0bc82899165f@n8.ramito.ir:2052?path=/&security=&encryption=none&type=ws#@meliproxyy
+vless://9b6438bf-ad00-49b6-9752-0bc82899165f@n8.ramito.ir:2052?path=/&security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=ws#@MARAMBASHI 💙
+vless://9b6438bf-ad00-49b6-9752-0bc82899165f@n8.ramito.ir:2052?path=/&security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=ws#@Soul737

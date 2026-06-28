@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://36a99843-3a94-4d0d-bedb-26ac4c3afb36@wow.internetherfei.lol:52716?alpn=h2,http/1.1&encryption=none&security=tls&sni=wow.internetherfei.lol&type=tcp#☀️38@oneclickvpnkeys
-vless://371dd7e4-c3ff-42de-aebc-0ab3bc62fb2d@188.114.97.6:2095?path=/?ed=2048&security=none&encryption=none&host=daRk-CHOICEzJa8lf7vEO.SPORTLANd.cOmPany.&type=ws#TEL;Father_vpn
 vless://37449985-a4a7-4c16-ae6c-464e46b4939e@khoroos4.helsinki2upload.shop:443?security=reality&encryption=none&pbk=H31-ZOmrmgdlPwXBr7K-NuEW5Ro3qAnXwS-W0gxsjxQ&headerType=none&fp=chrome&spx=/WmAS2BcSqmCQEO5&type=tcp&sni=www.aparat.com&sid=cc441e7e540f#🌐Tel: @Proxy_Vpney (5)
 vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?security=none&encryption=none&type=ws#@hex_proxy ⁵
 vless://37c79fbe-861a-4725-a8e4-196e2d886e33@141.98.4.99:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=www.mozilla.org&fp=chrome&flow=xtls-rprx-vision&sid=adedb70a7409&pbk=4YLfHf90V012Oyd2wHbwAXaJNvNUGrKWmatTKc165U8#🇳🇱NL-🚀@VPNine1
@@ -503,3 +501,5 @@ vless://5f1eb446-5104-41cb-a3e2-27a1f9e7f060@varzesh3.com:80?path=/&security=non
 vless://5f596575-dfce-8cbb-5a58-d43c1698e862@188.114.98.0:80?encryption=none&security=none&sni=wispy-field-43fb.mirar6bad.workers.dev&fp=chrome&type=ws&host=wispy-field-43fb.mirar6bad.workers.dev&path=/sixseven#🚀@VPNine1
 vless://5f5f92e1-af6c-4737-b292-691514932879@151.101.66.219:443?security=tls&sni=speedtest.net&type=ws&host=joinshhproxybede.ir&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed=2048#@Hope_Net-join-us-on-Telegram
 vless://5f65c1ae-9e7a-48ea-8ecf-6822365cd177@151.101.69.223:443?path=/&security=tls&encryption=none&host=apiv2.global.ssl.fastly.net&type=ws&sni=sp…</div>#❤️‍🔥 کانال تلگرام HiByeVPNN@
+vless://5f65c1ae-9e7a-48ea-8ecf-6822365cd177@vxc.galardoxtn.ir:443?path=/&security=tls&encryption=none&host=apiv2.global.ssl.fastly.net&type=ws&sni=speedtest.net#@VpnCostumer+|+بیا+تو+وصل+باش+💙
+vless://5f65c1ae-9e7a-48ea-8ecf-6822365cd177@vxc.galardoxtn.ir:443?path=/&security=tls&encryption=none&host=apiv2.global.ssl.fastly.net&type=ws&sni=speedtest.net#❤️‍🔥 کانال تلگرام HiByeVPNN@

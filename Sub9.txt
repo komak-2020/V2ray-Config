@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://b2ec1e04-17b8-48ee-966e-5633deb7f98b@jahan25.irbazi.com:443?path=/vr1025?ed=2560&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=jahan25.irbazi.com#Proxy_Se7en
-vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@188.114.97.6:443?path=/hdgrbws#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&insecure=0&host=terazhediii.info&fp=chrome&type=ws&allowInsecure=0&sni=JoinProxyVPN11.terazhediii.info#🦌@ProxyVPN11 - 3
 vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@188.114.97.6:443?path=/hdgrbws&security=tls&encryption=none&host=terazhediii.info&fp=chrome&type=ws&sni=terazhediii.info#@appsooner کانال تلگرام 🕊️
 vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@188.114.97.6:443?path=/hdgrbws&security=tls&encryption=none&insecure=0&host=terazhediii.info&fp=chrome&type=ws&allowInsecure=0&sni=terazhediii.info#@V2raySup0🚀✅
 vless://b311f4fb-8e83-40d7-0b91-ff94e5156e41@snapp.ir:2087?path=/BetForward&security=tls&encryption=none&insecure=0&host=cdn.qorilo.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.qorilo.ir#telegram @mtmvpn
@@ -503,3 +501,5 @@ vless://e3e90161-fe65-443a-a3a4-e0e3a73704ca@77.91.66.178:443?encryption=none&fl
 vless://e461afdd-7c8e-473e-815d-88b72960c6b1@151.101.56.6:443?encryption=none&type=ws&security=tls&path=/&host=fancii.global.ssl.fastly.net&sni=default.ssl.fastly.net&insecure=1&allowInsecure=1#@hi_proxy_iran :👈کانال تلگرام
 vless://e461afdd-7c8e-473e-815d-88b72960c6b1@151.101.56.6:443?path=/&security=tls&encryption=none&insecure=0&host=fancii.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#@icv2ray
 vless://e461afdd-7c8e-473e-815d-88b72960c6b1@151.101.56.6:443?path=/&security=tls&encryption=none&insecure=1&host=fancii.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#@erfanandroid
+vless://e461afdd-7c8e-473e-815d-88b72960c6b1@151.101.56.6:443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2560&security=tls&encryption=none&insecure=1&host=fancii.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#@MARAMBASHI 💎
+vless://e461afdd-7c8e-473e-815d-88b72960c6b1@167.82.101.251:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/&security=tls&encryption=none&insecure=1&host=fancii.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#@GozargahAzad|🇺🇸
