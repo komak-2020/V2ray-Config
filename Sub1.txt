@@ -21,6 +21,7 @@ vmess://eyJhZGQiOiAiNTcuMTUxLjEwMC4yNyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6
 vmess://eyJhZGQiOiI1Ny4xNTEuMTAwLjI3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjU1MGU4NDAwLWUyOWItNDFkNC1hNzE2LTQ0NjY1NTQ0MDAwMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoxMDA4NiwicHMiOiJWMiAtIDE3Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=r1.mizulina.top#Russia
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?flow=xtls-rprx-vision&security=tls&allowInsecure=0&encryption=none&type=tcp&sni=r1.mizulina.top&fp=chrome&headerType=none#Russia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#United+Kingdom
 hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@mg2.mangshe.xyz:2056/?insecure=1&sni=mg2.mangshe.xyz#美国2
 hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xjp1.mangshe.xyz:2055/?insecure=1&sni=xjp1.mangshe.xyz#新加坡1
 hy2://95D27EEF-B7AE-4076-BA39-40FDFA3D0F61@jp7.dexlos.com:13778/?insecure=1#JP
@@ -502,4 +503,3 @@ trojan://MITIVPN@151.101.110.219:443?path=/MiTiVPN=De&security=tls&alpn=http/1.1
 trojan://MITIVPN@151.101.110.219:443?path=/MiTiVPN=De&security=tls&alpn=http/1.1&insecure=0&host=esalat-king-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#🇺🇸@FreakConfig
 trojan://MITIVPN@151.101.110.219:443?path=/MiTiVPN=De&security=tls&alpn=http/1.1&insecure=0&host=esalat-king-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#🇺🇸@V2rayng_Fast
 trojan://MITIVPN@151.101.110.219:443?path=/MiTiVPN=De&security=tls&alpn=http/1.1&insecure=0&host=esalat-king-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#🇺🇸@irconfiig
-trojan://MITIVPN@151.101.110.219:443?path=/ed=mitivpn&security=tls&insecure=1&host=mitivpn-6.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=global.fastly.com#telegram @mtmvpn

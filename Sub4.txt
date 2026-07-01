@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://07a2b3be-e688-4c01-b3ad-c7cddf7bc080@5.75.207.247:43225?security=reality&encryption=none&pbk=KTAuJl8Ga2u2IZmfizQj6yEw3fOcqxLeYVhCA_r1wmQ&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=77b0689f#@Soul737
 vless://07a2b3be-e688-4c01-b3ad-c7cddf7bc080@5.75.207.247:43225?security=reality&encryption=none&pbk=KTAuJl8Ga2u2IZmfizQj6yEw3fOcqxLeYVhCA_r1wmQ&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=77b0689f#Proxy_Se7en
 vless://07d9731e-353c-40f4-86ae-4d71c534cf34@snapp.ir:80?encryption=none&security=none&type=ws&host=dev.delitech.ir&path=/api/live/v3#@Daily_Configs
 vless://07dce2d7-9849-4e22-adb9-36d2763c3b89@snapp.ir:2095?path=/&security=none&encryption=none&host=api.aramonlineshop.ir&type=ws#𝗝𝗼𝗶𝗻 ➠@Mcv2rayNG
@@ -502,4 +503,3 @@ vless://2947e655-6da6-4f90-b983-4deb8b5bc539@us.eorqen.ir:2050?security=reality&
 vless://296a5736-bc8c-45dd-9971-8bf44b28ed4e@51.75.169.180:443?encryption=none&fp=&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&security=reality&sid=98fa0b00d09419f7&sni=play.google.com&type=tcp#💙71@NetFlowTools
 vless://296a5736-bc8c-45dd-9971-8bf44b28ed4e@51.75.169.180:443?encryption=none&fp=&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&security=reality&sid=98fa0b00d09419f7&sni=play.google.com&type=tcp#💙71@oneclickvpnkeys
 vless://296a5736-bc8c-45dd-9971-8bf44b28ed4e@all19.allenshop2025.ir:443?security=reality&encryption=none&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=98fa0b00d09419f7#@v2rayconfigamir 5524
-vless://296a5736-bc8c-45dd-9971-8bf44b28ed4e@all32.allenshop100.ir:443?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7&type=tcp&headerType=none#@pythash😅 2
