@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://e277ac9b-3225-3381-a9fb-3585419f7142@love.ns.cloudflare.com:443?path=/media14&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=media14.ftmsoft.com&fp=chrome&type=ws&allowInsecure=0&sni=media14.ftmsoft.com#@FarazV2ray
 vless://e277ac9b-3225-3381-a9fb-3585419f7142@love.ns.cloudflare.com:443?path=/media14&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=media14.ftmsoft.com&fp=chrome&type=ws&allowInsecure=0&sni=media14.ftmsoft.com#@V2ray_confiig
 vless://e277ac9b-3225-3381-a9fb-3585419f7142@love.ns.cloudflare.com:443?path=/media14&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=media14.ftmsoft.com&fp=chrome&type=ws&allowInsecure=0&sni=media14.ftmsoft.com#@hex_proxy ³
 vless://e277ac9b-3225-3381-a9fb-3585419f7142@love.ns.cloudflare.com:443?path=/media14&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=media14.ftmsoft.com&fp=chrome&type=ws&allowInsecure=0&sni=media14.ftmsoft.com#کانال ما : @internet_azad_2026
@@ -503,3 +502,4 @@ vless://fdb12587-1c15-4883-8d7a-9894641e183c@104.17.19.109:2083?encryption=none&
 vless://fdb12587-1c15-4883-8d7a-9894641e183c@nova-mango-vault-2e63.wolf-fbi-red.workers.dev:443?encryption=none&type=ws&host=nova-mango-vault-2e63.wolf-fbi-red.workers.dev&path=/?u=3e3fff3b5b&security=tls&fp=chrome&sni=nova-mango-vault-2e63.wolf-fbi-red.workers.dev#🦉@FreeConfigForYou
 vless://fdf18cdb-7280-468e-9150-565a5da92471@yahoo.epiconline.ir:5039?encryption=none&security=reality&sni=www.yahoo.com&fp=chrome&pbk=li2OM0E1BAk9_ArsPezck0VGCVZAy1LuM8p84fLyr10&sid=57c62818ab48e647&type=tcp&headerType=none#@Daily_Configs
 vless://fe273991-0514-4a16-8ec4-b15ae861c000@cf1.466688.xyz:443?encryption=none&security=tls&sni=zyzzzoao.xn--fiqv8j.eu.org&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=zyzzzoao.xn--fiqv8j.eu.org&path=/?ed=2048#CF_zyzzzoao@https://t.me/QiangLieTuiJian
+vless://fe273991-0514-4a16-8ec4-b15ae861c000@cf10.466688.xyz:443?encryption=none&security=tls&sni=zyzzzoao.xn--fiqv8j.eu.org&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=zyzzzoao.xn--fiqv8j.eu.org&path=/?ed=2048#CF_zyzzzoao@https://t.me/QiangLieTuiJian

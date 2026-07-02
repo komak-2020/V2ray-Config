@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://35504274-bdd4-455f-b4f3-13ded33a7ad2@vipf1.phoenixgamer.ir:443?mode=auto&path=/fr&security=tls&alpn=h2,http/1.1&encryption=none&extra={mode=auto, xPaddingBytes=100-1000}&host=vipf1.phoenixgamer.ir&fp=chrome&type=xhttp&sni=vipf1.phoenixgamer.ir#@Ap_Ir6
 vless://35504274-bdd4-455f-b4f3-13ded33a7ad2@vipf1.phoenixgamer.ir:443?mode=auto&path=/fr&security=tls&alpn=h2,http/1.1&encryption=none&extra={mode=auto, xPaddingBytes=100-1000}&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&fp=chrome&type=xhttp&allowInsecure=0&sni=vipf1.phoenixgamer.ir#Proxy_Se7en
 vless://3559f1f7-7d70-46c9-82db-d2b46269300b@109.120.185.230:443?security=reality&encryption=none&pbk=1BdgrQ_esOEya01sDCBYK4MGpJgaUhssHQG-aWJkyFQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dipvpn.ru#@hopev2ray💕
 vless://3559f1f7-7d70-46c9-82db-d2b46269300b@s2.dipvpn.ru:443?security=reality&encryption=none&pbk=1BdgrQ_esOEya01sDCBYK4MGpJgaUhssHQG-aWJkyFQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dipvpn.ru#@bored_vpn
@@ -503,3 +502,4 @@ vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@141.193.213.21:443?path=/poiuyws&se
 vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@141.193.213.21:443?path=/poiuyws&security=tls&encryption=none&insecure=0&host=amoosamiii.net&type=ws&allowInsecure=0&sni=amoosamiii.net#FREE_VPN02
 vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@141.193.213.21:443?path=/poiuyws&security=tls&encryption=none&insecure=0&host=amoosamiii.net&type=ws&allowInsecure=0&sni=amoosamiii.net#Tel-@Alpha_V2rayip😘 2
 vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@141.193.213.21:443?path=/poiuyws&security=tls&encryption=none&insecure=0&host=amoosamiii.net&type=ws&allowInsecure=0&sni=amoosamiii.net#Tel-@Alpha_V2rayip😟 2
+vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@141.193.213.21:443?path=/poiuyws&security=tls&encryption=none&insecure=0&host=amoosamiii.net&type=ws&allowInsecure=0&sni=amoosamiii.net#Tel-@NapsterNetvIrani😩 2
