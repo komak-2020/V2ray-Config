@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vmess://eyJhZGQiOiI1Ny4xNTEuMTAwLjI3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjU1MGU4NDAwLWUyOWItNDFkNC1hNzE2LTQ0NjY1NTQ0MDAwMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoxMDA4NiwicHMiOiJWMiAtIDE3Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vmess://383737a2-a196-44b6-a9ac-4f8cc23c9637@107.173.7.186:2095?encryption=auto&path=383737a2-a196-44b6-a9ac-4f8cc23c9637-vm&security=none&type=ws#♦️99@v2ray_configs_pools
 vmess://4bd2af9a-67a3-4e1a-8eef-c443ec86e80b@c722s3.portablesubmarines.com:16025?encryption=auto&security=none&type=tcp#@meliproxyy
 vmess://4bd2af9a-67a3-4e1a-8eef-c443ec86e80b@c722s3.portablesubmarines.com:16025?encryption=auto&security=none&type=tcp#🕹️42@v2ray_configs_pools
