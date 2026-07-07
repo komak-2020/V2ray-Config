@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://f16ac657-9bf4-4999-bb59-f45945333715@aqx.foot8all.ir:50567?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=play.google.com&fp=firefox&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&sid=c39acc8cb9481d24#%F0%9F%87%AB%F0%9F%87%AE%20%20%E2%9F%A1%20%E2%9C%A8%20%CA%80%E1%B4%87%E1%B4%80%CA%9F%C9%AA%E1%B4%9B%CA%8F%20
+vless://f16ac657-9bf4-4999-bb59-f45945333715@aqx.foot8all.ir:50567?encryption=none&flow=xtls-rprx-vision&security=reality&sni=play.google.com&fp=firefox&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&sid=c39acc8cb9481d24&type=tcp&headerType=none#%40Daily_Configs
 vless://cc3e6e36-b329-435b-bb71-192fb5c718ae@check05.allenshop66244.ir:8443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&sid=b7b70c104ad267b8&type=tcp&headerType=none#%40Daily_Configs
 vless://f16ac657-9bf4-4999-bb59-f45945333715@poxc.foot8all.ir:56625?encryption=none&security=reality&sni=icloud.com&fp=firefox&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&sid=2acdb7659ae9df84&type=grpc#%40Daily_Configs`
 vless://cc3e6e36-b329-435b-bb71-192fb5c718ae@check02.allenshop66244.ir:8443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&sid=b7b70c104ad267b8&type=tcp&headerType=none#%40Daily_Configs
