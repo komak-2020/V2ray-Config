@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://b26ec0f4-6c92-45f7-b287-2a664abf1963@104.16.75.223:443?path=/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=server-ir-7.ariyuz.org#✔︎𝐜𝐡𝐚𝐧𝐧𝐞𝐥➪@ConfigV2rayForFree
+vless://b28e9d34-515e-4048-acc2-c3098a3c1f50@falkoraz.sav-savteam.iR:55555?security=reality&encryption=none&pbk=XPuLE49PtDeixzwOmEHuMFSZexYDTQifZ7s99w5e4QY&headerType=none&fp=chrome&type=tcp&sni=yahoo.com.&sid=880eeeef4927eed5#@V2ray_Alpha⛈️ 5
 vless://b28e9d34-515e-4048-acc2-c3098a3c1f50@falkoraz.sav-savteam.iR:55555?security=reality&encryption=none&pbk=XPuLE49PtDeixzwOmEHuMFSZexYDTQifZ7s99w5e4QY&headerType=none&fp=chrome&type=tcp&sni=yahoo.com.&sid=880eeeef4927eed5#🚀 t.me/iProxyChannel 3
 vless://b28e9d34-515e-4048-acc2-c3098a3c1f50@falkoraz.sav-savteam.iR:55555?security=reality&encryption=none&pbk=XPuLE49PtDeixzwOmEHuMFSZexYDTQifZ7s99w5e4QY&headerType=none&fp=chrome&type=tcp&sni=yahoo.com.&sid=880eeeef4927eed5#🚀 t.me/iProxyChannel 5
 vless://b28e9d34-515e-4048-acc2-c3098a3c1f50@falkoraz.sav-savteam.ir:55555?security=reality&encryption=none&pbk=XPuLE49PtDeixzwOmEHuMFSZexYDTQifZ7s99w5e4QY&headerType=none&fp=chrome&type=tcp&sni=yahoo.com.&sid=880eeeef4927eed5#@V2ray_Alpha⛈️ 4
@@ -501,5 +503,3 @@ vless://de3b6d50-1b2d-4156-b3fa-e559be5cf271@panel1.bakhe01.ir:55034?path=/&secu
 vless://de64aaa6-a0ea-48d0-853b-1c3cbc7fb42c@141.98.118.70:443?mode=auto&path=/&security=reality&encryption=none&pbk=LjEQR0FEtsOs5eQoVsZgJX5ZI0yeadUKTCLoGD641RQ&fp=chrome&spx=/&type=xhttp&sni=www.google.com&sid=44#🔥 @free_conf_iran 🔥 3
 vless://de92dc6a-4eed-4888-9077-1fc006ad339d@sy2.syragame.com:443?type=xhttp&host=sy.syragame.com&path=/&mode=auto&security=tls&sni=sy.syragame.com&alpn=h2,http/1.1&fp=chrome&allowInsecure=0#@CxrolVPN
 vless://deaf904c-29f6-4184-9eee-3471e6a5eaa1@s2.ecv-winapp.ir:8880?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#RayNet VIP
-vless://df267d38-354a-31a2-4585-08a9c7a33dd1@tmesubgift.up.railway.app:443?encryption=none&security=tls&sni=tmesubgift.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=tmesubgift.up.railway.app&path=/ws/df267d38-354a-31a2-4585-08a9c7a33dd1#100
-vless://df724c8a-5c5a-4859-974e-6e911b14955c@45.89.106.99:40443?security=reality&encryption=none&pbk=-sirwzF9HjIp1PVRK-z-2Ux39ufs6_W1cBw1cFoHXHc&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=a852#@V2dogs_n 💚

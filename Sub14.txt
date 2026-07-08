@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.216:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.216-0188
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#%F0%9F%87%AC%F0%9F%87%A7GB-141.98.101.178-0159
+vmess://ewogICAgImFkZCI6ICIxNDAuODMuNTEuMTYxIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAianAwMi5hMGEueHl6IiwKICAgICJpZCI6ICI2NzMzYzM1Ny1iYTExLTRlOWYtZjAwZi03ZDg3ZjI3NzZmZjkiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvY2N0djEzLm0zdTgiLAogICAgInBvcnQiOiAyNTY4NiwKICAgICJwcyI6ICLwn4ev8J+HtUpQLTE0MC44My41MS4xNjEtMTM3MSIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.214-0108
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg001286ek2.cybervena.com:50099#%F0%9F%87%B9%F0%9F%87%BCTW-36.224.142.78-0145
+trojan://S.ibYdZshHTF-ne.M+.Fznp_-hyFFnCSix@149.104.104.58:443?security=tls&sni=149.104.104.58#%F0%9F%87%B8%F0%9F%87%A6SA-149.104.104.58-0141
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.182:443#%F0%9F%87%AC%F0%9F%87%A7GB-141.98.101.182-0157
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.217-0191
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443#%F0%9F%87%AC%F0%9F%87%A7GB-141.98.101.179-0155
@@ -497,9 +503,3 @@ vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@104.16.72.101:443?security=tls&encr
 vless://04c86825-c257-4782-f188-ed7385d036d4@ansooyefilter5.up.railway.app:443?encryption=none&security=tls&sni=ansooyefilter5.up.railway.app&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=ansooyefilter5.up.railway.app&path=%2Fws%2F04c86825-c257-4782-f188-ed7385d036d4#🔵@chillguy_vpn
 vless://7982f37c-757c-4a29-9ad4-04db96d6b1bc@usa0.unlimitedteam.space:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=usa0.unlimitedteam.space&fp=firefox&pbk=Mw1lAVT9SewUz96_mJDynJUKxTUQcxrEF2lfmYwFPng&sid=78052cf997f6f6b0&type=tcp&headerType=none#🔵@chillguy_vpn
 trojan://MiTiVPN@104.16.72.50:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Dfl&security=tls&alpn=http%2F1.1&insecure=1&host=fl-ll-i.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=1&sni=Fl-u-ueisi.App-Cloud.ir#%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A7%D9%88%D9%84%F0%9F%95%8A%F0%9F%95%8A
-vless://86134fee-4c27-42e8-8660-e64b9c8150ad@176.109.88.217:33443?mode=gun&security=reality&encryption=none&pbk=Jd_VsyCzLh-UHJoeazmppnwqBkVuzS-VaQNPu6_EpWM&type=grpc&serviceName=grpc&sni=5post-gate.x5.ru#Channel%20%3A%20%40Daily_Configs
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@89.116.250.135:443?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#[🌍]@NetliVPN`
-vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@162.159.38.119:443?path=%2Fau-mt&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#Tel-%40irconfiig%F0%9F%8C%BB%205`
-vless://%40MAconnectt@hayabusa.proxy.rlwy.net:45900?mode=stream-up&path=%2F&security=reality&encryption=none&extra=%7B%22mode%22%3A%22stream-up%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=3Qrlf_ww96hYRMg-qo6s5PevYgW6ON_87kzZA1wtwRU&fp=firefox&spx=%2FBP4ElyUvrbooowl&type=xhttp&sni=is1-ssl.mzstatic.com&sid=7be33fb2c4#🔵@chillguy_vpn
-trojan://MiTiVPN@104.16.72.2:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DNL&security=tls&alpn=http%2F1.1&insecure=1&host=sjus-kdid-iodp.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=1&sni=nl-ll-nl.App-Cloud.ir#%40Mr_Power_Vpn%20%F0%9F%92%99
-vless://f16ac657-9bf4-4999-bb59-f45945333715@poxc.foot8all.ir:56625?encryption=none&security=reality&type=grpc&headerType=none&mode=gun&sni=icloud.com&fp=firefox&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&sid=2acdb7659ae9df84#%F0%9F%87%AB%F0%9F%87%B7%20%E2%9F%A1%20%E2%9C%A8%20%CA%80%E1%B4%87%E1%B4%80%CA%9F%C9%AA%E1%B4%9B%CA%8F%20
