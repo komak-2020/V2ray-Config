@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://Telegram:TurboConfigs@45.74.158.246:8443?security=reality&encryption=none&pbk=oitYj2sYOanSBldmUzl3gRw4dfWPVmwO74eTjFWgWRI&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.yahoo.com&sid=2125d7ff#@prrofile_purple  ♥️👈 تلگرام
 vless://Telegram:X_RAY_VPN1@45.74.158.246:8443?encryption=none&type=tcp&security=reality&headerType=none&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=oitYj2sYOanSBldmUzl3gRw4dfWPVmwO74eTjFWgWRI&sid=2125d7ff&spx=/#@vpng3 [1]
 vless://Telegram:X_RAY_VPN1@45.74.158.246:8443?security=reality&encryption=none&pbk=oitYj2sYOanSBldmUzl3gRw4dfWPVmwO74eTjFWgWRI&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.yahoo.com&sid=2125d7ff#@prrofile_purple  ♥️👈 تلگرام
 vless://Telegram🇨🇳 @WangCai2@162.251.82.2:443?path=/sg-amz&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#🚀 t.me/iProxyChannel 12
@@ -502,4 +503,3 @@ vless://ba04f88a-9d3d-40cf-aad8-4be140610332@Fbi.gov:443?mode=packet-up&path=/&s
 vless://ba7c2a7d-cf2f-4ce5-a9f0-74bb548a37d9@193.228.91.75:44555?security=&encryption=none&host=telewebion.com&headerType=http&type=tcp#تلگرام : V2ynpv @
 vless://ba8f897a-753b-40a2-800b-bf716e65b54a@hayabusa.proxy.rlwy.net:36741?encryption=none&security=none&type=ws&host=hayabusa.proxy.rlwy.net&path=/ws/29291442-0776-1745-2203-87388bf9f27c#Telegram:@vpnfreev2rayconfig
 vless://ba9be39a-3b9d-4d26-ac10-1a6c99a86e71@94.139.179.9:13766?encryption=none&type=tcp#@vpng3 [13]
-vless://ba9be39a-3b9d-4d26-ac10-1a6c99a86e71@94.139.179.9:44132?encryption=none&type=tcp#@vpng3 [8]
