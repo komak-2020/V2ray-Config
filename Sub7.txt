@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://7eb38cf9-37ba-42e0-af2f-6d149b7625a9@151.101.0.155:80?security=none&encryption=none&headerType=none&type=tcp#v2ray_configs
 vless://7ed93ccf-6a54-4b19-a9b4-aedfc79bab7d@104.27.82.154:8880?encryption=none&security=none&type=ws&host=muddy-sky-4767.344-7a7.workers.dev&path=/pyip=ProxyIP.KR.CMLiussss.net#t.me/ConfigFori  -  Config 88275
 vless://7f5cd295-45e4-4909-bd56-c378b7059b93@37.32.43.240:48761?encryption=none&fp=chrome&pbk=i8Ugl1s9W6ejUx5APpAZZWcXsHam9fcGujMIfw15Png&security=reality&sid=90852caa&sni=www.yahoo.com&spx=/mwiNPn32xukdv0a&type=tcp#canfingV2rayNG-242
 vless://7f63664e-6e88-4522-1686-b14deb6cffac@s1.zynavo.ir:2087?mode=auto&path=/BetForward&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=1&host=sub.zynavo.ir&fp=chrome&type=xhttp&allowInsecure=1&sni=sub.zynavo.ir#@V2ray_confiig
@@ -502,4 +503,3 @@ vless://96dc234e-4809-39c4-dc20-aec74bdbc30e@x4g-production-1c57.up.railway.app:
 vless://96e86354-c333-47b8-9bc7-271bba70df1d@5.35.34.181:443?security=reality&;encryption=none&;pbk=rAMn0lQ0hcsZ0ZnUWwe022bU8pMXYWViV_XSpQ1NKXU&;headerType=none&;fp=chrome&;type=tcp&;sni=music.yandex.ru&;sid=48a458b7e7cb52ae#🇳🇱 Join+Telegram:@Farah_VPN 🇳🇱
 vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@151.101.65.57:80?mode=auto&path=/login&security=none&encryption=none&host=shangulin.global.ssl.fastly.net&type=xhttp#🇨🇦 @GozargahVPN
 vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@151.101.65.57:80?mode=auto&path=/login&security=none&encryption=none&host=shangulin.global.ssl.fastly.net&type=xhttp#🔥 @free_conf_iran 🔥 6
-vless://96f5436d-6496-4473-b4ca-ae37f170387c@xn--sont23oo-mk75gi8a.netbazshop.ir:2035?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@V2ray_confiig

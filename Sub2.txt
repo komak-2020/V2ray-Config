@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@104.16.72.41:443?security=tls&type=ws&sni=space.byu.id.yxls.eu.cc&path=/au-do&host=space.byu.id.yxls.eu.cc#🇨🇦 Join+Telegram:@Farah_VPN 🇨🇦
 trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@104.16.72.70:443?path=/au-do&security=tls&host=space.byu.id.yxls.eu.cc&type=ws&sni=space.byu.id.yxls.eu.cc#🇦🇺
 trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@104.18.153.10:443?path=/au-do&security=tls&host=space.byu.id.yxls.eu.cc&type=ws&sni=space.byu.id.yxls.eu.cc#🇨🇦 Join+Telegram:@Farah_VPN 🇨🇦
 trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@45.130.125.126:443?path=/au-do&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#@prrofile_purple  ♥️👈 تلگرام
@@ -502,4 +503,3 @@ trojan://humanity@104.21.40.34:443?path=/assignment&security=tls&insecure=1&host
 trojan://humanity@104.21.40.34:443?path=/assignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#🇫🇷 @V2rayng_Fast
 trojan://humanity@127.0.0.1:40443?path=//assignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#@Maznet-Spoof13
 trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@Maznet-Spoof8
-trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#@Maznet-Spoof12
