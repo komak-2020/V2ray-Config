@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://b2974faf-4dc2-4a6d-9359-7fa657015bee@104.21.33.129:2053?path=/In_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=tls&encryption=none&insecure=0&host=zeus-panel-55srwb.arynzlfkhany.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-55srwb.arynzlfkhany.workers.dev#kurdconfig
 vless://b2974faf-4dc2-4a6d-9359-7fa657015bee@104.21.33.129:2053?path=/In_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=tls&encryption=none&insecure=0&host=zeus-panel-55srwb.arynzlfkhany.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-55srwb.arynzlfkhany.workers.dev#🇨🇦@FreakConfig
 vless://b2974faf-4dc2-4a6d-9359-7fa657015bee@104.21.33.129:2053?path=/In_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=tls&encryption=none&insecure=0&host=zeus-panel-55srwb.arynzlfkhany.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-55srwb.arynzlfkhany.workers.dev#🇨🇦@V2rayng_Fast
 vless://b2974faf-4dc2-4a6d-9359-7fa657015bee@104.25.193.8:2053?path=/In_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=tls&encryption=none&insecure=0&host=zeus-panel-55srwb.arynzlfkhany.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-55srwb.arynzlfkhany.workers.dev#kurdconfig
@@ -502,4 +503,3 @@ vless://d45bedc6-9118-082a-644a-ed6f1218266f@foloki-production.up.railway.app:44
 vless://d4951d91-23e0-4301-a1ea-5300e0b5ec67@support.zoom.us:8080?path=/free-server.techsonic.me&security=none&encryption=none&host=free-server.techsonic.me&type=ws#🇺🇸@V2rayng_Fast
 vless://d4e314e3-49ae-4207-8d59-12d7f51aac4c@news.microsoft.com:443?alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&fp=chrome&host=fl.gamelistak.com&mode=auto&path=/@MrNexTV2RAY&security=tls&sni=fl.gamelistak.com&type=xhttp&x_padding_bytes=100-1000#@MrNexTV2RAY
 vless://d50d0608-501c-ab66-6d3a-7a925bb96028@maziar-production.up.railway.app:443?path=/ws/d50d0608-501c-ab66-6d3a-7a925bb96028&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=maziar-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=maziar-production.up.railway.app#Tel-@ProxyMtAlpha🫘 4
-vless://d51ed55c-d6dd-400b-aaf6-017c33969bfe@47.89.186.170:55861?encryption=none&flow=xtls-rprx-vision&fp=&pbk=t2ndf6SeVxinFCo5bcemnW_ZZhAtmHWiAkllks5qPWs&security=reality&sid=7551ed1b&sni=www.intel.com&type=tcp#🎍47@v2ray_configs_pools

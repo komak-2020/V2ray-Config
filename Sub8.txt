@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://9cf40e8b-07e0-4e4d-a1f0-09b37ca5f5f1@vip-76.f-sub.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#@KAFING_2
 vless://9cf40e8b-07e0-4e4d-a1f0-09b37ca5f5f1@vip-81.f-sub.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#@KAFING_2
 vless://9d66932d-9eec-47de-972a-e98dee7231c1@gall.lorqina.ir:4563?security=reality&encryption=none&pbk=GR4Vf2qGFrq56Q1Z1YyxmvUrcpbBtw02fkDKv43KbUo&headerType=none&fp=chrome&spx=/h6vHp06wW5lFFg3&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=4fe5b735#🇩🇪DE-🚀@VPNine1
 vless://9dcedf8a-c410-45a1-ba63-be4fbdfe07de@46.224.2.35:443?security=reality&encryption=none&pbk=uLFFVUmk5iRtO95QrmDQ9bwpcYjlOXEW75K-ExOV-3U&headerType=none&fp=chrome&spx=/PSPUtbgQebkGWSN&type=tcp&sni=www.digikala.com&sid=143ec8c1#🆔️ @VolexProxy <unlimited>
@@ -502,4 +503,3 @@ vless://b26ec0f4-6c92-45f7-b287-2a664abf1963@104.16.72.50:443?path=/&security=tl
 vless://b26ec0f4-6c92-45f7-b287-2a664abf1963@104.16.75.207:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=main-2.ariyuz.org#✨ @NamiraConfigs | ❤️ وصل شدی جوین شو | 🚀 | 🇺🇸
 vless://b26ec0f4-6c92-45f7-b287-2a664abf1963@104.16.75.223:443?path=/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=server-ir-7.ariyuz.org#✔︎𝐜𝐡𝐚𝐧𝐧𝐞𝐥➪@ConfigV2rayForFree
 vless://b28a0d8d-6964-4226-b41e-ef22b7624a01@188.114.97.3:8080?path=/admin&security=none&encryption=none&host=free.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li&type=ws#Telegram+:+@netazad1🔥✨
-vless://b2974faf-4dc2-4a6d-9359-7fa657015bee@104.21.33.129:2053?path=/In_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=tls&encryption=none&insecure=0&host=zeus-panel-55srwb.arynzlfkhany.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-55srwb.arynzlfkhany.workers.dev#kurdconfig

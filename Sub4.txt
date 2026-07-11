@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@162.159.38.119:443?path=/rdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#🚀 t.me/v2ray_configs_pools 12
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@173.245.58.75:443?path=/rdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&fp=chrome&type=ws&allowInsecure=0&sni=vangoghhh.info#@Arvand_soul @Arvand_soul❤️🧑‍💻 کانفیگ ملی در #2
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@188.114.97.6:443?path=/rdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.131.208.61:443?encryption=none&host=vangoghhh.info&path=/rdfgtws&security=tls&sni=vangoghhh.info&type=ws#🟢12@oneclickvpnkeys
@@ -502,4 +503,3 @@ vless://3f7f50bb-e489-9684-74a7-4b0669b8cb15@x4g-production-859d.up.railway.app:
 vless://3ffd3381-b733-4f39-a7e5-516018b4b4d6@tekno.fusetea.ir:555?security=&encryption=none&host=cdn-apple.com&headerType=http&type=tcp#@bored_vpn
 vless://40601c06-6fbf-4f48-bcff-2a8d57038e37@las.dearhossein-taktaz.ir:47922?security=reality&encryption=none&pbk=-smckvxfg8A2QkVqkQpI3bPMcYJ_69fAxWS7u9VhND8&host=play.google.com&headerType=http&fp=chrome&spx=/C42p6dEeWp6gGTf&type=tcp&sni=www.yahoo.com&sid=09#@Leecher56
 vless://40601c06-6fbf-4f48-bcff-2a8d57038e37@las.dearhossein-taktaz.ir:47922?security=reality&encryption=none&pbk=-smckvxfg8A2QkVqkQpI3bPMcYJ_69fAxWS7u9VhND8&host=play.google.com&headerType=http&fp=chrome&spx=/C42p6dEeWp6gGTf&type=tcp&sni=www.yahoo.com&sid=09#@bored_vpn
-vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.16.7.70:443?mode=stream-one&path=/de&security=tls&encryption=none&fp=chrome&type=xhttp&sni=de.xn--q9jyb4c.online#floor 555
