@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.233.14:22222?security=none&encryption=none&headerType=none&type=tcp#@meliproxyy
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.233.14:22222?security=none&encryption=none&headerType=none&type=tcp#Tel-@ProxyMtAlpha🍐 1
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.233.14:22222?security=none&encryption=none&headerType=none&type=tcp#V2ray_Alpha🥥 7
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.233.14:22222?security=none&encryption=none&headerType=none&type=tcp#irconfiig🥥 7
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.233.14:22224?encryption=none&security=none&type=tcp&headerType=none#Tel: @Daily_Configs
@@ -503,3 +501,5 @@ vless://f1a489f8-872f-404e-804a-c3b9e4048fd2@2.27.57.185:41586?security=reality&
 vless://f1f47653-d57b-5917-fa47-c80823a8b7f3@rvg-production-8249.up.railway.app:443?path=/ws/f1f47653-d57b-5917-fa47-c80823a8b7f3&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=rvg-production-8249.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-8249.up.railway.app#@fastkanfig
 vless://f1f47653-d57b-5917-fa47-c80823a8b7f3@rvg-production-8249.up.railway.app:443?path=/ws/f1f47653-d57b-5917-fa47-c80823a8b7f3&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=rvg-production-8249.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-8249.up.railway.app#kurdconfig
 vless://f1f47653-d57b-5917-fa47-c80823a8b7f3@rvg-production-8249.up.railway.app:443?path=/ws/f1f47653-d57b-5917-fa47-c80823a8b7f3&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=rvg-production-8249.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-8249.up.railway.app#🇺🇸@FreakConfig
+vless://f1f47653-d57b-5917-fa47-c80823a8b7f3@rvg-production-8249.up.railway.app:443?path=/ws/f1f47653-d57b-5917-fa47-c80823a8b7f3&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=rvg-production-8249.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-8249.up.railway.app#🇺🇸@V2rayng_Fast
+vless://f206f46b-6252-4d42-b15b-d1b1e5168b48@www.parzort.ir:443?security=reality&encryption=none&pbk=Y4PRErwqUpSGbjN0FfAjMkfhF_P0b-Ld5ENVWHqbXWI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=1b2acf74b254873e#🇩🇪 @Routel1

@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://MITIVPN@104.21.52.100:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=U-S-a&security=tls&alpn=h2,http/1.1&insecure=1&host=my-usjca-ohl.App-CloUd.IR&fp=chrome&type=ws&allowInsecure=1&sni=UsAba-bUbks.App-CloUd.IR#telegram:@sil3nt_network
-trojan://MITIVPN@104.21.52.100:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=U-S-a&host=my-usjca-ohl.App-CloUd.IR&sni=UsAba-bUbks.App-CloUd.IR&alpn=h2,http/1.1&fp=chrome&insecure=1&allowInsecure=1#@NewsDarya -𝙿𝚁𝙴𝙼𝙸𝚄𝙼 ⚡🇺🇲
 trojan://MITIVPN@104.26.14.137:2096?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=De1&security=tls&alpn=http/1.1&insecure=1&host=De1-2-3.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=1&sni=de-ms.App-Cloud.ir#@confiig_hub
 trojan://MITIVPN@104.26.14.137:2096?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=De1&security=tls&alpn=http/1.1&insecure=1&host=De1-2-3.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=1&sni=de-ms.App-Cloud.ir#@mehrosaboran
 trojan://MITIVPN@104.26.14.137:2096?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=De1&security=tls&alpn=http/1.1&insecure=1&host=De1-2-3.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=1&sni=de-ms.App-Cloud.ir#telegram @mtmvpn
@@ -503,3 +501,5 @@ trojan://humanity@198.202.211.1:443?path=/assignment&security=tls&insecure=0&hos
 trojan://humanity@198.62.62.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#TEL;Father_vpn
 trojan://humanity@199.181.197.169:443?path=/assignment&security=tls&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#@Soul737
 trojan://humanity@202.37.33.80:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#@tootffarangi🍓-4Irancell
+trojan://humanity@202.37.33.80:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#Tel-@ProxyMtAlpha🍮 5
+trojan://humanity@208.103.161.170:443?path=/assignment&security=tls&alpn=h2&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#@Ap_Ir6
