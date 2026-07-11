@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.45.129:443?security=reality&encryption=none&pbk=dp-ncBuRHgZl5O80eHBYhSKo1i9qbt-J7MJ1alyWXmM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=3.oncloudnineservicestreang.com&sid=1991780b928b292d#%40bored_vpn
 vless://------BanV2ray-----@37.156.44.233:56102?security=reality&encryption=none&pbk=HLYPbzsOMGFz118_7LkL4tled8aYwma2rR06EuSk3Ag&headerType=none&fp=chrome&spx=/HZ56GM2munGEGum&type=tcp&sni=chi.yahoo.com&sid=e2c2c722e826#@v2rayconfigamir 5700
 vless://002a6674-3050-4942-97df-2af8e86f083e@gr.wubbalubbadubdubb.ir:1011?security=reality&encryption=none&pbk=pJ7lUsrHgLYa8lt7NPs0a47FaoBwHBWS6EA--iVQp0s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=701d699e06514eab#@vpnbaz 🍭
 vless://003f8262-28b1-4f80-acd0-af251777a7b8@n4.zeneco.ir:8443?security=tls&encryption=none&insecure=0&host=n4.zeneco.ir&type=ws&allowInsecure=0&sni=n4.zeneco.ir#Channel : @Daily_Configs
