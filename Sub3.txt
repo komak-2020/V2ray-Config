@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://humanity@162.159.38.119:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#@vmesskhodam
-trojan://humanity@162.159.38.119:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#V2ray_Alpha🥥 15
 trojan://humanity@162.159.38.119:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#irconfiig🥥 15
 trojan://humanity@162.159.38.119:443?type=ws&security=tls&path=/assignment&host=www.calmloud.com&sni=www.calmloud.com&insecure=0&allowInsecure=0#@meliproxyy
 trojan://humanity@165.215.250.14:443?allowInsecure=1&fp=chrome&host=www.ignitelimit.com&path=/assignment&sni=www.ignitelimit.com&type=ws#🟢87@oneclickvpnkeys
@@ -503,3 +501,5 @@ vless://15ce0fde-88e2-42b0-91e6-e4a1b4568f6e@104.16.72.41:8880?path=/pyip&securi
 vless://15d05a66-e5cd-4173-8bac-185c74aa5267@snapp.ir:2082?path=/path&security=none&encryption=none&host=cdn.linoxa.ir&type=ws#@NetZone_ir
 vless://16227db7-1914-4a97-bb6b-7bf98e6b525b@185.143.232.201:443?path=/&security=tls&encryption=none&insecure=0&host=zapzap.mc.filimo.cam&type=ws&allowInsecure=0&sni=zapzap.mc.filimo.cam#@bored_vpn
 vless://1642d104-816a-4a12-afd3-d54f7e2e0393@chatgpt.com:2083?encryption=none&type=ws&security=tls&path=/&host=nl.hknetapp.com&sni=nl.hknetapp.com&alpn=http/1.1&insecure=0&allowInsecure=0#@meliproxyy
+vless://1642d104-816a-4a12-afd3-d54f7e2e0393@chatgpt.com:2083?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=nl.hknetapp.com&type=ws&allowInsecure=0&sni=nl.hknetapp.com#@FarazV2ray
+vless://1642d104-816a-4a12-afd3-d54f7e2e0393@chatgpt.com:2083?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=nl.hknetapp.com&type=ws&allowInsecure=0&sni=nl.hknetapp.com#telegram @mtmvpn

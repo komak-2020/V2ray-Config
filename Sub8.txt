@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://MAconnectt@hayabusa.proxy.rlwy.net:12502?mode=auto&path=/&security=reality&encryption=none&extra={"xPaddingBytes":"100-1000","mode":"auto","scMaxEachPostBytes":"1000000"}&pbk=5qUmBg-yImwiQ1Fuw18hUKRK15uqpp5Fq-73oyqEjgQ&fp=chrome&spx=/&type=xhttp&sni=is1-ssl.mzstatic.com&sid=646aec27#V2ray_Alpha🦛 4
-vless://MAconnectt@hayabusa.proxy.rlwy.net:14821?mode=auto&path=/&security=reality&encryption=none&extra={"xPaddingBytes":"100-1000","mode":"auto","scMaxEachPostBytes":"1000000"}&pbk=XF21CCK2RAaefcs24Vtp3UwgFQX_xkC9ANNOcfJ_c2w&fp=chrome&spx=/&type=xhttp&sni=is1-ssl.mzstatic.com&sid=9e63#@MAconnectt
 vless://MAconnectt@hayabusa.proxy.rlwy.net:26704?mode=auto&path=/&security=reality&encryption=none&extra={"xPaddingBytes":"100-1000","mode":"auto","scMaxEachPostBytes":"1000000"}&pbk=XF21CCK2RAaefcs24Vtp3UwgFQX_xkC9ANNOcfJ_c2w&fp=chrome&spx=/&type=xhttp&sni=is1-ssl.mzstatic.com&sid=9e63#@MAconnectt
 vless://MAconnectt@hayabusa.proxy.rlwy.net:26704?mode=auto&path=/&security=reality&encryption=none&extra={"xPaddingBytes":"100-1000","mode":"auto","scMaxEachPostBytes":"1000000"}&pbk=f0JLnQp28fOt1vTrWX1D8LKJlRDiQF89Knf6uZ1ZjzU&fp=chrome&spx=/&type=xhttp&sni=is1-ssl.mzstatic.com&sid=9a#@MAconnectt🇳🇱
 vless://MIMITDL@65.109.212.53:80?path=/?ed=1024&security=none&encryption=none&host=play.google.com&type=ws#@MIMITDL کانال ما🔥⚡
@@ -503,3 +501,5 @@ vless://b788e98c-ce84-4edc-b094-cb39b0c3560d@172.67.147.147:2087?path=/eyJqdW5rI
 vless://b7bcf7c0-15f3-4fb4-b806-69720061b2bc@hayabusa.proxy.rlwy.net:21818?encryption=none&fp=&mode=auto&pbk=7ibzH3KrnY8gAupFJK41egZM81lpBIBgUZgzvdvgSzg&security=reality&sid=1135caaecd&sni=www.goo.gl&type=xhttp#🐞88@v2ray_configs_pools
 vless://b813cbc9-dc15-4348-9765-b99dc76d4422@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=1&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#TEL;Father_vpn
 vless://b83ec8bd-6a9d-462e-8973-c2260e77fe7a@135.125.184.40:8443?security=reality&encryption=none&pbk=oLuqJsj4z6m_kns9ETrsIPA8fDrysonWXEsmn3931kY&headerType=none&fp=chrome&spx=/--MXGRID--&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=c5432bb8e5c0#MxGrid-join@mxgrid)free
+vless://b8794f67-80d9-4124-8fc5-2d2ce5516573@216.227.169.104:443?security=reality&type=tcp&packetEncoding=xudp&sni=deepl.com&fp=chrome&flow=xtls-rprx-vision&sid=bd72&pbk=AYL1z7PNyo6LqYLeZpXa50FnK9eEu7o18KHRhOlST1w&encryption=none#🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸
+vless://b88e1ac0-0647-3bae-7846-de9f5e6cb5aa@x4g-production-246b.up.railway.app:443?path=/ws/b88e1ac0-0647-3bae-7846-de9f5e6cb5aa&security=tls&alpn=http/1.1&encryption=none&host=x4g-production-246b.up.railway.app&fp=chrome&type=ws&sni=x4g-production-246b.up.railway.app#🇩🇪 @V2ngFast
