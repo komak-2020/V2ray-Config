@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://14ba9603-1936-4d79-889a-f2b12d7508c2@cD4UL9u4hliL.fly.p7d.ir:80?mode=auto&path=/assets&security=none&encryption=none&host=xn--9kqz4c3d8f2a9b7e6h5m4n3p2q1r0s8t7u6v5w4x.global.ssl.fastly.net&type=xhttp#@KAFING_2
 vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&security=reality&sni=aws.amazon.com&type=tcp#2🟢@oneclickvpnkeys
 vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?security=reality&encryption=none&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#@Soul737
 vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?security=reality&encryption=none&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#Proxy_Se7en
@@ -502,4 +503,3 @@ vless://40de6299-d792-4868-8a82-411ead0aa943@144.124.246.55:443?encryption=none&
 vless://40e32120-08c8-4a48-aa0b-156b653f364f@217.179.221.234:24986?path=/&security=none&encryption=none&host=mci.ir&type=httpupgrade#TEL;Father_vpn
 vless://411c1913-996e-000c-89fe-0d25ac621e83@213.176.19.11:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=PcJV65cp5U87UQOZJ5Oaf0NHriHZJbC8TPfthF4Aqyk&security=reality&sid=15bcc0a77c3cacdf&sni=dedrf.novabooster.ru&type=tcp#🟢23@v2ray_configs_pools
 vless://4166019f-0448-4eda-b29a-f824ff017083@blog.arioonlineshop.ir:13465?security=none&encryption=none&host=exo.ir&headerType=http&type=tcp&note=@FreeOnlineVPN#🇫🇮 - FI - @FreeOnlineVPN
-vless://41dcf135-49a8-45ee-85ac-581731e0fa2c@185.226.93.160:1102?encryption=none&fp=chrome&pbk=pn91tsuZ1PlyIi2l80Ei28jXgvPrnuVsBseihnlpVxg&security=reality&sid=584a18e749209589&sni=yahoo.com&spx=/VJO40r0Tu05fVkG&type=tcp#TRY-FREE_1TR-1000.00GB📊
