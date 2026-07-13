@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://c065e1bb-cb56-41e5-b043-9dfd15b67565@152.233.43.77:16923?mode=gun&security=reality&encryption=none&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&type=grpc&serviceName=neurex&sni=api-maps.yandex.ru&sid=10ffb85da1c2d986#🇵🇱@FreakConfig
 vless://c065e1bb-cb56-41e5-b043-9dfd15b67565@152.233.43.77:16923?security=reality&sid=10ffb85da1c2d986&encryption=none&sni=api-maps.yandex.ru&type=grpc&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&mode=gun&serviceName=neurex#@Alpha_v2rayIP🦾
 vless://c065e1bb-cb56-41e5-b043-9dfd15b67565@152.233.43.77:16923?sni=api-maps.yandex.ru&security=reality&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986&type=grpc&serviceName=neurex&encryption=none&mode=gun#@Napsternetvirani🦾
 vless://c065e1bb-cb56-41e5-b043-9dfd15b67565@89.222.123.211:16923?encryption=none&fp=&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&security=reality&serviceName=neurex&sid=10ffb85da1c2d986&sni=api-maps.yandex.ru&type=grpc#🪯100@oneclickvpnkeys
@@ -502,4 +503,3 @@ vless://e004cd21-d55b-a5cf-b0e2-af27acc7ec83@x4g-production-b148.up.railway.app:
 vless://e009ee66-9d4f-4e88-b261-f73bc0d77aab@144.126.195.184:443?security=none&encryption=none&headerType=http&type=tcp#چنل عضو شو @v2ra_config
 vless://e02ec9ed-3214-4914-80f1-ed2cf435314d@mail.erwinhoda.shop:2083?security=tls&allowInsecure=0&encryption=none&type=ws&host=mail.erwinhoda.shop&path=/&sni=mail.erwinhoda.shop&fp=chrome&alpn=h2,http/1.1#5823 | @WetConfig~FREE-TUN🇫🇮
 vless://e044297a-304f-40a9-a9fb-d17b744fa781@Melinet1.temas-arvhA.iR:44444?host=play.google.coM.&encryption=none&fp=chrome&pbk=79ji8OAmCVQTKcJmvf-iqZypOSKwuTD_sbatB4RHXXM&security=reality&sid=f37329647c9a1886&sni=yahoo.com.&headerType=none&type=tcp#@Alpha_v2rayIP👾
-vless://e044297a-304f-40a9-a9fb-d17b744fa781@Melinet1.temas-arvhA.iR:44444?security=reality&encryption=none&pbk=79ji8OAmCVQTKcJmvf-iqZypOSKwuTD_sbatB4RHXXM&host=play.google.coM.&headerType=none&fp=chrome&type=tcp&sni=yahoo.com.&sid=f37329647c9a1886#@tootffarangi🍓-3
