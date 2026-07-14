@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@mypanel.unixzone.us:12068?encryption=none&type=ws&path=%2F#%40hi_proxy_iran
-hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52018?security=tls&obfs=salamander&alpn=h3&obfs-password=53cgqwhojoxri5lr&insecure=0&sni=assets.gateway-stream.com#%40v2ray_configs_pools
 vless://914f97ee-1e5e-475d-9f04-fb93ef8585e7@ppm.nsuex.com:55715?security=&encryption=none&headerType=none&type=tcp#%40v2ray_configs_pools
 hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52021?security=tls&obfs=salamander&obfs-password=mtg2vchyir6la3et&insecure=0&sni=assets.gateway-stream.com#%40Feroxvpn
 vless://%40MAconnectt@acela.proxy.rlwy.net:34100?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%7D&pbk=c6Odo5Abci1KiOQxUTETIVIxxYSFXp1DC0N2oZccYUE&fp=firefox&spx=%2F&type=xhttp&sni=is1-ssl.mzstatic.com&sid=585c6291#🔵@chillguy_vpn
