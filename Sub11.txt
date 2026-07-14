@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.19.206.162:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&insecure=0&allowInsecure=0&type=ws&host=t1s1.rittbo.kdns.fr&path=/fp#@hi_proxy_iran :👈کانال تلگرام
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.21.227.134:443?encryption=none&type=ws&security=tls&path=/&host=t1s1.rittbo.kdns.fr&sni=t1s1.rittbo.kdns.fr&insecure=0&allowInsecure=0#@meliproxyy
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.21.227.134:443?path=/&security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#Proxy_Se7en
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.21.227.134:443?path=/&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#@Ap_Ir6
@@ -503,3 +502,4 @@ vless://facefd1f-903b-411d-b0a2-286c9a76e471@162.159.152.87:2083?path=/Telegram@
 vless://fb15c6cb-2a01-41a4-b7a2-acc0fccd3f87@167.82.101.210:443?mode=auto&path=/?ed=2048&security=tls&encryption=none&extra={"xPaddingBytes":"100-1000"}&host=imei.global.ssl.fastly.net&fp=chrome&type=xhttp&sni=global.fastly.com#Xht-14-umimd4h5sw-50.00GB📊-1D⏳
 vless://fb15c6cb-2a01-41a4-b7a2-acc0fccd3f87@167.82.101.250:443?mode=auto&path=/?ed=2048&security=tls&encryption=none&extra={"xPaddingBytes":"100-1000"}&host=imei.global.ssl.fastly.net&fp=chrome&type=xhttp&sni=global.fastly.com#Xht-14-umimd4h5sw-50.00GB📊-1D⏳
 vless://fb15c6cb-2a01-41a4-b7a2-acc0fccd3f87@167.82.102.90:443?mode=auto&path=/?ed=2048&security=tls&encryption=none&extra={"xPaddingBytes":"100-1000"}&host=imei.global.ssl.fastly.net&fp=chrome&type=xhttp&sni=global.fastly.com#Xht-14-umimd4h5sw-50.00GB📊-1D⏳
+vless://fb15c6cb-2a01-41a4-b7a2-acc0fccd3f87@199.232.245.94:443?mode=auto&path=/?ed=2048&security=tls&encryption=none&extra={"xPaddingBytes":"100-1000"}&host=imei.global.ssl.fastly.net&fp=chrome&type=xhttp&sni=global.fastly.com#Xht-14-umimd4h5sw-50.00GB📊-1D⏳

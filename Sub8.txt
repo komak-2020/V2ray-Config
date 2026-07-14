@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://Join,telegram:TurboConfigs@91.107.150.246:2091?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@erfanandroid
 vless://Join,telegram:TurboConfigs@91.107.150.246:443?encryption=none&type=tcp&headerType=http&path=/&host=play.google.com#@Ap_Ir6
 vless://Join,telegram:X_RAY_VPN1@91.107.150.246:443?encryption=none&type=tcp&headerType=http&path=/&host=play.google.com#@Ap_Ir6
 vless://MAconnectt@hayabusa.proxy.rlwy.net:12502?mode=auto&path=/&security=reality&encryption=none&extra={"xPaddingBytes":"100-1000","mode":"auto","scMaxEachPostBytes":"1000000"}&pbk=5qUmBg-yImwiQ1Fuw18hUKRK15uqpp5Fq-73oyqEjgQ&fp=chrome&spx=/&type=xhttp&sni=is1-ssl.mzstatic.com&sid=646aec27#@MAconnectt🇳🇱
@@ -503,3 +502,4 @@ vless://b69b61ef-7454-470c-968b-3a8155591248@ser.coolfrog-bot.ir:8080?type=ws&en
 vless://b6a37943-95a9-47da-9310-8263fe1f9ec5@45.133.209.184:4588?security=reality&encryption=none&pbk=49LjRovubjQuO8F6gMKlHZ7eTCbhpx-61rUszaTJYWk&headerType=none&fp=chrome&spx=/PZl99HygcgKBkv8&type=tcp&sni=aparat.com&sid=fa2401aad82386b5#@erfanandroid
 vless://b6a37943-95a9-47da-9310-8263fe1f9ec5@fr1-azad.0xoddity.ir:5666?security=reality&encryption=none&pbk=0qp2ibLJZMNQfIQYAbYmZzhyeeKRgVjm2AGxgbNDWhg&headerType=none&fp=chrome&spx=/7VzgxkxEJjZqSfh&type=tcp&sni=ca.rogers.yahoo.com&sid=2539f132f20e7271#@erfanandroid
 vless://b6a37943-95a9-47da-9310-8263fe1f9ec5@tu1-azad.petshopcloud.ir:5676?encryption=none&security=reality&sni=ca.my.yahoo.com&fp=chrome&pbk=oyQ3qwkwg06ZCZhI4Gzi4CIHFR2CfXuTysnV25GcPzY&sid=9a1bdcac8565f898&spx=/wryFHh2hsVXpTbP&type=xhttp&path=/api/v2/content&mode=auto&extra={"mode":"auto","xPaddingBytes":"100-1000"}#hope of freedom - @anotherme_night
+vless://b6a37943-95a9-47da-9310-8263fe1f9ec5@tu1-azad.petshopcloud.ir:5676?mode=auto&path=/api/v2/content&security=reality&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&pbk=oyQ3qwkwg06ZCZhI4Gzi4CIHFR2CfXuTysnV25GcPzY&fp=chrome&spx=/wryFHh2hsVXpTbP&type=xhttp&sni=ca.my.yahoo.com&sid=9a1bdcac8565f898#@prrofile_purple  ♥️👈 تلگرام
