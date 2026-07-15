@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vmess://5ed7206a-cd8d-4b02-add1-4f7b787178c9@31.77.149.131:110?encryption=auto&security=none&type=tcp
+vmess://5ed7206a-cd8d-4b02-add1-4f7b787178c9@31.77.149.131:110?encryption=auto&security=none&type=tcp#🪙8@oneclickvpnkeys
 vmess://d1b0c103-a7ff-4bd6-887d-a73d6ebf1f50@94.103.167.116:80?encryption=auto&security=none&type=tcp#🎡13@oneclickvpnkeys
 vmess://d1b0c103-a7ff-4bd6-887d-a73d6ebf1f50@94.103.167.116:80?encryption=auto&security=none&type=tcp#🪙16@oneclickvpnkeys
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkFkYW1CYXJmaSAtIDVUQiIsDQogICJhZGQiOiAiMTc4LjYzLjIzNy4xNTgiLA0KICAicG9ydCI6ICIyMDUzIiwNCiAgImlkIjogIjJkNGRkNjcyLTE4MGYtNDE1Yy05MDM1LWUyZmM0NjFkZDk1YSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAiaHR0cCIsDQogICJwYXRoIjogIi9BZGFtQmFyZmkiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiIsDQogICJpbnNlY3VyZSI6ICIwIiwNCiAgInZjbiI6ICIiLA0KICAicGNzIjogIiINCn0=
@@ -501,5 +503,3 @@ vless://96e341a7-3077-4613-b482-41bd9c90cc4d@ezaccess-project-4c7950.ez-dc9bbb.w
 vless://9e648bb6-25f7-4b16-9949-55ac0952d66b@198.41.208.252:8880?encryption=none&host=lingering-grass-6728.131-a78.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?encryption=none&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AIT
 vless://9f4b666c-ecf1-49e9-8ab8-9ae2c4f4c613@172.64.94.251:8880?encryption=none&host=withered-morning-aa51.64-c79.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://SoonTeam@sexi.carderrr.com:443?path=%2Ftelegram%40SoonTeam&security=none&encryption=none&host=anten.ir&type=ws#%3E%3E%40v2rayng_fast%3A%3AXX
-vless://aebe5a70-0ca3-46ce-8208-8b5bab1346ce@mybb.com:443?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=rayan-007.nastaran.dpdns.org&path=%2F&security=tls&sni=rAyAn-007.nAsTaRaN.DpDnS.OrG&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS

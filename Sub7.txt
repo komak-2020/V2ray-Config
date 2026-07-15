@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://864f675f-2177-4cdb-967e-6bfc13792a24@test.dnmpropack.ir:443?security=reality&encryption=none&pbk=OUhhbeFOCEY0IFnWfWCPn2-MRIRb3LsBU7W9zSk-ino&headerType=none&fp=chrome&spx=/e72f260ec8ae4df&type=tcp&sni=www.samsung.com&sid=f48e#@best_internet_iran کانال روبیکا و تلگرام 🕊⭐️
+vless://864f675f-2177-4cdb-967e-6bfc13792a24@test.dnmpropack.ir:443?security=reality&encryption=none&pbk=OUhhbeFOCEY0IFnWfWCPn2-MRIRb3LsBU7W9zSk-ino&headerType=none&fp=chrome&spx=/e72f260ec8ae4df&type=tcp&sni=www.samsung.com&sid=f48e#Tel-@ProxyMtAlpha🕸️ 6
 vless://864f675f-2177-4cdb-967e-6bfc13792a24@test.dnmpropack.ir:80?security=reality&encryption=none&pbk=In1QpuYnfeWDVwULBrPVsut1UIN_BqK9DxGuIwprg0c&headerType=none&fp=chrome&spx=/e72f260ec8ae4df&type=tcp&sni=www.nvidia.com&sid=6d#@best_internet_iran کانال روبیکا و تلگرام 🕊⭐️
 vless://867e88e0-4e38-7f01-b5f0-dab70b7c43e4@x4g-production-4c5f.up.railway.app:443?path=/ws/867e88e0-4e38-7f01-b5f0-dab70b7c43e4&security=tls&alpn=http/1.1&encryption=none&host=x4g-production-4c5f.up.railway.app&fp=chrome&type=ws&sni=x4g-production-4c5f.up.railway.app#✨ @NamiraConfigs | ❤️ وصل شدی جوین شو | 🚀 | 🇺🇸
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.16.4.189:2095?path=/fp&security=&encryption=none&host=cnmfangbinxing.cnmfangbinxing-s.workers.dev&type=ws&sni=cnmfangbinxing.cnmfangbinxing-s.workers.dev#⚪t.me/iProxyChannel 16
@@ -501,5 +503,3 @@ vless://9d66932d-9eec-47de-972a-e98dee7231c1@fanland.lorqina.ir:8880?security=re
 vless://9d66932d-9eec-47de-972a-e98dee7231c1@fanland.lorqina.ir:8880?security=reality&encryption=none&pbk=dISkAZV3LXVBa9yM02MoyFqajSLFqXrTj74ywRzKjiY&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&spx=/uS5CSktTYiyCyav&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=69d1#@meliproxyy
 vless://9df8feba-3070-40f4-94bb-0e538fcc50c6@45.131.4.115:443?path=/9df8feba-3070-40f4-94bb-0e538fcc50c6-vless?ed=2560&security=tls&encryption=none&insecure=0&host=off-administered-publicity-ate.trycloudflare.com&type=ws&allowInsecure=0&sni=off-administered-publicity-ate.trycloudflare.com#پرسرعت CF 🔰 @EarnMoney_arz - ³ کانال تلگرام
 vless://9e1671d2-4092-4ae4-93b3-1d2db0f1a071@89.39.121.54:110?security=none&encryption=none&headerType=none&type=tcp#@hopev2ray💙
-vless://9e1671d2-4092-4ae4-93b3-1d2db0f1a071@89.39.121.54:110?security=none&encryption=none&headerType=none&type=tcp#@hopev2ray🩶
-vless://9e283964-8e37-4224-91f7-87456cb58371@marzban-node-production-9e04.up.railway.app:443?path=/vless&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=marzban-node-production-9e04.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=marzban-node-production-9e04.up.railway.app#@meliproxyy
