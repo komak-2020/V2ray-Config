@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://1ea1b30b-4114-4a5c-bd3a-9637bdae1948@45.86.159.134:2085?type=grpc&serviceName=vless#🇬🇧 Join+Telegram:@Farah_VPN 🇬🇧
 vless://1ea1b30b-4114-4a5c-bd3a-9637bdae1948@45.86.159.135:2085?security=&encryption=none&type=grpc&serviceName=vless#🇬🇧 Join+Telegram:@Farah_VPN 🇬🇧
 vless://1ea1b30b-4114-4a5c-bd3a-9637bdae1948@45.86.159.136:2085?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#🇬🇧 Join+Telegram:@Farah_VPN 🇬🇧
 vless://1ea1b30b-4114-4a5c-bd3a-9637bdae1948@45.86.159.142:2085?encryption=none&security=none&serviceName=vless&type=grpc#🇬🇧 Join+Telegram:@Farah_VPN 🇬🇧
@@ -503,3 +502,4 @@ vless://4bf5a71c-d726-4585-b095-7396675706d5@72.56.81.165:40443?security=reality
 vless://4bf5a71c-d726-4585-b095-7396675706d5@72.56.81.165:40443?security=reality&encryption=none&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=c84f#@hi_proxy_iran :👈کانال تلگرام
 vless://4bf5a71c-d726-4585-b095-7396675706d5@72.56.81.165:40443?security=reality&encryption=none&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=c84f#Channel : @Daily_Configs
 vless://4bf5a71c-d726-4585-b095-7396675706d5@cdn.netraidly.ru:40443?security=reality&;encryption=none&;pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&;headerType=none&;fp=chrome&;type=tcp&;flow=xtls-rprx-vision&;sni=deepl.com&;sid=c84f#🇳🇱 Join+Telegram:@Farah_VPN 🇳🇱
+vless://4bf5a71c-d726-4585-b095-7396675706d5@cdn.netraidly.ru:40443?security=reality&encryption=none&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=c84f#@Soul737
