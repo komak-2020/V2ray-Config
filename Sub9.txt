@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://c8b5f6c9-83ff-4ca1-be9c-f997a5b2f692@5.253.66.203:443?security=reality&encryption=none&pbk=PDBVcDR6o01XUpdNNZ6rutJ_DBqnF7VcDuWceHIpyE8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cdn-up.perecbass.ru&sid=8c4d9e1f#🇩🇪𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠➜@MetiVIP
 vless://c8b5f6c9-83ff-4ca1-be9c-f997a5b2f692@5.253.66.203:443?security=reality&encryption=none&pbk=PDBVcDR6o01XUpdNNZ6rutJ_DBqnF7VcDuWceHIpyE8&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cdn-up.perecbass.ru&sid=8c4d9e1f#@MARAMBASHI 💎
 vless://c8b5f6c9-83ff-4ca1-be9c-f997a5b2f692@5.253.66.203:443?security=reality&encryption=none&pbk=PDBVcDR6o01XUpdNNZ6rutJ_DBqnF7VcDuWceHIpyE8&host=MTMVPN--MTMVPN--MTMVPN&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cdn-up.perecbass.ru&sid=8c4d9e1f#@bored_vpn
 vless://c8b5f6c9-83ff-4ca1-be9c-f997a5b2f692@5.253.66.203:443?security=reality&encryption=none&pbk=PDBVcDR6o01XUpdNNZ6rutJ_DBqnF7VcDuWceHIpyE8&host=MTMVPN--MTMVPN--MTMVPN&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cdn-up.perecbass.ru&sid=8c4d9e1f#@confiig_hub
@@ -503,3 +502,4 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.127.97.180:22224?encryption=none&
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.127.97.180:22224?encryption=none&security=none&type=tcp#🇩🇪112105 | ⚡️Telegram = t.me/SOSkeyNET
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.127.97.180:22224?encryption=none&security=none&type=tcp#🇩🇪DE-🚀@VPNine1
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.127.97.180:22224?encryption=none&security=none&type=tcp#🔵@chillguy_vpn
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.204.6:22222?encryption=none&security=none&type=tcp#(S104)🇨🇵t.me/PrivateVPNs

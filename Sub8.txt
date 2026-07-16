@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://a4f4a373-d6c2-c5eb-0e1c-d2b01ff2529b@x4g-production-f44e.up.railway.app:443?path=/ws/a4f4a373-d6c2-c5eb-0e1c-d2b01ff2529b&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=x4g-production-f44e.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-f44e.up.railway.app#Tel-@ProxyMtAlpha🦎 6
 vless://a4f4a373-d6c2-c5eb-0e1c-d2b01ff2529b@x4g-production-f44e.up.railway.app:443?path=/ws/a4f4a373-d6c2-c5eb-0e1c-d2b01ff2529b&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=x4g-production-f44e.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-f44e.up.railway.app#kurdconfig
 vless://a4f4a373-d6c2-c5eb-0e1c-d2b01ff2529b@x4g-production-f44e.up.railway.app:443?path=/ws/a4f4a373-d6c2-c5eb-0e1c-d2b01ff2529b&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=x4g-production-f44e.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-f44e.up.railway.app#☑➜چنلمون: Express_freevpn@
 vless://a4f4a373-d6c2-c5eb-0e1c-d2b01ff2529b@x4g-production-f44e.up.railway.app:443?path=/ws/a4f4a373-d6c2-c5eb-0e1c-d2b01ff2529b&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=x4g-production-f44e.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-f44e.up.railway.app#🇺🇸@FreakConfig
@@ -503,3 +502,4 @@ vless://c8b5f6c9-83ff-4ca1-be9c-f997a5b2f692@5.253.66.203:443?headerType=none&sn
 vless://c8b5f6c9-83ff-4ca1-be9c-f997a5b2f692@5.253.66.203:443?security=reality&encryption=none&pbk=PDBVcDR6o01XUpdNNZ6rutJ_DBqnF7VcDuWceHIpyE8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cdn-up.perecbass.ru&sid=8c4d9e1f#@Generalconfiig
 vless://c8b5f6c9-83ff-4ca1-be9c-f997a5b2f692@5.253.66.203:443?security=reality&encryption=none&pbk=PDBVcDR6o01XUpdNNZ6rutJ_DBqnF7VcDuWceHIpyE8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cdn-up.perecbass.ru&sid=8c4d9e1f#@filembad
 vless://c8b5f6c9-83ff-4ca1-be9c-f997a5b2f692@5.253.66.203:443?security=reality&encryption=none&pbk=PDBVcDR6o01XUpdNNZ6rutJ_DBqnF7VcDuWceHIpyE8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cdn-up.perecbass.ru&sid=8c4d9e1f#@v2raybaaz [🌶]
+vless://c8b5f6c9-83ff-4ca1-be9c-f997a5b2f692@5.253.66.203:443?security=reality&encryption=none&pbk=PDBVcDR6o01XUpdNNZ6rutJ_DBqnF7VcDuWceHIpyE8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cdn-up.perecbass.ru&sid=8c4d9e1f#🇩🇪𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠➜@MetiVIP

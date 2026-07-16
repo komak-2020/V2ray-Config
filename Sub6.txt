@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://7124626c-9341-48a6-b89f-2ec1e96fba33@45.130.125.207:2053?path=/eyJqdW5rIjoiZnRRTXp4V2lQSElhRWIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed&security=tls&encryption=none&insecure=0&host=autumn-mud-426b.jdydyxhhdjsfhf.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=autUMN-MuD-426B.JDYdyxhHdJSfhf.workers.Dev#🇬🇧V2raySaman
 vless://718ff826-3d64-441c-b1ec-54a1d7394931@euro.connectingissues.ir:80?mode=auto&path=/?ed=2048&security=none&encryption=none&host=shirin-kose.de&type=xhttp#🕊 @Fear_Config
 vless://718ff826-3d64-441c-b1ec-54a1d7394931@global.connectingissues.ir:80?mode=auto&path=/?ed=2048&security=none&encryption=none&host=shirin-kose.de&type=xhttp#🕊 @Fear_Config
 vless://718ff826-3d64-441c-b1ec-54a1d7394931@local.connectingissues.ir:80?mode=auto&path=/?ed=2048&security=none&encryption=none&host=shirin-kose.de&type=xhttp#🕊 @Fear_Config
@@ -503,3 +502,4 @@ vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.252:443?encryption=none
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.253:443?encryption=none&type=tcp&security=reality&headerType=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&sni=enterprisekitten.com&fp=chrome&insecure=1&allowInsecure=1&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision#@vpng3 [32]
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.253:443?encryption=none&type=tcp&security=reality&headerType=none&sni=enterprisekitten.com&fp=chrome&insecure=1&allowInsecure=1&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision#@vpng3 [14]
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@94.242.55.42:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=enterprisekitten.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&type=tcp&headerType=none#Upload
+vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@94.242.55.42:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=enterprisekitten.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&type=tcp&headerType=none#🇷🇺 Join+Telegram:@Farah_VPN 🇷🇺
