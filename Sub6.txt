@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@betty.ns.cloudflare.com:443?encryption=none&security=tls&sni=amooaliii.net&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=amooaliii.net&path=/jdhfyws#[96352] - Telegram : @V2All
 vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@betty.ns.cloudflare.com:443?encryption=none&security=tls&sni=amooaliii.net&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=amooaliii.net&path=/jdhfyws#🇨🇦113467 | ⚡️Telegram = t.me/SOSkeyNET
 vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@betty.ns.cloudflare.com:443?encryption=none&security=tls&sni=amooaliii.net&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=amooaliii.net&path=/jdhfyws#🇨🇦CA_1585_@Surfboardv2ray
 vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@betty.ns.cloudflare.com:443?path=/jdhfyws&security=tls&encryption=none&insecure=0&host=amooaliii.net&fp=chrome&type=ws&allowInsecure=0&sni=amooaliii.net#@Arvand_soul❤️🧑‍💻 کانفیگ ملی در #5
@@ -502,4 +503,3 @@ vless://89b33bbb-d4ed-8c8c-de79-a24e9b97f3d3@tmesubgift.up.railway.app:443?encry
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@185.176.26.128:443?security=tls&sni=b458aB02.caa-CHaneL-Worker-Page-FReE-jHUIhnUjhPHjkl-NihGKjN.PAGES.Dev&type=ws&path=/#@Hope_Net-join-us-on-Telegram
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@185.176.26.128:443?security=tls&sni=b458aB02.caa-CHaneL-Worker-Page-FReE-jHUIhnUjhPHjkl-NihGKjN.PAGES.Dev&type=ws&path=/#🇰🇿113479 | ⚡️Telegram = t.me/SOSkeyNET
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:443/?type=ws&encryption=none&host=iRaNSofTwAre85985611.PaGes.Dev&path=/3ixeZxIuzmrYVV6J?ed=2560&security=tls&sni=iRANSOFTWare85985611.PaGes.dEV&alpn=h2,http/1.1&fp=chrome#@v2ray_configs_pools-join-us-on-Telegram
-vless://89bbf99d-1ac9-46bb-9aeb-ef31ee54f178@pox.foot8all.ir:56432?security=reality&encryption=none&pbk=LeUM8rH4Y0ntr5t_21HN4nBJLqfP8e3BOg8y1_CF4R8&headerType=none&fp=chrome&type=tcp&sni=refersion.com&sid=e4d00b683d6d8021#@prrofile_purple  ♥️👈 تلگرام

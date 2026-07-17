@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://ef14c532-b69a-4f46-ae29-272f2fdaf673@87.199.208.102:8090?encryption=none&host=rukr.speedload.ru&path=/ws&security=none&type=ws#🪭32@oneclickvpnkeys
 vless://ef14c532-b69a-4f46-ae29-272f2fdaf673@87.199.208.102:8090?path=/ws&security=none&encryption=none&host=rukr.speedload.ru&type=ws#@vmesskhodam
 vless://ef14c532-b69a-4f46-ae29-272f2fdaf673@89.124.68.204:8090?path=/ws&security=none&encryption=none&host=rukr.speedload.ru&type=ws#@tootffarangi🍓-16hamrah
 vless://ef14c532-b69a-4f46-ae29-272f2fdaf673@89.124.89.102:8090?encryption=none&host=rukr.speedload.ru&path=/ws&security=none&type=ws#🪭40@oneclickvpnkeys
@@ -502,4 +503,3 @@ trojan://XG59623478@growing-oyster.rooster465.autos:443?allowInsecure=1#%3E%3E%4
 trojan://XG59623478@stirring-dane.rooster465.autos:443?allowInsecure=1&sni=stirring-dane.rooster465.autos#%3E%3E%40v2nodes%3A%3AAU
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.140:443#%3E%3E%40oneclickvpnkeys%3A%3AXX
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.145:443#%3E%3E%40oneclickvpnkeys%3A%3AXX
-trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.142:443#%3E%3E%40oneclickvpnkeys%3A%3AXX
