@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://bcce095a-9f98-4e23-a68c-8bbecb785dcd@104.19.141.129:443?path=/213.35.100.31=47112&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#Arshiavpn12
 vless://bcce095a-9f98-4e23-a68c-8bbecb785dcd@104.19.141.3:443?path=/213.35.100.31=47112&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#@CUSTOMVPNSERVER
 vless://bcce095a-9f98-4e23-a68c-8bbecb785dcd@104.19.141.3:443?path=/213.35.100.31=47112&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#Arshiavpn12
 vless://bd134ebe-650c-4bd6-a208-2463b226adb2@104.17.147.22:80?path=/@Vpn_Mikey،@Vpn_Mikey&security=none&encryption=none&host=Vpn_Mikey-speedtest.net.Amir-Mikey.Tech.&type=httpupgrade#@Vpn_Mikey | unlimitedGB 🇫🇷
@@ -503,3 +502,4 @@ vless://e277ac9b-3225-3381-a9fb-3585419f7142@love.ns.cloudflare.com:443?path=/me
 vless://e31085f9-7f55-4a7d-b00e-ce94149477cb@104.18.32.47:80?path=/?ed&security=none&encryption=none&host=PrICKLy-AdverTisEMEnt6OaD5Z64MK.onEEaT.cO.&type=ws&note=@FreeOnlineVPN#🇳🇱 - NL - @FreeOnlineVPN
 vless://e34b22ef-23d0-41e7-a9e3-f79c24ce5d8f@khhf2853SHJVs.dadashinet10.ir:2044?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#🇩🇪113649 | ⚡️Telegram = t.me/SOSkeyNET
 vless://e34b22ef-23d0-41e7-a9e3-f79c24ce5d8f@khhf2853SHJVs.dadashinet10.ir:2044?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#🇩🇪DE-🚀@VPNine1
+vless://e34b22ef-23d0-41e7-a9e3-f79c24ce5d8f@soskeynets.dadashinet10.ir:2044?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#🇩🇪113649 | ⚡️Telegram = t.me/SOSkeyNET
