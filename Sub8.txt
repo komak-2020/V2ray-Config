@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://93431e85-7066-4675-843a-c0eeaab5ab2f@bot.sobhanpor.ir:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=bot.sobhanpor.ir#🇫🇮115597 | ⚡️Telegram = t.me/SOSkeyNET
 vless://93431e85-7066-4675-843a-c0eeaab5ab2f@bot.sobhanpor.ir:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=bot.sobhanpor.ir#🇫🇮FI-🚀@VPNine1
 vless://93431e85-7066-4675-843a-c0eeaab5ab2f@bot.sobhanpor.ir:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=bot.sobhanpor.ir#🇫🇷 𓏺 𝐅𝐫𝐚𝐧𝐜𝐞
 vless://93431e85-7066-4675-843a-c0eeaab5ab2f@bot.sobhanpor.ir:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=bot.sobhanpor.ir#🇬🇧 𓏺 𝐔𝐧𝐢𝐭𝐞𝐝 𝐊𝐢𝐧𝐠𝐝𝐨𝐦
@@ -503,3 +502,4 @@ vless://c09795c8-ee61-4c2a-980b-5946d66c80ec@VARZESH3.COM:2096?path=/&security=t
 vless://c09795c8-ee61-4c2a-980b-5946d66c80ec@VARZESH3.COM:2096?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=lol6.artarona.ir&type=ws&allowInsecure=0&sni=lol6.artarona.ir#TEL;Father_vpn
 vless://c09d7f00-bac6-4b26-af83-cab341e089aa@holand2.tehran-game.ir:443?path=/&security=none&encryption=none&host=tehran-game.ir&type=ws#kurdconfig
 vless://c09d7f00-bac6-4b26-af83-cab341e089aa@holand2.tehran-game.ir:443?path=/&security=none&encryption=none&host=tehran-game.ir&type=ws#🇳🇱@V2rayng_Fast
+vless://c0f081af-7d91-4c68-84ac-4a36e0034633@chatgpt.com:443?path=/eyJqdW5rIjoiYWwzY3dmZmtmMDNvYnAzNiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=636&security=tls&encryption=none&fm={"tcp":[{"settings":{"delay":"8","length":"5","maxSplit":"140","packets":"1-1"},"type":"fragment"}]}&insecure=0&host=tvv98wmo.2xxmomfn8t5fmb22g32w.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=tvv98wmo.2xxmomfn8t5fmb22g32w.workers.dev#@erfanandroid
