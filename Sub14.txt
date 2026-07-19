@@ -3,42 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://NQ26071394@amazing-troll.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-13.250.26.223-0237
-trojan://CF68213490@powerful-troll.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-54.255.158.218-0238
-trojan://CF68213490@internal-krill.rooster465.autos:443?security=tls&sni=internal-krill.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-47.131.233.29-0239
-trojan://CF68213490@star-hagfish.rooster465.autos:443?security=tls&sni=star-hagfish.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-18.141.239.172-0240
-trojan://CF68213490@lucky-chimp.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-13.212.186.237-0241
-trojan://CF68213490@tight-gator.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-54.255.225.60-0242
-trojan://CF68213490@active-hippo.rooster465.autos:443?security=tls&sni=active-hippo.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-18.143.179.167-0243
-trojan://CF68213490@gentle-raptor.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-54.169.255.31-0233
-trojan://CF68213490@bright-cicada.rooster465.autos:443?security=tls&sni=bright-cicada.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-47.128.246.104-0245
-trojan://NQ26071394@bold-eagle.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-54.169.109.210-0246
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.179-0247
-trojan://CF68213490@relevant-oryx.rooster465.autos:443?security=tls&sni=relevant-oryx.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-47.129.8.215-0248
-trojan://NQ26071394@allowed-moose.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-54.169.16.108-0249
-trojan://CF68213490@moral-basilisk.rooster465.autos:443?security=tls&sni=moral-basilisk.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-18.143.164.105-0250
-trojan://CF68213490@sacred-treefrog.rooster465.autos:443?security=tls&sni=sacred-treefrog.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-52.221.218.103-0251
-trojan://CF68213490@vast-werewolf.rooster465.autos:443?security=tls&sni=vast-werewolf.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-13.229.60.15-0252
-trojan://CF68213490@saved-tuna.rooster465.autos:443?security=tls&sni=saved-tuna.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-56.10.12.139-0253
-trojan://CF68213490@brief-warthog.rooster465.autos:443?security=tls&sni=brief-warthog.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-47.129.229.87-0232
-trojan://NQ26071394@helping-newt.rooster465.autos:443?security=tls&sni=helping-newt.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-54.255.178.198-0255
-trojan://CF68213490@54.255.216.250:443?security=tls&sni=musical-terrier.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-54.255.216.250-0231
-trojan://CF68213490@normal-macaque.rooster465.autos:443?security=tls&sni=normal-macaque.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-47.131.229.111-0230
-trojan://NQ26071394@emerging-baboon.rooster465.autos:443?security=tls&sni=emerging-baboon.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-54.255.202.147-0229
-trojan://NQ26071394@proper-marlin.rooster465.autos:443?security=tls&sni=proper-marlin.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-54.179.153.60-0259
-trojan://CF68213490@sharp-scorpion.rooster465.autos:443?security=tls&sni=sharp-scorpion.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-18.136.143.231-0227
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.114.114.67:6697#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.67-0261
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.75.136.21:8080#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.21-0262
-ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@185.167.116.253:9014#%F0%9F%87%A6%F0%9F%87%BAAU-185.167.116.253-0263
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.114.114.19:5601#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.19-0264
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.75.136.21:5001#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.21-0265
-ss://YWVzLTI1Ni1jZmI6Rkc1ZGRMc01QYlY1Q3V0RQ==@185.167.116.253:9050#%F0%9F%87%A6%F0%9F%87%BAAU-185.167.116.253-0266
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.114.114.19:443#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.19-0267
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.75.136.21:5003#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.21-0268
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.143.66.99:8118#%F0%9F%87%BA%F0%9F%87%B8US-38.143.66.99-0269
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.143.66.99:5001#%F0%9F%87%BA%F0%9F%87%B8US-38.143.66.99-0270
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@78.129.253.9:809#%F0%9F%87%AC%F0%9F%87%A7GB-78.129.253.9-0272
-ss://YWVzLTI1Ni1jZmI6U241QjdqVHFyNzZhQ0pUOA==@185.167.116.24:9097#%F0%9F%87%A6%F0%9F%87%BAAU-185.167.116.24-0273
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.68.134.85:5600#%F0%9F%87%BA%F0%9F%87%B8US-38.68.134.85-0274
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@134.195.196.149:7307#%F0%9F%87%A8%F0%9F%87%A6CA-134.195.196.149-0275
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.64.138.145:8080#%F0%9F%87%BA%F0%9F%87%B8US-38.64.138.145-0276
