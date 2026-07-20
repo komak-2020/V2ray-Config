@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://8673cea6-211f-45cf-88e7-09d61a98e33f@stream.noneok.com:443?security=reality&sid=c18304806fa688bd&pbk=0DwrY31Tr1wowEKo8Q2dSUYHuwBPhQ2OGWlcpBOVrks&type=grpc&serviceName=api.v1.StreamService&sni=stream.noneok.com&encryption=none#@Alpha_v2rayIP
 vless://8673cea6-211f-45cf-88e7-09d61a98e33f@stream.noneok.com:443?sid=c18304806fa688bd&encryption=none&serviceName=api.v1.StreamService&security=reality&pbk=0DwrY31Tr1wowEKo8Q2dSUYHuwBPhQ2OGWlcpBOVrks&type=grpc&sni=stream.noneok.com#@Alpha_v2rayIP
 vless://8673cea6-211f-45cf-88e7-09d61a98e33f@stream.noneok.com:443?sid=c18304806fa688bd&security=reality&serviceName=api.v1.StreamService&pbk=0DwrY31Tr1wowEKo8Q2dSUYHuwBPhQ2OGWlcpBOVrks&type=grpc&sni=stream.noneok.com&encryption=none#@Napsternetvirani
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.24.197.20:2095?path=/&security=none&encryption=none&host=cnmfangbinxing.cnmfangbinxing-q.workers.dev&type=ws#🇨🇦@FreakConfig
@@ -503,3 +502,4 @@ vless://a26bbed7-a286-4840-84bc-dc102c526777@speedtest.net:80?mode=auto&path=/ca
 vless://a3114afe-ea45-4705-b3c5-4e7162fad687@217.198.5.45:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rf1.o4ka-internet.com&fp=chrome&pbk=V2JprbR_aJkS7uX6anyU3nrswGxdvDQT2HpY4WnzuC8&sid=5629431325884ff0&type=tcp&headerType=none#@meliproxyy
 vless://a3114afe-ea45-4705-b3c5-4e7162fad687@217.198.5.45:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rf1.o4ka-internet.com&fp=chrome&pbk=V2JprbR_aJkS7uX6anyU3nrswGxdvDQT2HpY4WnzuC8&sid=5629431325884ff0&type=tcp&headerType=none#Channel : @Daily_Configs
 vless://a3114afe-ea45-4705-b3c5-4e7162fad687@217.198.5.45:443?headerType=none&encryption=none&sni=rf1.o4ka-internet.com&fp=chrome&pbk=V2JprbR_aJkS7uX6anyU3nrswGxdvDQT2HpY4WnzuC8&security=reality&sid=5629431325884ff0&type=tcp&flow=xtls-rprx-vision#@Napsternetvirani
+vless://a3114afe-ea45-4705-b3c5-4e7162fad687@217.198.5.45:443?security=reality&encryption=none&pbk=V2JprbR_aJkS7uX6anyU3nrswGxdvDQT2HpY4WnzuC8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=rf1.o4ka-internet.com&sid=5629431325884ff0#@tootffarangi🍓-1
