@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.89.209:22224?security=none&encryption=none&headerType=none&type=tcp#🔵@chillguy_vpn
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.89.209:22222?encryption=none&security=none&type=tcp&headerType=none#🔵@chillguy_vpn
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.89.209:22224?encryption=none&security=none&type=tcp&headerType=none#🔵@chillguy_vpn
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.89.209:22223?encryption=none&security=none&type=tcp&headerType=none#🔵@chillguy_vpn
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.89.209:22223?security=none&encryption=none&headerType=none&type=tcp#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%E2%9E%A0%40PlanB_net
 vless://38a43f18-b4d9-443f-9ff1-4cf9de3d666e@45.85.118.16:2087?path=%2FeyJqdW5rIjoiS0ZJaGhSaG14Z0NMeCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0Ni4xMDMuMTE0LjEzNCJdfQ%3D%3D&security=tls&encryption=none&insecure=0&host=valid22.validbv9501.ir&type=ws&allowInsecure=0&sni=valid22.validbv9501.ir#%D9%88%D8%A7%DB%8C%20%D9%81%D8%A7%DB%8C%F0%9F%8E%B6
 vless://511c1563-2cb6-4064-abc6-a59ee49818a8@45.89.105.74:40443?security=reality&encryption=none&pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=88b6#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%E2%9E%A0%40PlanB_net
 vless://84e919d1-efc6-48fc-8248-8c3cbfec9f17@tw04.kinomir.fun:40443?security=reality&encryption=none&pbk=IZn3ibz8K1yot2cj4ssmAQHVB--xrcQEc3RCFQUSRiE&headerType=none&fp=qq&spx=%2F&type=tcp&sni=deepl.com&sid=2143#%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84%20%F0%9F%9B%B8
