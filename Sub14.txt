@@ -1,9 +1,0 @@
-#profile-title: base64:8J+GkyBHaXQ6YmFycnktZmFyIHwgU3ViMTQg8J+UpQ==
-#profile-update-interval: 1
-#subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
-#support-url: https://github.com/barry-far/V2ray-config
-#profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://fb99f0a6-c2d9-4243-ac92-0120d970da19@0720-zard.kovira2.ir:13424?path=%2F&security=none&encryption=none&host=chatgpt.com&type=ws#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%E2%9E%A0%40PlanB_net
-vless://634e61e8-daf0-9b7c-ef3f-1e8797935502@x4g-production-eaa0.up.railway.app:443?encryption=none&security=tls&type=ws&host=x4g-production-eaa0.up.railway.app&path=/ws/634e61e8-daf0-9b7c-ef3f-1e8797935502&sni=x4g-production-eaa0.up.railway.app&fp=random&alpn=http/1.1#X4G-F35-1`
-trojan://ef12f4f4-0ad3-4f39-8916-916d270d64d6@timazadi-production-aa7f.up.railway.app:443?security=tls&type=ws&host=timazadi-production-aa7f.up.railway.app&path=/ws/ef12f4f4-0ad3-4f39-8916-916d270d64d6&sni=timazadi-production-aa7f.up.railway.app&fp=chrome&alpn=http/1.1#%D8%A7%DA%AF%D9%87%20%D9%85%DB%8C%D8%AE%D9%88%D8%A7%DB%8C%20%D9%82%D8%B7%D8%B9%20%D9%86%D8%B4%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%3A%20%40farsiproxy
-vless://ef12f4f4-0ad3-4f39-8916-916d270d64d6@timazadi-production-aa7f.up.railway.app:443?encryption=none&security=tls&type=ws&host=timazadi-production-aa7f.up.railway.app&path=/ws/ef12f4f4-0ad3-4f39-8916-916d270d64d6&sni=timazadi-production-aa7f.up.railway.app&fp=chrome&alpn=http/1.1#%D8%A7%DA%AF%D9%87%20%D9%85%DB%8C%D8%AE%D9%88%D8%A7%DB%8C%20%D9%82%D8%B7%D8%B9%20%D9%86%D8%B4%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%3A%20%40farsiproxy
