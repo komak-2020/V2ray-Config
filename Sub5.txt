@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://3f3bb5cc-da8b-4551-8b76-ba223f1a5255@18.192.50.101:443?security=none&encryption=none&host=@ProxyVPN11&headerType=none&type=tcp#TEL;Father_vpn
 vless://3f61815a-1c63-456a-ad05-655374dfd7c8@199.232.78.159:443?path=//?ed=2560/JOIN/AV2rayBOT/JOIN/AV2rayBOT/JOIN/AV2rayBOT/JOIN/AV2rayBOT/JOIN/AV2rayBOT&security=tls&encryption=none&insecure=0&host=bazaryabab.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#🇳🇱 - @EXPRESSVPN_420
 vless://3f86ccb0-a5aa-437c-9947-c7d278861edf@german.aliyostd.com:2096?mode=gun&security=reality&encryption=none&pbk=r-7MEg2UtIiQrzZP16EXHjIUDqkKzzRqf7XlYxPbHB8&fp=chrome&spx=/&type=grpc&sni=www.icloud.com&sid=fbb8a1c698a0f918#V2ray_Alpha🌏 3
 vless://3f86ccb0-a5aa-437c-9947-c7d278861edf@german.aliyostd.com:9443?security=reality&encryption=none&pbk=F2YMP337wdfSQlkq8kbeqs0e19HEhV9JdxYf4Om_sS8&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=14ac481b178e6dd8#V2ray_Alpha🌏 2
@@ -502,4 +503,3 @@ vless://73ea01c0-fd3f-408c-9144-d98916a30cca@web-production-64d00.up.railway.app
 vless://73eed38e-09ea-4c07-aa95-c53684400d68@91.107.160.130:33819?security=&encryption=none&headerType=none&type=tcp#Proxy_Se7en
 vless://74184983-dacb-4954-b9ce-80e225618da3@play.vcmta.ir:37437?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@Daily_Configs : کانال تلگرام
 vless://748f9035-775e-4b78-ae55-dfc54d6d51b5@185.146.173.85:80?security=none&type=ws&host=www.speedtest.net.zula.ir.zara.com.nobitex.com.vigilantecollection.com.&path=/Daily_Configs-netmaster?ed=2048#@v2ray_configs_pools-join-us-on-Telegram
-vless://74980461-710f-428b-87fb-54615e84fafd@swser1.mbcloudy.ir:50567?flow=xtls-rprx-vision&encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&sid=1bfe954cb07fb70a&allowinsecure=0&type=tcp&headerType=none#@hi_proxy_iran :👈کانال تلگرام
