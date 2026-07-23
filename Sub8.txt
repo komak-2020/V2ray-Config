@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://b1a689fa-20c3-43b4-a107-4af64f8a7cf3@soskeynets.oorluma.ir:6300?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=chrome&type=tcp&sni=play.google.com#🇸🇪120077 | ⚡️Telegram = t.me/SOSkeyNET
 vless://b1a689fa-20c3-43b4-a107-4af64f8a7cf3@soskeynets.oorluma.ir:6300?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=chrome&type=tcp&sni=play.google.com#🇺🇸120073 | ⚡️Telegram = t.me/SOSkeyNET
 vless://b1a689fa-20c3-43b4-a107-4af64f8a7cf3@sweden.oorluma.ir:6300?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=chrome&type=tcp&sni=play.google.com#@prrofile_purple  ♥️👈 تلگرام
 vless://b1a689fa-20c3-43b4-a107-4af64f8a7cf3@sweden.oorluma.ir:6300?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=chrome&type=tcp&sni=play.google.com#kurdconfig
@@ -503,3 +502,4 @@ vless://d79c5260-e0a1-4b44-be6c-87d035877f3b@bot.sobhanpor.ir:443?encryption=non
 vless://d7a55270-00f9-4054-865d-0e2fbad22ca9@151.101.2.219:443?security=tls&sni=api.speedtest.net&type=ws&host=finlandvipstatus.com&path=/?ed=443&fp=chrome&alpn=http/1.1#@v2ray_configs_pools-join-us-on-Telegram
 vless://d7ad53e7-400b-4ef0-b454-9b8950ba1f01@3x-ui-production-c971.up.railway.app:8080?encryption=none&security=none&type=tcp#🇺🇸120067 | ⚡️Telegram = t.me/SOSkeyNET
 vless://d7bbfe83-b037-48ae-996c-b98ed0441ba2@visa.com:443?encryption=none&security=tls&sni=e10c0e4b.oodaeq2.pages.dev&alpn=h3,h2,http/1.1&fp=chrome&type=ws&host=e10c0e4b.oodaeq2.pages.dev&path=/?ed=2048#@v2ray_configs_pools-join-us-on-Telegram
+vless://d7fc372d-c057-43ce-8070-9b96abbc60f3@fr.raketa-balance.com:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fr.raketa-balance.com&security=reality&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY&sid=6c6082a2223c1d03#channel→@networld_vpn
