@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://humanity@198.62.62.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#TEL;Father_vpn
+trojan://humanity@2.144.21.112:40443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#Channel : @Daily_Configs
 trojan://humanity@202.37.33.80:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#@IRAN_V2RAY1🚀
 trojan://humanity@202.37.33.80:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#Tel-@ProxyMtAlpha🍻 4
 trojan://humanity@45.130.125.112:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#Proxy_Se7en
@@ -501,5 +503,3 @@ vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@38.114.103.221:18888?type=ws&encryp
 vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@96110.cf.090227.xyz:443?path=/?ed=2560&security=tls&encryption=none&alpn=h3&host=pages.teasalo.cloudns.org&fp=chrome&type=ws&sni=pages.teasalo.cloudns.org#@v2ray_configs_pools-join-us-on-Telegram
 vless://1d483092-65d3-464c-8baa-cb1ca5236282@upload.ansooyefilter.ir:8443?security=reality&encryption=none&pbk=9LyZjKAQkh2_FwDS21QVW05gfBRR77KjatFS8EtRyU4&headerType=none&fp=chrome&spx=/fb6a55c0fc4ed6d&type=tcp&sni=search.led.samsung.com&sid=8ed95b#🇩🇪@FreakConfig
 vless://1d798021-6b6e-4bff-8e8c-b7efc51d51b9@alapo.sannest.ir:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@prrofile_purple  ♥️👈 تلگرام
-vless://1dd6dab8-4a86-4996-9c3f-84cb9e173993@95.85.226.143.tyr-agentstvo.tech:443?path=/websocket?ed&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=95.85.226.143.tyr-agentstvo.tech&type=ws&allowInsecure=0&sni=95.85.226.143.tyr-agentstvo.tech#🚀t.me/iProxyChannel 15
-vless://1df05cde-34a0-44ce-8059-44a7b1e7782b@fast.cd-tur4.ir:443?path=/&security=tls&encryption=none&insecure=1&host=bazaryabab.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#🔷️@ai_duet
