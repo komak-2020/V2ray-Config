@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://77aafb39-8f3f-40e6-824d-3cbeab468283@146.75.119.82:80?type=ws&encryption=none&path=ws/?ed=2048/@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz/?2048&host=rb24.ir&security=none#🇫🇮 AzadMarz [ Irancell / Rightel ]-JOIN  : @AzadMarz
 vless://77c9a41e-70bd-47c2-b5e1-bff49df325d9@pizzashop.dearhossein-taktaz.ir:443?path=/&security=tls&encryption=none&insecure=0&host=pizzashop.dearhossein-taktaz.ir&fp=chrome&type=ws&allowInsecure=0&sni=pizzashop.dearhossein-taktaz.ir#@prrofile_purple  ♥️👈 تلگرام
 vless://77db0edc-cd40-4ab3-bc79-5e9f55aaeb00@marzban-node-production-99cd.up.railway.app:443?security=tls&type=ws&headerType=&path=/vless&host=marzban-node-production-99cd.up.railway.app&sni=marzban-node-production-99cd.up.railway.app&fp=chrome&alpn=h2#Telegram : PeekConfig🚀
 vless://784974f6-6289-4988-a51d-7d54f9e6915c@91.209.71.82:8443?mode=auto&path=/&security=reality&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&pbk=7gxn8PNz075RJAh5IoBroZMdAu7OL_qTSK90-xsAFgw&fp=chrome&spx=/CVdQgonYXvEQSvP&type=xhttp&sni=www.yahoo.com&sid=ee0cddbe17fc#V2ray_Alpha🌏 10
@@ -503,3 +502,4 @@ vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.76:8880?security=&encry
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.167:8880?mode=gun&security=&encryption=none&type=grpc#Proxy_Se7en
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.188:8880?mode=gun&security=&encryption=none&type=grpc#Proxy_Se7en
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.188:8880?mode=gun&security=none&encryption=none&type=grpc#TEL;Father_vpn
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.190:8880?mode=gun&security=&encryption=none&type=grpc#Proxy_Se7en

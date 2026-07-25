@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://1737df47-a4b2-4096-9fc3-1d869aa50c08@104.21.16.1:80?security=none&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/Lf40Du14nxmNjCFx?ed=2560#CxrolVPN Free (4)
 vless://1737df47-a4b2-4096-9fc3-1d869aa50c08@104.21.32.1:443?security=tls&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/ebmJ4UcdPxKGcPdT?ed=2560&sni=cxrolvpn.freev2-edb.workers.dev&fp=chrome&alpn=http/1.1#CxrolVPN Free (6)
 vless://1737df47-a4b2-4096-9fc3-1d869aa50c08@104.21.48.1:8080?security=none&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/S0dQP0TopmwsC1K3?ed=2560#CxrolVPN Free (1)
 vless://1737df47-a4b2-4096-9fc3-1d869aa50c08@104.21.64.1:8080?security=none&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/AKzyeMv5F4RdKNLT?ed=2560#CxrolVPN Free (2)
@@ -503,3 +502,4 @@ vless://47d25a89-1535-40d4-b2ac-cb443d95b227@configfori.up.railway.app:443?encry
 vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@211.49.57.178:443?sni=jwvze.f40g.szo.hh.vavava.kdns.fr&type=ws&host=jwvze.f40g.szo.hh.vavava.kdns.fr&path=/?ed=2560fp=chrome&security=tls#🇰🇷121473 | ⚡️Telegram = t.me/SOSkeyNET
 vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@211.49.57.178:443?sni=jwvze.f40g.szo.hh.vavava.kdns.fr&type=ws&host=jwvze.f40g.szo.hh.vavava.kdns.fr&path=/?ed=2560fp=chrome&security=tls#🇰🇷KR-🚀@VPNine1
 vless://486169a3-ce5f-4d93-8d01-f619d4443e5d@cp.so.rezzip.com:443?path=?ed=2560&security=tls&alpn=h2&encryption=none&insecure=0&host=pandura.lat&fp=chrome&type=ws&allowInsecure=0&sni=pandura.lat#Arshiavpn12
+vless://486fe30a-18d8-4913-b0ba-a301d9b7d505@176.120.17.94:16427?type=tcp&encryption=none&security=reality&pbk=cIPzdA0vCMszJwDwNf3WrJvxoegoLHq0-zmoJ7iMHCE&fp=chrome&sni=yahoo.com&sid=c8144f81&spx=/#@ehsawn8
