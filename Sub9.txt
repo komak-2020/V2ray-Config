@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://cfde0aba-0985-4034-ab92-50b1534b126c@199.232.170.246:80?path=/?Telegram-WangCai2🇨🇳&security=none&host=BankMelat.glObal.ssl.faStly.nEt&encryption=none&type=ws#filembad-379
 vless://cfde0aba-0985-4034-ab92-50b1534b126c@199.232.170.246:80?type=ws&encryption=none&host=BankMelat.glObal.ssl.faStly.nEt&security=none&path=/?Telegram-WangCai2🇨🇳#@Napsternetvirani
 vless://d037c1e1-d6ac-4236-8170-c1e625c9cfc4@netherlands.vpnserverhub.com:443?security=reality&encryption=none&pbk=y8-hfUvs9-MScp_tjMFi5LKuULGmnodHbI5Q_sTk_A0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com#@Ap_Ir6
 vless://d08d180d-cb07-4d82-b1bd-1e42fa523cd7@45.130.125.0:443?path=/sg-orcl&security=tls&encryption=none&insecure=0&host=ads.ruangguru.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=ads.ruangguru.com.cyylr.eu.cc#TEL:Father_vpn
@@ -503,3 +502,4 @@ vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?security=n
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?security=none&encryption=none&headerType=http&type=tcp#⭕V2RayyNGvpn 🇩🇪
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?security=none&encryption=none&headerType=http&type=tcp#🇳🇱124051 | ⚡️Telegram = t.me/SOSkeyNET
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#@VConfing
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩
