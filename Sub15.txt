@@ -3,6 +3,21 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://IQ68037294@193.169.239.162:443?security=tls&sni=distinct-ibex.rooster465.autos#%F0%9F%87%B3%F0%9F%87%B1NL-193.169.239.162-0218
+trojan://XG59623478@renewed-chigger.rooster465.autos:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-193.169.239.76-0219
+trojan://ON38567014@smiling-ray.rooster465.autos:443?security=tls&sni=smiling-ray.rooster465.autos#%F0%9F%87%B5%F0%9F%87%B1PL-62.112.222.103-0141
+vmess://ewogICAgImFkZCI6ICI5NC4xMzEuMTA4LjM2IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICI5ODU1ZjFmMC1hODAwLTQwZDQtOGIzOC1jN2QzZWI3OTMwMmQiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfh7Lwn4epTUQtOTQuMTMxLjEwOC4zNi0wMjIxIiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
+trojan://KV63147582@89.39.70.233:443?security=tls&sni=game-firefly.rooster465.autos#%F0%9F%87%B3%F0%9F%87%B1NL-89.39.70.233-0222
+trojan://KV63147582@game-firefly.rooster465.autos:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-89.39.70.233-0223
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.184-0135
+trojan://IQ68037294@humane-bird.rooster465.autos:443?security=tls#%F0%9F%87%AB%F0%9F%87%B7FR-13.39.161.149-0130
+trojan://ON38567014@one-quail.rooster465.autos:443?security=tls&sni=one-quail.rooster465.autos#%F0%9F%87%AB%F0%9F%87%B7FR-13.39.249.40-0129
+trojan://HW85960347@185.14.47.195:443?security=tls&sni=eminent-lamb.rooster465.autos#%F0%9F%87%AD%F0%9F%87%B0HK-185.14.47.195-0227
+trojan://HW85960347@eminent-lamb.rooster465.autos:443?security=tls&sni=eminent-lamb.rooster465.autos#%F0%9F%87%AD%F0%9F%87%B0HK-185.14.47.195-0228
+vmess://ewogICAgImFkZCI6ICIxNjEuMzMuMTM5LjEzOCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIjE2MS4zMy4xMzkuMTM4IiwKICAgICJpZCI6ICIxNjEwZjhkYy0wNjYxLTQwMzItYWM2YS1hNzI1MDYwM2Y2MDgiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogNTg5MDUsCiAgICAicHMiOiAi8J+Hr/Cfh7VKUC0xNjEuMzMuMTM5LjEzOC0wMjI5IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
+trojan://UZ15382649@moral-dolphin.rooster465.autos:443?security=tls&sni=moral-dolphin.rooster465.autos#%F0%9F%87%AB%F0%9F%87%B7FR-15.188.75.92-0121
+trojan://IQ68037294@definite-giraffe.rooster465.autos:443?security=tls&sni=definite-giraffe.rooster465.autos#%F0%9F%87%AB%F0%9F%87%B7FR-13.39.89.72-0120
+vmess://ewogICAgImFkZCI6ICI4NS4xMTMuNzEuODUiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJ3d3cuYmluZy5jb20iLAogICAgImlkIjogImJhNThjYTBjLTA0MTEtNDQ0ZS04MGY3LWUzNjFjZTQ5MDEyZCIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiAyMDg2LAogICAgInBzIjogIvCfh63wn4ewSEstODUuMTEzLjcxLjg1LTAyMzIiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 trojan://WG39087154@nearby-cod.rooster465.autos:443?security=tls#%F0%9F%87%AB%F0%9F%87%B7FR-35.181.168.168-0117
 trojan://NQ26071394@grateful-bedbug.rooster465.autos:443?security=tls&sni=grateful-bedbug.rooster465.autos#%F0%9F%87%B3%F0%9F%87%B1NL-89.39.70.85-0234
 trojan://XG59623478@upward-hedgehog.rooster465.autos:443?security=tls&sni=upward-hedgehog.rooster465.autos#%F0%9F%87%B3%F0%9F%87%B1NL-89.39.70.159-0235
