@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://3c52e091-6714-4915-949f-2149fe69951b@116.206.124.228:80?path=/ws&security=none&encryption=none&host=aIs.SpEeDtEsT.nEt&type=ws#@hopev2ray❤️‍🩹
 vless://3ccf9767-6648-4efa-b13c-1cdef021c371@5.75.196.174:20141?security=reality&encryption=none&pbk=qr9I7Hv2oZ2F0BiWgy9DmYHp0vcFEXcNRVHkyFg3OUw&headerType=none&fp=chrome&spx=/fuyDxo1D1hIDYFH&type=tcp&flow=xtls-rprx-vision&sni=arvancloud.ir&sid=14#TEL;Father_vpn
 vless://3d1f783b-ef28-4a6b-aee3-3775acf1cf72@sb.mokavosh.ir:443?encryption=none&security=none&type=tcp#@M4Dvpn
 vless://3d1f783b-ef28-4a6b-aee3-3775acf1cf72@sb.mokavosh.ir:443?encryption=none&security=none&type=tcp#@meliproxyy
@@ -503,3 +502,4 @@ vless://626b07bd-81c4-4212-be7a-27442a579620@5.180.173.222:448?encryption=none&t
 vless://62b430d5-c08e-4c0b-820a-e0c3466be01a@check.hafezsportclub.ir:2052?path=/api-v1?ed=2560&security=&encryption=none&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&type=ws#Proxy_Se7en
 vless://631a49ec-2eb5-2215-0cac-9d292696d162@104.21.20.2:2095?path=/sync&security=&encryption=none&host=my-pp.arminpixel2.workers.dev&fp=chrome&type=ws&sni=my-pp.arminpixel2.workers.dev#🚀t.me/iProxyChannel 8
 vless://634e61e8-daf0-9b7c-ef3f-1e8797935502@x4g-production-eaa0.up.railway.app:443?path=/ws/634e61e8-daf0-9b7c-ef3f-1e8797935502&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=x4g-production-eaa0.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-eaa0.up.railway.app#MTMVPN
+vless://6391a6c0-65f5-4d0d-9794-7e18924a3ee5@vot.paydar.site:80?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
