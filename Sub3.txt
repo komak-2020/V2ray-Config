@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://humanity@45.80.111.7:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#irconfiig
 trojan://humanity@45.80.111.7:443?path=/assignment&security=tls&insecure=1&type=ws&allowInsecure=1&sni=www.calmlunch.com#Proxy_Se7en
 trojan://humanity@5.10.214.53:443?path=/assignment&security=tls&alpn=http/1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#@tootffarangi🍓-25
 trojan://humanity@srv1.khatibirepair.ir:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#TEL;Father_vpn
@@ -502,4 +503,3 @@ vless://1a043da4-543d-4c9e-b27e-e6d0d7216859@104.194.148.56:443?encryption=none&
 vless://1a043da4-543d-4c9e-b27e-e6d0d7216859@104.194.148.56:443?mode=auto&path=/&security=reality&encryption=none&extra=&pbk=iBxhIrSy2HakD-vyxxBiOSTP3UCic8qWVN8ruyoCFVM&fp=chrome&spx=/5oYYY9gWeWb22qK&type=xhttp&sni=www.sony.com&sid=4fea5543#@vmesskhodam
 vless://1a043da4-543d-4c9e-b27e-e6d0d7216859@104.194.148.56:443?mode=auto&path=/&security=reality&encryption=none&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&pbk=iBxhIrSy2HakD-vyxxBiOSTP3UCic8qWVN8ruyoCFVM&fp=chrome&spx=/5oYYY9gWeWb22qK&type=xhttp&sni=www.sony.com&sid=4fea5543#@TGRVPN -join-us-on-Telegram
 vless://1a043da4-543d-4c9e-b27e-e6d0d7216859@104.194.148.56:443?mode=auto&path=/&security=reality&encryption=none&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&pbk=iBxhIrSy2HakD-vyxxBiOSTP3UCic8qWVN8ruyoCFVM&fp=chrome&spx=/5oYYY9gWeWb22qK&type=xhttp&sni=www.sony.com&sid=4fea5543#@Unblocked_ir¹
-vless://1a043da4-543d-4c9e-b27e-e6d0d7216859@104.194.148.56:443?mode=auto&path=/&security=reality&encryption=none&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&pbk=iBxhIrSy2HakD-vyxxBiOSTP3UCic8qWVN8ruyoCFVM&fp=chrome&spx=/5oYYY9gWeWb22qK&type=xhttp&sni=www.sony.com&sid=4fea5543#@filembad
