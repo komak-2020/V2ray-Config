@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.multiplydose.com#⚡Telegram =@CUSTOMVPNSERVER
 trojan://itX52H4tiA@151.101.34.144:443?mode=packet-up&path=/da&security=tls&alpn=h2,http/1.1&insecure=0&host=networkzvx.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=global.fastly.com#@prrofile_purple  ♥️👈 تلگرام
 trojan://jZKsbuRpEB@45.130.125.2:443?path=/db&security=tls&alpn=-@Proxy-Se7en&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&fp=chrome&type=ws&allowInsecure=0&sni=sl.farxmode.ir#Proxy_Se7en
 trojan://jZKsbuRpEB@45.130.125.2:443?path=/db&security=tls&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&fp=chrome&type=ws&allowInsecure=0&sni=sl.farxmode.ir#Proxy_Se7en
@@ -503,3 +502,4 @@ vless://19773cc6-89a3-47c6-bc10-885460cd2b7b@89.167.17.75:443?security=none&encr
 vless://199436d3-2fa2-4e34-a1de-844419de5a4f@xn-ip.dbsll.ir:2083?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=xn-de.shakhle.ir.&fp=chrome&type=ws&allowInsecure=0&sni=xn-de.shakhle.ir.#@RayNetTun
 vless://19a1e5b1-6289-4fe6-9aad-be285510942d@av.nexconnx.com:8080?security=&encryption=none&host=check-host.net&headerType=http&type=tcp#@v2rayngzendegimamad🕊️
 vless://19d5595f-3073-4e7e-aa2b-a2be77414b79@62.60.238.19:56685?encryption=none&security=reality&sni=www.intel.com&fp=chrome&pbk=t0kZxe2pNnijiZMax1dSxySZyXwBM85__lBkrFP_pGI&sid=97&spx=/&type=tcp&headerType=none#@TGRVPN -join-us-on-Telegram
+vless://19d5595f-3073-4e7e-aa2b-a2be77414b79@62.60.238.19:56685?encryption=none&security=reality&sni=www.intel.com&fp=chrome&pbk=t0kZxe2pNnijiZMax1dSxySZyXwBM85__lBkrFP_pGI&sid=97&spx=/&type=tcp&headerType=none#@filembad
