@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://23eb25bc-f233-4762-9759-01157944cc29@104.19.229.21:2086?path=/?ed=8880&security=&encryption=none&host=a3ssa.vaslbsh.com&type=httpupgrade#@icv2ray
 vless://23eb25bc-f233-4762-9759-01157944cc29@www.speedtest.net:2053?encryption=none&security=tls&sni=none3.bingnet.online&insecure=1&allowInsecure=1&type=ws&host=none3.bingnet.online&path=/#@Daily_Configs
 vless://23eb25bc-f233-4762-9759-01157944cc29@www.speedtest.net:2053?encryption=none&security=tls&sni=uiz2001.bingnet.online&insecure=1&allowInsecure=1&type=ws&host=uiz2001.bingnet.online&path=/#@Daily_Configs
 vless://23eb25bc-f233-4762-9759-01157944cc29@www.speedtest.net:2053?path=/&security=tls&encryption=none&insecure=1&host=none3.bingnet.online&type=ws&allowInsecure=1&sni=none3.bingnet.online#@icv2ray
@@ -502,4 +503,3 @@ vless://44289654-8618-403b-a573-a79a849100ce@rose5.lhpuniversity.online:54338?se
 vless://442adf02-74f3-4063-88b4-50e2b6aa87d8@195.201.8.109:443?mode=auto&path=/?guccounter=1&security=reality&encryption=mlkem768x25519plus.native.0rtt.oRNsGPL3pRBzsTSX80l3m4nFSyoeKwsSUjt7Ou92jjc&extra={"xPaddingBytes":"256-1024","xmux":{"maxConcurrency":"12-24","maxConnections":0,"cMaxReuseTimes":"80-150","hKeepAlivePeriod":180,"hMaxRequestTimes":"300-600","hMaxReusableSecs":"900-1800"}}&pbk=NUrfre0DyN20VQrYqNDgXsG3slVgnIXPQBemcRX_OnU&host=de.yahoo.com&fp=chrome&spx=/favicon.ico&type=xhttp&sni=de.yahoo.com&sid=b8c0d8c1#@VConfing
 vless://4448bf7d-ff41-4bec-a28a-9bec489dbe96@37.9.4.224:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=uL4x8EbCl080G43kFlv8nbpEyseWi1Dc_bl8F7lWtm8&security=reality&sid=aa03ec59c9695e91&sni=wl-2-1.legendary.ac&type=raw#🇷🇺RU-🚀@VPNine1
 vless://4448bf7d-ff41-4bec-a28a-9bec489dbe96@46.254.17.226:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=knrqm393ghxJNYj-4qu2BYpwpG5_zOG5h5-H7yyyR38&security=reality&sid=0be28edc1b0278d6&sni=wl-8-1.nodes.ac&type=raw#🇷🇺RU-🚀@VPNine1
-vless://4448bf7d-ff41-4bec-a28a-9bec489dbe96@62.152.58.114:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=jAJoyWJ4nMGai3H9BOa6QMUr2Vvpgqs8VipbaO5mCVU&security=reality&sid=3130197867c23edb&sni=wl-13-1.nodes.ac&type=raw#🇷🇺RU-🚀@VPNine1

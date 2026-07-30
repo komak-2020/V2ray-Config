@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://0370b162-baff-4757-86cc-cce4bf07f6f1@78.111.89.171:443?security=reality&encryption=none&pbk=lYcMPEgf6ePmF_d8RXR5fsVorycW37v_ECl-fz_H6w4&headerType=none&fp=chrome&spx=/fdded5f9698d939&type=tcp&sni=www.cloudflare.com&sid=cfe08c23a85f24#@GEMINI_PROXIES¹
 vless://037ec3f3-d983-4f05-9ae2-03f0c1d7977c@143.246.136.234:8080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#چنل عضو شو @v2ra_config
 vless://03853d6b-2436-45f0-8d14-3a8ba9593e71@de-sont23oo-mk75gi8a.mobile-shahab.ir:2091?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#🦉@FreeConfigForYou
 vless://03853d6b-2436-45f0-8d14-3a8ba9593e71@fnl-sont23oo-mk75gi8a.mobile-shahab.ir:2090?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=www.yahoo.com&fp=chrome&pbk=r_DD5p-yDTK6uYaku6vkyfONKS5QBym7yYhhBL6Xi1E&sid=12d7afc6d9a1aefd#🦉@FreeConfigForYou
@@ -502,4 +503,3 @@ vless://23a9b46e-9443-4268-81c5-399929919ab0@155.103.69.195:48711?encryption=non
 vless://23a9b46e-9443-4268-81c5-399929919ab0@155.103.69.195:48711?security=none&encryption=none&host=snapp.ir&headerType=http&type=tcp#@Net2ray USA🇺🇸
 vless://23e11949-b10b-415a-a49f-08ba12f21ff4@154.17.231.4:443/?type=ws&encryption=none&flow=&host=vless.041620.xyz&path=/socks5://44f7:2208f1f5@107.175.224.62:17920&security=tls&sni=vless.041620.xyz&allowInsecure=1&fp=chrome#日本 东京都 Internet Initiative Japan Inc.
 vless://23e11949-b10b-415a-a49f-08ba12f21ff4@154.17.231.4:443/?type=ws&encryption=none&flow=&host=vless.041620.xyz&security=tls&sni=vless.041620.xyz&allowInsecure=1&fp=chrome#美国(US) 乔治亚 亚特兰大
-vless://23eb25bc-f233-4762-9759-01157944cc29@104.19.229.21:2086?path=/?ed=8880&security=&encryption=none&host=a3ssa.vaslbsh.com&type=httpupgrade#@icv2ray
