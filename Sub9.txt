@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://cbbcaaa-caab-caab-acbd-accbaabbcacb@127.0.0.1:2080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
-vless://cbbcaaa-caab-caab-acbd-accbaabbcacb@127.0.0.1:2080?security=tls&type=tcp#@v2ray_configs_pools-join-us-on-Telegram
 vless://cbc1b9e7-c393-4053-a338-6ed714daf4eb@59.152.127.76:50863?security=none&encryption=none&headerType=none&type=tcp#@Begoo_VPN ²²⁵
 vless://cbc5b8c8-69a3-4c09-bd8a-6b19592877d6@www.speedtest.net:443?mode=stream-up&path=/&security=tls&alpn=h2&encryption=none&extra={  "noGRPCHeader" : false,  "xmux" : {    "hMaxReusableSecs" : "1800-3000",    "maxConcurrency" : "16-32",    "cMaxReuseTimes" : 0,    "maxConnections" : 0,    "hMaxRequestTimes" : "600-900",    "hKeepAlivePeriod" : 0  },  "scStreamUpServerSecs" : "20-80",  "scMaxEachPostBytes" : 1000000,  "headers" : {  },  "xPaddingBytes" : "100-1000",  "scMinPostsIntervalMs" : 30}&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=de-3.85858569.xyz#@KAFING_2
 vless://cbcf2255-6d66-4039-b7d6-c10d6ffc99e7@1.tls.fastly.veraspeed.ir:443?path=/TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER?ed&security=tls&encryption=none&insecure=0&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#@fastkanfig عضو باش احتمال ملی شدن بالاست
@@ -503,3 +501,5 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.45.37.42:22224?encryption=none&s
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.45.54.70:22222?encryption=none&security=none&type=tcp#(S103)🇨🇵t.me/PrivateVPNs
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.45.54.70:22224?security=none&encryption=none&headerType=none&type=tcp#@vmesskhodam
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.45.54.70:22224?security=none&encryption=none&headerType=none&type=tcp#✅ t.me/bigAVPN ایران آزاد 👑
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.166.241:22222?encryption=none&security=none&type=tcp#(S103)🇨🇵t.me/PrivateVPNs
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.181.200.150:22223?security=none&encryption=none&headerType=none&type=tcp#@meliproxyy

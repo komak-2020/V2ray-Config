@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.178:443#@v2raybaaz ³
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.178:443#@v2raybaaz ¹
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.178:443#🎒3@oneclickvpnkeys
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.178:443#🦄75@oneclickvpnkeys
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.181:443#🎒73@oneclickvpnkeys
@@ -503,3 +501,5 @@ vless://01566881-bc1c-4376-9531-d540963c287b@f1.springpaatogh8.store:2053?encryp
 vless://01d45b24-10c5-4d0b-83c2-8230c0290c38@s07.goharley.site:443?security=reality&encryption=none&pbk=lgYkxGzAAIIJJ6OmrtDyqJfcEKdWCqA7lmsxyVDgGWc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cdn.selectel.ru#@filembad
 vless://01d45b24-10c5-4d0b-83c2-8230c0290c38@s07.goharley.site:443?security=reality&encryption=none&pbk=lgYkxGzAAIIJJ6OmrtDyqJfcEKdWCqA7lmsxyVDgGWc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cdn.selectel.ru#@tootffarangi🍓-7
 vless://01dc2db8-364e-41be-b38c-d198fb779d8f@138.68.109.17:440?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#@Arvand_soul❤️🧑‍💻 کانفیگ ملی در #14
+vless://01dc2db8-364e-41be-b38c-d198fb779d8f@165.245.244.96:440?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#@Arvand_soul❤️🧑‍💻 کانفیگ ملی در #5
+vless://01dc2db8-364e-41be-b38c-d198fb779d8f@167.71.45.210:440?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#@Arvand_soul❤️🧑‍💻 کانفیگ ملی در #9

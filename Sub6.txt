@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://6362b506-634e-4d1c-b9c2-e005c8bdee12@n8rcl.pastilbastani.ir:443?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#🇩🇪All¹⁰ | @BigSmoke_Config
-vless://6391a6c0-65f5-4d0d-9794-7e18924a3ee5@vot.paydar.site:80?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇫🇮 𝗝𝗼𝗶𝗻 ➠ @PeekConfig
 vless://63e2bcfe-d04d-4170-8888-7616bb47f804@cloud1.tsteam7.top:10001?mode=gun&security=reality&encryption=none&pbk=sLhLPmyi9BIj8FMBdyWc3IjMpdw_6dy5s1TBI4xUKUE&fp=chrome&spx=/&type=grpc&sni=play.google.com&sid=11bcf6be19cb61a7#🇩🇪PeekConfig  🇩🇪
 vless://63ec2a82-e47c-4782-a89e-9aca2baf17ef@188.114.97.6:443?path=/id-pusat&security=tls&encryption=none&insecure=0&host=quiz.int.vidio.com.ex33r.eu.cc&type=ws&allowInsecure=0&sni=quiz.int.vidio.com.ex33r.eu.cc#TEL;Father_vpn
 vless://64466fd7-00d0-4e7f-ae47-1749932601da@104.18.152.233:8080?mode=auto&path=/dashboard&security=&encryption=none&extra={"scMaxEachPostBytes":+1000000,+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}&host=erfan.mmadvip8563.ir&type=xhttp#@Capoit
@@ -503,3 +501,5 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.211.102:2087?security=tls&sn
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.64.47.197:2082?type=ws&host=bPbg.168168.US.kG&path=/jAsBGuKEGkSfriqt/cHJveHlpcC5oay5meHhrLmRlZHluLmlv?ed=2560#@Hope_Net-join-us-on-Telegram
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.64.47.197:2082?type=ws&host=bPbg.168168.US.kG&path=/jAsBGuKEGkSfriqt/cHJveHlpcC5oay5meHhrLmRlZHluLmlv?ed=2560#[9517] - Telegram : @V2All
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.64.47.197:2082?type=ws&host=bPbg.168168.US.kG&path=/jAsBGuKEGkSfriqt/cHJveHlpcC5oay5meHhrLmRlZHluLmlv?ed=2560#🇨🇦128825 | ⚡️Telegram = t.me/SOSkeyNET
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.65.242.121:2083?security=tls&sni=bPBg.168168.Us.Kg&type=ws&host=BPbg.168168.Us.kG&path=/O3R46uTWxvXEMCHr/cHJveHlpcC5oay5meHhrLmRlZHluLmlv?ed=2560&fp=chrome&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.65.242.121:2087?security=tls&sni=bpBg.168168.uS.KG&type=ws&host=BPBG.168168.uS.kg&path=/AMvVsH5vxCByr5Q5/cHJveHlpcC5oay5meHhrLmRlZHluLmlv?ed=2560&fp=chrome&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
