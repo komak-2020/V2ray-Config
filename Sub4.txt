@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=ipv4.yasharteam.com&fp=chrome&type=ws&allowInsecure=0&sni=ipv4.yasharteam.com#@KAFING_2
+vless://2637679c-e2fe-45a2-9962-e2ddf8469c29@medium.com:2053?path=/&security=tls&encryption=none&insecure=0&host=foucse1.goooooooozoooo.sbs&fp=chrome&type=ws&allowInsecure=0&sni=foucse1.goooooooozoooo.sbs#@KAFING_2
+vless://26524cce-d514-4014-a426-365fb266a14d@152.228.135.96:8443?encryption=none&security=tls&sni=cyuxj212pnq.chinat.indevs.in&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=cyuxj212pnq.chinat.indevs.in&path=/danfeng#کانال تلگرام : Free_VPN_CH@
 vless://26b367d0-db40-4717-a535-062dc84e4c99@104.17.147.22:80/?type=ws&encryption=none&host=zula.ir.check-host.net.snappfood.ir.site.列列男事的事列上赛男.link.hiytocloud.ir&path=/index.php#@v2ray_configs_pools-join-us-on-Telegram
 vless://273e9057-8167-4d17-8de3-d44c82037cda@188.114.98.0:2083?path=/&security=tls&encryption=none&insecure=0&host=old-sky-2b90.seyowkclient.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=old-sky-2b90.seyowkclient.workers.dev#🇨🇭 | t.me/iProxyChannel
 vless://2756d45c-2d91-4783-8114-ad1e128799ba@www.zsu.gov.ua:8880?path=/pyip=ProxyIP.SG.CMLiussss.net&security=none&encryption=none&host=blue-breeze-e33c.261.workers.dev&type=ws#🇸🇬 | t.me/iProxyChannel
@@ -500,6 +503,3 @@ vless://43e00e4c-2316-4dc9-8262-cef31886dc56@172.67.178.12:443?encryption=none&s
 vless://44289654-8618-403b-a573-a79a849100ce@rose5.lhpuniversity.online:54338?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
 vless://442adf02-74f3-4063-88b4-50e2b6aa87d8@195.201.8.109:443?mode=auto&path=/?guccounter=1&security=reality&encryption=mlkem768x25519plus.native.0rtt.oRNsGPL3pRBzsTSX80l3m4nFSyoeKwsSUjt7Ou92jjc&extra={"xPaddingBytes":"256-1024","xmux":{"maxConcurrency":"12-24","maxConnections":0,"cMaxReuseTimes":"80-150","hKeepAlivePeriod":180,"hMaxRequestTimes":"300-600","hMaxReusableSecs":"900-1800"}}&pbk=NUrfre0DyN20VQrYqNDgXsG3slVgnIXPQBemcRX_OnU&host=de.yahoo.com&fp=chrome&spx=/favicon.ico&type=xhttp&sni=de.yahoo.com&sid=b8c0d8c1#@VConfing
 vless://444fa3c7-7ca8-4890-a027-aac940ac72e7@roo.paydar.site:1919?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#✰𝗝𝗼𝗶𝗻 ➠ @v2raymelliii✰
-vless://444fa3c7-7ca8-4890-a027-aac940ac72e7@roo.paydar.site:1919?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#𝗝𝗼𝗶𝗻 ➠ @VEGAAS_VPN
-vless://444fa3c7-7ca8-4890-a027-aac940ac72e7@roo.paydar.site:1919?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#𝗝𝗼𝗶𝗻 ➠ @sil3nt_network
-vless://444fa3c7-7ca8-4890-a027-aac940ac72e7@roo.paydar.site:1919?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#𝗝𝗼𝗶𝗻 ➠ @sil3nt_network  📣 @sil3nt_network 👥 @sil3nt_chatroom
