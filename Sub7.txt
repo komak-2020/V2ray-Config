@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://8d0718bd-5b4b-4e6a-92af-669a65740869@h.telegram-tirexnet.kdns.fr:53321?encryption=mlkem768x25519plus.native.0rtt.Z-GmMfGRMaWQ8GbtqU2tOqrc8cRG-LR7vzvpBE2rgXU&fm={"udp":[{"settings":{"domains":["H.telegram-tirexnet.kdns.fr"]},"type":"xdns"}]}&mtu=1350&security=none&tti=20&type=kcp#🇫🇮129631 | ⚡️Telegram = t.me/SOSkeyNET
+vless://8d0718bd-5b4b-4e6a-92af-669a65740869@h.telegram-tirexnet.kdns.fr:56364?encryption=none&host=www.amd.com&path=/&security=none&type=httpupgrade#🇫🇮129626 | ⚡️Telegram = t.me/SOSkeyNET
+vless://8d0718bd-5b4b-4e6a-92af-669a65740869@h.telegram-tirexnet.kdns.fr:56364?encryption=none&host=www.amd.com&path=/&security=none&type=httpupgrade#🇫🇮FI-🚀@VPNine1
+vless://8d0718bd-5b4b-4e6a-92af-669a65740869@h.telegram-tirexnet.kdns.fr:57007?encryption=none&fp=chrome&pbk=W_AQ6mLupg8aA-wY9MTz62koCho203yxroJg5R-DmXw&security=reality&sid=84fc3063c9&sni=music.youtube.com&spx=/d2431f5e88b31d6&type=tcp#🇫🇮129628 | ⚡️Telegram = t.me/SOSkeyNET
+vless://8d0718bd-5b4b-4e6a-92af-669a65740869@h.telegram-tirexnet.kdns.fr:57007?encryption=none&fp=chrome&pbk=W_AQ6mLupg8aA-wY9MTz62koCho203yxroJg5R-DmXw&security=reality&sid=84fc3063c9&sni=music.youtube.com&spx=/d2431f5e88b31d6&type=tcp#🇫🇮FI-🚀@VPNine1
 vless://8d0718bd-5b4b-4e6a-92af-669a65740869@h.telegram-tirexnet.kdns.fr:57635?encryption=mlkem768x25519plus.native.0rtt.vPSiQXsYhYeKAOuG4EIi3ds5D_k6E034FH5LUMKNGAc&fm={"udp":[{"settings":{"header":"","value":""},"type":"mkcp-legacy"}]}&mtu=1350&security=none&tti=20&type=kcp#🇫🇮129642 | ⚡️Telegram = t.me/SOSkeyNET
 vless://8d0718bd-5b4b-4e6a-92af-669a65740869@h.telegram-tirexnet.kdns.fr:58369?encryption=mlkem768x25519plus.native.0rtt.bsROFfaNn8ClyQh4wt01D4zv5_2Bo8ty3K8bfYx_2Ug&headerType=http&host=Play.google.com&path=/&security=none&type=tcp#🇫🇮129644 | ⚡️Telegram = t.me/SOSkeyNET
 vless://8d0718bd-5b4b-4e6a-92af-669a65740869@h.telegram-tirexnet.kdns.fr:58369?encryption=mlkem768x25519plus.native.0rtt.bsROFfaNn8ClyQh4wt01D4zv5_2Bo8ty3K8bfYx_2Ug&headerType=http&host=Play.google.com&path=/&security=none&type=tcp#🇫🇮FI-🚀@VPNine1
@@ -498,8 +503,3 @@ vless://a70646b9-a42b-48a9-80f6-a74e4eeb0d54@configfori.up.railway.app:443?encry
 vless://a708304e-e4ee-42f4-a67a-c86b1c9a592f@pi.paydar.site:443?encryption=none&type=tcp&headerType=http&path=/&host=@GHOFLSHCAN.@GHOFLSHCAN.@GHOFLSHCAN.@GHOFLSHCAN.@GHOFLSHCAN.play.google.com#@GHOFLSHCAN🇫🇮
 vless://a708304e-e4ee-42f4-a67a-c86b1c9a592f@pi.paydar.site:443?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#@TEHRANARGO🦁کانال کانفیگ و پروکسی
 vless://a708304e-e4ee-42f4-a67a-c86b1c9a592f@pi.paydar.site:443?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#@configprxy🦁کانال کانفیگ و پروکسی
-vless://a708304e-e4ee-42f4-a67a-c86b1c9a592f@pi.paydar.site:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@bored_vpn
-vless://a708304e-e4ee-42f4-a67a-c86b1c9a592f@pi.paydar.site:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@mehrosaboran
-vless://a708304e-e4ee-42f4-a67a-c86b1c9a592f@pi.paydar.site:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#kurdconfig
-vless://a708304e-e4ee-42f4-a67a-c86b1c9a592f@pi.paydar.site:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇫🇮@FreakConfig
-vless://a708304e-e4ee-42f4-a67a-c86b1c9a592f@pi.paydar.site:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇫🇮@V2rayng_Fast
