@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://8d0718bd-5b4b-4e6a-92af-669a65740869@h.telegram-tirexnet.kdns.fr:57635?encryption=mlkem768x25519plus.native.0rtt.vPSiQXsYhYeKAOuG4EIi3ds5D_k6E034FH5LUMKNGAc&fm={"udp":[{"settings":{"header":"","value":""},"type":"mkcp-legacy"}]}&mtu=1350&security=none&tti=20&type=kcp#🇫🇮129642 | ⚡️Telegram = t.me/SOSkeyNET
 vless://8d0718bd-5b4b-4e6a-92af-669a65740869@h.telegram-tirexnet.kdns.fr:58369?encryption=mlkem768x25519plus.native.0rtt.bsROFfaNn8ClyQh4wt01D4zv5_2Bo8ty3K8bfYx_2Ug&headerType=http&host=Play.google.com&path=/&security=none&type=tcp#🇫🇮129644 | ⚡️Telegram = t.me/SOSkeyNET
 vless://8d0718bd-5b4b-4e6a-92af-669a65740869@h.telegram-tirexnet.kdns.fr:58369?encryption=mlkem768x25519plus.native.0rtt.bsROFfaNn8ClyQh4wt01D4zv5_2Bo8ty3K8bfYx_2Ug&headerType=http&host=Play.google.com&path=/&security=none&type=tcp#🇫🇮FI-🚀@VPNine1
 vless://8d391797-01f4-4393-92d0-504c96ca4c29@pscresearch.faculty.ucdavis.edu:443?path=ws/?ed=2048&security=tls&encryption=none&host=ihvtcd6ybun.com&type=ws&sni=pscresearch.faculty.ucdavis.edu#@V2rayi_net
@@ -502,4 +503,3 @@ vless://a708304e-e4ee-42f4-a67a-c86b1c9a592f@pi.paydar.site:443?security=none&en
 vless://a708304e-e4ee-42f4-a67a-c86b1c9a592f@pi.paydar.site:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#kurdconfig
 vless://a708304e-e4ee-42f4-a67a-c86b1c9a592f@pi.paydar.site:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇫🇮@FreakConfig
 vless://a708304e-e4ee-42f4-a67a-c86b1c9a592f@pi.paydar.site:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇫🇮@V2rayng_Fast
-vless://a71c8954-66a8-4321-bedb-2336230d81ce@130.107.73.148:41373?security=reality&encryption=none&pbk=m0GsZOAwvAJEaqh9aH6qfOmBKo0KW0jY_tJEC6KaDEU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=0e#@outline_ir

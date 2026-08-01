@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://d41faf1e-054b-48e9-9487-40747f230808@104.16.61.8:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&sni=f-dl.chawoshco.ir&type=ws&host=f-dl.chawoshco.ir&path=/ws&alpn=http/1.1#@GozargahAzad|🏁
 vless://d41faf1e-054b-48e9-9487-40747f230808@104.16.61.8:443?security=tls&sni=f-dl.chawoshco.ir&type=ws&host=f-dl.chawoshco.ir&path=/ws&alpn=http/1.1#@Hope_Net-join-us-on-Telegram
 vless://d41faf1e-054b-48e9-9487-40747f230808@104.16.61.8:443?security=tls&sni=f-dl.chawoshco.ir&type=ws&host=f-dl.chawoshco.ir&path=/ws&alpn=http/1.1#[10320] - Telegram : @V2All
 vless://d41faf1e-054b-48e9-9487-40747f230808@104.16.61.8:443?security=tls&sni=f-dl.chawoshco.ir&type=ws&host=f-dl.chawoshco.ir&path=/ws&alpn=http/1.1#🇨🇦129772 | ⚡️Telegram = t.me/SOSkeyNET
@@ -502,4 +503,3 @@ vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=no
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&encryption=none&host=/?BIA_TELEGRAM-TGRVPN&headerType=none&type=tcp#@VEGAAS_VPN
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#@confing_v2rayy کانفینگ بیشتر در چنل 👈
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&encryption=none&host=fn.fifapes.monster&headerType=http&type=tcp#@FASTKANFIG
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?encryption=none&type=tcp&headerType=http#@meliproxyy
