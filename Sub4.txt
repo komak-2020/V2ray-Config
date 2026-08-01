@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://24b38f71-e410-4b29-ac82-5e095adaa122@95.142.46.112:23703?security=reality&encryption=none&pbk=e5FMiZwEwAWoTVUQYe9zoJ4TKsRPqHmOd1gbSbU5sFw&headerType=none&fp=chrome&spx=/&type=tcp&sni=yahoo.com&sid=224eb069dd8cd581#@Begoo_VPN ²³³
 vless://25209e75-6776-420e-9dd3-b7b6a77a3eb4@con.aliceit.ru:58843?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.googletagmanager.com&fp=chrome&pbk=GiUJxQTMZi8_xtjnAg03V9vo85O1UYYJF8Yel8-PTAk&sid=9ea316fcde370ad7&allowinsecure=0&type=tcp&headerType=none#🇩🇪All² | @BigSmoke_Config
 vless://25209e75-6776-420e-9dd3-b7b6a77a3eb4@con.aliceit.ru:58843?security=reality&encryption=none&pbk=GiUJxQTMZi8_xtjnAg03V9vo85O1UYYJF8Yel8-PTAk&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.googletagmanager.com&sid=9ea316fcde370ad7&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇩🇪]t.me/Raiv2mmr
 vless://25934f65-801b-13d4-3246-55258dee8fd3@69.46.46.120:443?path=/ws/25934f65-801b-13d4-3246-55258dee8fd3&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=rvg-production-56f3.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-56f3.up.railway.app#🇺🇸@FreakConfig
@@ -502,4 +503,3 @@ vless://431fe973-a43a-4fac-bf83-2a772e0d0625@182.16.61.3:45647?security=&encrypt
 vless://431fe973-a43a-4fac-bf83-2a772e0d0625@182.16.61.3:45647?security=&encryption=none&headerType=none&type=tcp#[10304] - Telegram : @V2All
 vless://431fe973-a43a-4fac-bf83-2a772e0d0625@182.16.61.3:45647?security=&encryption=none&headerType=none&type=tcp#🇭🇰129744 | ⚡️Telegram = t.me/SOSkeyNET
 vless://431fe973-a43a-4fac-bf83-2a772e0d0625@182.16.61.3:45647?security=&encryption=none&headerType=none&type=tcp#🔵@chillguy_vpn
-vless://431fe973-a43a-4fac-bf83-2a772e0d0625@207.174.133.222:10000?security=none&encryption=none&headerType=none&type=tcp#@IRAN_V2RAY1

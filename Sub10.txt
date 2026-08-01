@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?security=&encryption=none&headerType=http&type=tcp#kurdconfig
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?security=&encryption=none&headerType=http&type=tcp#🇱🇻@FreakConfig
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?security=&encryption=none&headerType=http&type=tcp#🇱🇻@V2rayng_Fast
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?security=none&encryption=none&headerType=http&type=tcp#@configprxy
@@ -502,4 +503,3 @@ vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.163:443?security=reality
 vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.163:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#[10329] - Telegram : @V2All
 vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.163:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#[🇵🇭]t.me/ConfigsHub
 vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.163:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#🔵@chillguy_vpn
-vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.169:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#@erfanandroid
