@@ -459,10 +459,8 @@ trojan://humanity@104.19.64.105:443?host=www.calmlunch.com&path=%2Fassignment&se
 trojan://humanity@www.calmlunch.com:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com#%3E%3E%40oneclickvpnkeys%3A%3AFR
 trojan://humanity@104.18.8.83:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#%3E%3E%40v2rayng_fast%3A%3AFR
 trojan://humanity@2.144.21.112:40443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
-trojan://0ebb269c9f2d4e8e46b0cd4105a55134@163.245.196.68:49361?security=tls&sni=163.245.196.68.sslip.io#%F0%9F%87%BA%F0%9F%87%B8US-163.245.196.68-0132
-trojan://d1960ba9f0f6353353994fa844cf817b@18.163.180.201:6357?security=tls&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK-18.163.180.201-0147
-trojan://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@77.74.123.132:449?security=tls&sni=grape-zet-turbo-nl.yyuyy.com#%F0%9F%87%B7%F0%9F%87%B4RO-77.74.123.132-2428
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20004?security=tls&sni=hk.catxstar.com#%F0%9F%87%BA%F0%9F%87%B8US-157.254.38.210-2329
-trojan://1b753dd99c1291e87a7b239f2928fedd@trs06.bolab.net:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-140.227.60.205-0058
-trojan://e171fbb0-1a38-427b-a284-b6bde62764d6@43.229.153.121:50500?security=tls&sni=hk.vc4.hyperlinkvpn.xyz#%F0%9F%87%AD%F0%9F%87%B0HK-43.229.153.121-0033
-trojan://1b753dd99c1291e87a7b239f2928fedd@trs05.bolab.net:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-133.18.230.121-0200
+trojan://0ebb269c9f2d4e8e46b0cd4105a55134@163.245.196.68:49361?security=tls&sni=163.245.196.68.sslip.io#%F0%9F%87%BA%F0%9F%87%B8US-163.245.196.68-0070
+trojan://d1960ba9f0f6353353994fa844cf817b@18.163.180.201:6357?security=tls&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK-18.163.180.201-0093
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20004?security=tls&sni=hk.catxstar.com#%F0%9F%87%BA%F0%9F%87%B8US-157.254.38.210-2082
+trojan://1b753dd99c1291e87a7b239f2928fedd@trs06.bolab.net:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-140.227.60.205-0187
+trojan://e171fbb0-1a38-427b-a284-b6bde62764d6@43.229.153.121:50500?security=tls&sni=hk.vc4.hyperlinkvpn.xyz#%F0%9F%87%AD%F0%9F%87%B0HK-43.229.153.121-0209

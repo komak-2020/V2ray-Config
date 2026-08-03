@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://38a43f18-b4d9-443f-9ff1-4cf9de3d666e@141.193.27.16:2087?flow=&type=ws&host=valid22.validbv9501.ir&path=/eyJqdW5rIjoiS0ZJaGhSaG14Z0NMeCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0Ni4xMDMuMTE0LjEzNCJdfQ==&security=tls&sni=valid22.validbv9501.ir&fp=chrome&allowInsecure=0&echfq=none#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn
+vless://38a43f18-b4d9-443f-9ff1-4cf9de3d666e@141.193.27.16:2087?path=/eyJqdW5rIjoiS0ZJaGhSaG14Z0NMeCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0Ni4xMDMuMTE0LjEzNCJdfQ==&security=tls&encryption=none&insecure=0&host=valid22.validbv9501.ir&type=ws&allowInsecure=0&sni=valid22.validbv9501.ir#@Selinc
 vless://38a43f18-b4d9-443f-9ff1-4cf9de3d666e@141.193.27.16:2087?path=/eyJqdW5rIjoiS0ZJaGhSaG14Z0NMeCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0Ni4xMDMuMTE0LjEzNCJdfQ==&security=tls&encryption=none&insecure=0&host=valid22.validbv9501.ir&type=ws&allowInsecure=0&sni=valid22.validbv9501.ir#@i10VPN⚡
 vless://38a43f18-b4d9-443f-9ff1-4cf9de3d666e@45.85.118.16:2087?path=/eyJqdW5rIjoiS0ZJaGhSaG14Z0NMeCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0Ni4xMDMuMTE0LjEzNCJdfQ==&security=tls&encryption=none&insecure=0&host=valid22.validbv9501.ir&type=ws&allowInsecure=0&sni=valid22.validbv9501.ir#@i10VPN⚡
 vless://38a43f18-b4d9-443f-9ff1-4cf9de3d666e@nl2.levikogjgfdd.ir:2087?path=/eyJqdW5rIjoiS0ZJaGhSaG14Z0NMeCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0Ni4xMDMuMTE0LjEzNCJdfQ==&security=tls&encryption=none&insecure=0&host=valid22.validbv9501.ir&type=ws&allowInsecure=0&sni=valid22.validbv9501.ir#@confiig_hub
@@ -501,5 +503,3 @@ vless://59da5351-5151-417d-b2f7-6923848b717e@nl4.helper-internet.com:443?securit
 vless://59da5351-5151-417d-b2f7-6923848b717e@spain2.helper-internet.com:443?security=reality&encryption=none&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=spain2.helper-internet.com&sid=ff776ff77be48b88#%FREE_VPN02
 vless://5a01fefd-e1e3-4e4e-b9e0-f66668ce0449@46.225.220.111:1234?encryption=none&type=tcp&headerType=http&host=play.google.com#@meliproxyy
 vless://5a01fefd-e1e3-4e4e-b9e0-f66668ce0449@46.225.220.111:1234?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#⚡︎ 🇩🇪 𓏺 @TEHRANARGO 11
-vless://5a01fefd-e1e3-4e4e-b9e0-f66668ce0449@46.225.220.111:1234?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#⚡︎ 🇩🇪 𓏺 @configprxy 11
-vless://5a01fefd-e1e3-4e4e-b9e0-f66668ce0449@46.225.220.111:1234?security=none&encryption=none&host=play.google.com/?JOIN_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#@MARAMBASHI 👽
