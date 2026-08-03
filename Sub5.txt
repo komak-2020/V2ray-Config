@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@nl1.levikogjgfdd.ir:443?security=reality&encryption=none&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&host=Telegram-Leviko_v2ray&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=getsavesafe.net&sid=82f5d3a1e9c0b661#@meliproxyy
 vless://39c42b0a-b823-4c93-bb99-74b4183e518d@nl1.levikogjgfdd.ir:443?security=reality&encryption=none&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&host=Telegram-Leviko_v2ray&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=getsavesafe.net&sid=82f5d3a1e9c0b661#☑➜چنلمون: Express_freevpn@
 vless://3ad1d277-5715-4ca1-84db-5baea72f822d@104.171.132.207:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=tZEzySB7soxBmNn2NPyzvUZtC7H1O0pyZx5M60_X2g4&security=reality&sid=496ee75c2f91f51d&sni=ads.x5.ru&type=tcp#🧬98@oneclickvpnkeys
 vless://3ad1d277-5715-4ca1-84db-5baea72f822d@104.171.139.155:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=tZEzySB7soxBmNn2NPyzvUZtC7H1O0pyZx5M60_X2g4&security=reality&sid=496ee75c2f91f51d&sni=ads.x5.ru&type=tcp#5🧬@oneclickvpnkeys
@@ -502,4 +503,3 @@ vless://5b9503aa-119b-4288-aa4f-0bbee2b4d5af@188.114.97.6:443/?type=ws&encryptio
 vless://5bb7df8d-ad02-41fa-a8e6-8a8a4650d2c4@87.120.196.68:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=XZa7f7bABj7lY4HuLopVCBBBYTu-RB7QyIZ96njvYwo&security=reality&sid=7bcfc0bc&sni=yahoo.com&type=tcp#🛰️64@oneclickvpnkeys
 vless://5c192fd7-ef98-4112-a20c-129108fcd7e9@217.60.193.1:443?alpn=h2&encryption=none&fp=chrome&security=tls&sni=ddc-akn.astralweb.tech&type=tcp#🧬59@oneclickvpnkeys
 vless://5cdcbd83-0742-4f45-a098-02340aa18f2b@n8.relvix.ir:2052?path=/&security=none&encryption=none&host=n5.droonix.ir&type=ws#@NETMelliAnti
-vless://5d217d1f-c302-4a25-a09c-7536193abdcf@3x-ui-production-8d0f.up.railway.app:443?path=/in1&security=tls&encryption=none&insecure=0&host=3x-ui-production-8d0f.up.railway.app&type=ws&allowInsecure=0#@Iran_v2ray1
