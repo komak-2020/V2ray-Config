@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://f0d9ee7a-95e6-47f8-84d0-f2ccf80b59b5@SV1.MOBILEEMDAD.TOP:3131?encryption=none&security=reality&type=xhttp&headerType=none&path=/&mode=auto&sni=play.google.com&fp=chrome&pbk=_TLSfMNLBxrgGXOP5fiTcnSxPtjIUTrDwq4VgWTlZDM&sid=722b#Test 1
 vless://f0d9ee7a-95e6-47f8-84d0-f2ccf80b59b5@am.nonpath.ir:42542?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#🇫🇷 France 2
 vless://f0d9ee7a-95e6-47f8-84d0-f2ccf80b59b5@ar-play.mobileemdad.top:443?encryption=none&security=reality&type=tcp&headerType=none&sni=play.google.com&fp=chrome&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=f88610dd#🇺🇸USA
 vless://f0d9ee7a-95e6-47f8-84d0-f2ccf80b59b5@au-play.mobileemdad.top:42542?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#🇹🇷 Turkey New
@@ -502,4 +503,3 @@ trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&fp=
 trojan://humanity@www.calmlunch.com:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com#%3E%3E%40oneclickvpnkeys%3A%3AFR
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#%3E%3E%40v2rayng_fast%3A%3AFR
 trojan://humanity@104.18.8.83:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#%3E%3E%40v2rayng_fast%3A%3AFR
-trojan://humanity@2.144.21.112:40443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
