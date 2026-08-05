@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.178:443#%40V2raysCollector%20%F0%9F%92%96
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443#[
 ss://2022-blake3-aes-256-gcm:aMVCBvxurcuK4oBwbTyDdhdbbn8a4sNHpMrJVfgmVtM=:JrbEhtlNmGP4TJU1WiJ3yxfg3TfoRHvmH8l2+gCoTxs=@78.47.35.178:50667?type=tcp#🇩🇪DE-🚀@VPNine1
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SG56SU4xQ0xHR0VoK21EL3V6YmJ2VFFjL0FscStoa21yQzdQbzNENGs0RT0=@46.38.143.236:60633?note=@FreeOnlineVPN#🇬🇧 - GB - @FreeOnlineVPN
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206NU1uWVN1Z3c2RHAvcjRISWhvUmtvUUk2ak0zU3dMOStpN0dOUkx4QldIbz06bEVFaG1hUHlKQ0ZKU2M3SWxGMTIwYyt0b1dVbFFOdGVnbXpTd1MvTC8vcz0@80.91.86.179:1070#کانال تلگرام ما ange1Vpn@
