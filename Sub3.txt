@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://0188427e-e55b-49f3-bd4a-1b2e34a87032@fr.fastraytel9880.ir:2087?mode=auto&path=/&security=reality&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&pbk=Te0ColQDcNHarIngKbt7eBIr1rrZLW3h7UEINhbhHxk&fp=chrome&spx=/0RBRZ8UsYE9C9FV&type=xhttp&sni=www.yahoo.com&sid=5967#MTMVPN 14
 vless://01e1eccc-0e7e-418d-a996-fd2cf33c7c40@sv3.tsteam99.top:60003?security=none&encryption=none&host=zarebin.ir&headerType=http&type=tcp#@KAFING_2
 vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@fr-tx.sbrf-cdn342.ru:443?encryption=none&flow=xtls-rprx-vision-udp443&security=tls&sni=sub.sbrf-cdn342.ru&type=tcp&headerType=none#Brayirani
 vless://02082a02-50f6-4bae-ac34-5c8ab413c427@cdn.akbarvpn.dpdns.org:48756?security=reality&encryption=none&pbk=5gZ1L8V29DcZ3iGutNil8NzxuKzln_Se7cODgQqcTGY&headerType=none&fp=chrome&spx=/d399b7090c2849d&type=tcp&sni=google.com&sid=41c8#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️🛜🔷️496🌐🆕️
@@ -502,4 +503,3 @@ vless://24b38f71-e410-4b29-ac82-5e095adaa122@95.142.46.112:23703?security=realit
 vless://25844c02-a1fe-43ec-a6b9-44e3bf375b83@104.21.23.72:8880?path=/pyip=ProxyIP.KR.CMLiussss.net&security=&encryption=none&host=dark-breeze-a59a.494.workers.dev&type=ws#🚀t.me/iProxyChannel
 vless://25844c02-a1fe-43ec-a6b9-44e3bf375b83@104.21.23.72:8880?path=/pyip=ProxyIP.KR.CMLiussss.net&security=none&encryption=none&host=dark-breeze-a59a.494.workers.dev&type=ws#@meliproxyy
 vless://25934f65-801b-13d4-3246-55258dee8fd3@69.46.46.120:443?path=/ws/25934f65-801b-13d4-3246-55258dee8fd3&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=rvg-production-56f3.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-56f3.up.railway.app#🇺🇸@FreakConfig
-vless://25e0282e-7bb8-4aeb-be15-b5b610f2235a@www.speedtest.net:443?path=/eyJqdW5rIjoiczlRdnZ2OTdrdWFwQyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzI2MDI6ZmM1OTpiMDo2NDo6XSJdfQ==?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=jolly-snowflake-951d.apextunnelnumber3.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=jOLLY-snOwFlAKE-951d.apExtunNElnumbEr3.WORkERS.deV#TEL;Father_vpn

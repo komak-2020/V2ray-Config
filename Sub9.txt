@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://b9b1e7c9-4160-49b4-85a4-2f096706509a@v-de-node-03.bot-auth.com:8443?security=reality&encryption=none&pbk=dNfk0sOCzOlmE61B7ur7YzU2i08RqXIBcGVBA2Ne1Ck&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.oracle.com&sid=7548bc#@hex_proxy ⁴
 vless://b9b1e7c9-4160-49b4-85a4-2f096706509a@v-de-node-03.bot-auth.com:8443?security=reality&encryption=none&pbk=dNfk0sOCzOlmE61B7ur7YzU2i08RqXIBcGVBA2Ne1Ck&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.oracle.com&sid=7548bc#@tootffarangi🍓-3
 vless://b9b1e7c9-4160-49b4-85a4-2f096706509a@v-de-node-03.bot-auth.com:8443?security=reality&encryption=none&pbk=dNfk0sOCzOlmE61B7ur7YzU2i08RqXIBcGVBA2Ne1Ck&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.oracle.com&sid=7548bc#Tel-@ProxyMtAlpha🌀 8
 vless://b9b1e7c9-4160-49b4-85a4-2f096706509a@v-de-node-03.bot-auth.com:8443?security=reality&encryption=none&pbk=dNfk0sOCzOlmE61B7ur7YzU2i08RqXIBcGVBA2Ne1Ck&headerType=none&type=tcp&sni=www.oracle.com&sid=7548bc#Channel : @Daily_Configs
@@ -502,4 +503,3 @@ vless://de5dcb9e-6a72-45a2-8d3d-de00e5431426@78.47.143.173:22012?security=realit
 vless://de64aaa6-a0ea-48d0-853b-1c3cbc7fb42c@141.98.118.70:443?mode=auto&path=/&security=reality&encryption=none&pbk=LjEQR0FEtsOs5eQoVsZgJX5ZI0yeadUKTCLoGD641RQ&fp=chrome&spx=/&type=xhttp&sni=www.google.com&sid=44#@Capoit
 vless://de64aaa6-a0ea-48d0-853b-1c3cbc7fb42c@141.98.118.70:443?mode=auto&path=/&security=reality&encryption=none&pbk=LjEQR0FEtsOs5eQoVsZgJX5ZI0yeadUKTCLoGD641RQ&fp=chrome&spx=/&type=xhttp&sni=www.google.com&sid=44#@EXPRESSVPN_420  👈🏻 کانال تلگرام
 vless://de64aaa6-a0ea-48d0-853b-1c3cbc7fb42c@141.98.118.70:443?mode=auto&path=/&security=reality&encryption=none&pbk=LjEQR0FEtsOs5eQoVsZgJX5ZI0yeadUKTCLoGD641RQ&fp=chrome&spx=/&type=xhttp&sni=www.google.com&sid=44#@tootffarangi🍓-1
-vless://de64aaa6-a0ea-48d0-853b-1c3cbc7fb42c@141.98.118.70:443?mode=auto&path=/&security=reality&encryption=none&pbk=LjEQR0FEtsOs5eQoVsZgJX5ZI0yeadUKTCLoGD641RQ&fp=chrome&spx=/&type=xhttp&sni=www.google.com&sid=44#برای اتصال دائمی جوین شو🍥 TelegramID ⌲Express_freevpn 🪩
