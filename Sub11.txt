@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://e6acf17c-b19c-45ee-afda-373ba72795ce@186.246.9.44:50057?mode=gun&security=reality&encryption=none&pbk=rpL009qP-arj5haMdPrIM3csahxln-xlV3PhyvwrhBk&type=grpc&sni=rubr5.cheburnetnastalgia1998.com&sid=1c52b34d46469887#@tootffarangi🍓-1
+vless://e6acf17c-b19c-45ee-afda-373ba72795ce@186.246.9.44:50058?encryption=none&fp=&pbk=NlobQy5lynlSGU3k_XOEvri7mkZpvVN6oUZQ6qZoaUY&security=reality&sid=170d4be62a02cb3e&sni=rubr5.cheburnetnastalgia1998.com&type=grpc#🛰️12@SHAHSERVER1
+vless://e6acf17c-b19c-45ee-afda-373ba72795ce@217.149.30.124:50053?encryption=none&security=reality&sni=rubr7.cheburnetnastalgia1998.com&pbk=X87ukWYsXHjmc-s4vDX0ph6sUoUklkFdtL_lXthn-z0&sid=eb3b7e6bbc66552e&type=grpc#@Daily_Configs
+vless://e6acf17c-b19c-45ee-afda-373ba72795ce@217.149.30.124:50053?mode=gun&security=reality&encryption=none&pbk=X87ukWYsXHjmc-s4vDX0ph6sUoUklkFdtL_lXthn-z0&type=grpc&sni=rubr7.cheburnetnastalgia1998.com&sid=eb3b7e6bbc66552e#@tootffarangi🍓-4
+vless://e6acf17c-b19c-45ee-afda-373ba72795ce@217.149.30.124:50054?encryption=none&security=reality&sni=rubr7.cheburnetnastalgia1998.com&pbk=UC7-PeUa2Hc_qJqN6gad454qrfqjM1x1CCX5qxGyuj0&sid=fcbda044673fdbd1&type=grpc#@Daily_Configs
 vless://e6acf17c-b19c-45ee-afda-373ba72795ce@217.149.30.124:50054?mode=gun&security=reality&encryption=none&pbk=UC7-PeUa2Hc_qJqN6gad454qrfqjM1x1CCX5qxGyuj0&type=grpc&sni=rubr7.cheburnetnastalgia1998.com&sid=fcbda044673fdbd1#@tootffarangi🍓-2
 vless://e6acf17c-b19c-45ee-afda-373ba72795ce@rubr5.cheburnetnastalgia1998.com:50055/?type=grpc&encryption=none&flow=&sni=rubr5.cheburnetnastalgia1998.com&fp=chrome&security=reality&pbk=6sVT86DwUajJVKQOcUs6XKoYbZ-G7T_a93KgX-GMin4&sid=3c894ab5c82b7f1d#土耳其
 vless://e6acf17c-b19c-45ee-afda-373ba72795ce@rubr5.cheburnetnastalgia1998.com:50057?encryption=none&fp=&pbk=rpL009qP-arj5haMdPrIM3csahxln-xlV3PhyvwrhBk&security=reality&sid=1c52b34d46469887&sni=rubr5.cheburnetnastalgia1998.com&type=grpc#🛰️14@SHAHSERVER1
@@ -498,8 +503,3 @@ vless://f4e91fac-25eb-4d26-a14c-c82c3778a0e4@23.133.52.10:2053/?type=ws&encrypti
 vless://f4e91fac-25eb-4d26-a14c-c82c3778a0e4@51.77.214.109:8443?path=/proxyip=tw.william.us.ci?uuid=f4e91fac-25eb-4d26-a14c-c82c3778a0e4&security=tls&encryption=none&insecure=0&host=s5gydl.936.us.ci&fp=chrome&type=ws&allowInsecure=0&sni=s5gydl.936.us.ci#@Selinc
 vless://f510adea-091b-4563-a54b-dc04e73fd952@46.8.64.147:41617?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#کانال تلگرام : Free_VPN_CH@
 vless://f54e45dc-d137-4834-b3be-16421e737b68@49.12.100.150:50399?encryption=none&type=tcp&headerType=http&host=play.google.com#@meliproxyy
-vless://f54e45dc-d137-4834-b3be-16421e737b68@49.12.100.150:50399?encryption=none&type=tcp&headerType=http&host=play.google.com#vpnsal
-vless://f55ce6cc-3f6b-40fc-9e3b-abe26db17009@18.239.134.69:80/?type=ws&encryption=none&flow=&host=d2e1v87ko56lyw.cloudfront.net:assets.opensignal.com&path=/&packetEncoding=xudp#🇹🇭TH
-vless://f5f77177-4937-4f40-b6fc-7c4278151f01@koviraaa.kovira2.ir:13424?encryption=none&type=ws&path=/&host=chatgpt.com#@Maznet - SOS521
-vless://f5f77177-4937-4f40-b6fc-7c4278151f01@koviraaa.kovira2.ir:443?encryption=none&type=tcp&headerType=http&path=/&host=google.com#@Maznet - SOS523
-vless://f5f77177-4937-4f40-b6fc-7c4278151f01@koviraaa.kovira2.ir:8443?encryption=none&type=xhttp&path=/&host=chatgpt.com&mode=auto&extra={"mode":"auto","xPaddingBytes":"100-1000"}#@Maznet - SOS522
