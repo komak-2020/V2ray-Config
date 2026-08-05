@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://78ac1880-2385-4d44-83e5-7d6af59e80a3@3x-ui-multi-production-5f14.up.railway.app:443?fp=chrome&host=3x-ui-multi-production-5f14.up.railway.app&path=/in10&security=tls&sni=3x-ui-multi-production-5f14.up.railway.app&type=ws#Romania-ro-client
-vless://78bb684e-0c43-45f7-aefb-e16368228948@104.16.73.211:8443?path=/&security=tls&encryption=none&insecure=0&host=ftp.skylinknet.ir&fp=chrome&type=ws&allowInsecure=0&sni=ftp.skylinknet.ir#@skyliink_vpn丨چنل تلگرام 🇩🇪
-vless://78bb684e-0c43-45f7-aefb-e16368228948@104.18.19.39:2087?path=/&security=tls&encryption=none&insecure=0&host=ftp.skylinknet.ir&fp=chrome&type=ws&allowInsecure=0&sni=ftp.skylinknet.ir#@skyliink_vpn丨چنل تلگرام 🇩🇪
 vless://78e4df0c-5174-4e18-a874-995ef6e6a38d@expressvpn_420.fastly80.hosting-ip.com:80?path=/olem/ws?ed=1024&security=none&encryption=none&host=foffmelo.com&type=ws#@V2rayi_net
 vless://78ef1314-af41-824e-450d-30a64013a5af@x4g-production-8fad.up.railway.app:443?path=/ws/78ef1314-af41-824e-450d-30a64013a5af&security=tls&alpn=http/1.1&encryption=none&host=x4g-production-8fad.up.railway.app&fp=chrome&type=ws&sni=x4g-production-8fad.up.railway.app#All Operators @MaSTeRSeRVeR1
 vless://795d5f5b-318c-49a6-844f-ee2ab63bbe94@35.180.187.82:12228?security=reality&encryption=none&pbk=hvyaRhFtrj3cGv1Ya5uXpE256i2PoUi2fOgU0KlvKmI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=59625eb3275249ca#@tootffarangi🍓-10
@@ -503,3 +500,6 @@ vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.164.131:62145?encryption=no
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.164.131:62145?encryption=none&type=tcp&headerType=none&security=none#@Napsternetvirani
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.166.237:62145?security=none&encryption=none&headerType=none&type=tcp#@erfanandroid
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.166.237:62145?security=none&encryption=none&headerType=none&type=tcp#@irconfiig
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.181.254:62145?encryption=none&security=none&type=tcp&headerType=none#@Alpha_v2rayIP
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.184.51:62145?security=none&encryption=none&headerType=none&type=tcp#@
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.184.51:62145?security=none&encryption=none&headerType=none&type=tcp#@erfanandroid
