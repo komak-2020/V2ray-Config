@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@tg.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#@icv2ray
 vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@tg.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#@v2raybaaz ²
 vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@tg.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#@v2raybaaz ³
 vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@tg.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#@v2raybaaz ¹
@@ -502,4 +503,3 @@ vless://c7665648-eff9-4317-8978-4ee2fb34f752@159.65.117.197:443?ed=2560&eh=Sec-W
 vless://c78851ee-e51f-845c-0b5a-7157c5411a88@rokervpn-production.up.railway.app:443?encryption=none&security=tls&type=xhttp&mode=stream-up&host=rokervpn-production.up.railway.app&path=/xhttp-siz10/stream-up/c78851ee-e51f-845c-0b5a-7157c5411a88&sni=rokervpn-production.up.railway.app&fp=chrome&alpn=h2,http/1.1#X4G-rokervpn🔥
 vless://c7e9c591-2764-423a-afca-efbd010fd396@150.230.146.170:2053/?type=ws&encryption=none&flow=&host=forfreeuse.sub-flow.online&path=/&security=tls&sni=forfreeuse.sub-flow.online&alpn=channel@networld_vpn-channel@networld_vpn-channel@networld_vpn-channel@networld_vpn-channel@networld_vpn-channel@networld_vpn-channel@networld_vpn-channel@networld_vpn-&fp=chrome#تو کانال نتورلد نباشید قطع میشن@networld_vpn
 vless://c7e9c591-2764-423a-afca-efbd010fd396@185.195.69.119:2053?path=/&security=tls&encryption=none&host=forfreeuse.sub-flow.online&fp=chrome&type=ws&sni=forfreeuse.sub-flow.online#SW-@ELiV2ray
-vless://c7e9c591-2764-423a-afca-efbd010fd396@217.144.190.14:2053/?type=ws&encryption=none&flow=&host=forfreeuse.sub-flow.online&path=/&security=tls&sni=forfreeuse.sub-flow.online&fp=chrome#channel→@networld_vpn
