@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.22.155:443?security=reality&encryption=none&pbk=Mg3ZxHNUFbX96q1HpS3WReeM7rnhEsXXtlEzxALeTDc&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=2.oncloudnineservicestreang.com&sid=d8d3dc6c3ca45dd4#@MARAMBASHI 🇬🇧
 vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.22.155:443?security=reality&encryption=none&pbk=Mg3ZxHNUFbX96q1HpS3WReeM7rnhEsXXtlEzxALeTDc&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=2.oncloudnineservicestreang.com&sid=d8d3dc6c3ca45dd4#@MARAMBASHI 🫂
 vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.27.99:443?security=reality&encryption=none&pbk=EuExqpNB141gtIjbCmU0yyurbBqiLtGjDg-n95JIuig&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=1.oncloudnineservicestreang.com&sid=28415a7918168947#@fastkanfig واسه کانفیگای جدید عضو باشین
 vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.27.99:443?security=reality&encryption=none&pbk=EuExqpNB141gtIjbCmU0yyurbBqiLtGjDg-n95JIuig&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=1.oncloudnineservicestreang.com&sid=28415a7918168947#ARGO_VPNN_15
@@ -503,3 +502,4 @@ vless://@V2XNET@104.16.6.189:8443?encryption=mlkem768x25519plus.native.0rtt.BBBQ
 vless://@V2XNET@104.16.6.189:8443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=mlkem768x25519plus.native.0rtt.BBBQ6KZyjiYmpp2ErhKd0OwCBOm4J6_McyVQdB5yhBI&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=0&host=butimcreepimweirdo.dpdns.org&fp=chrome&type=xhttp&allowInsecure=0&sni=butimcreepimweirdo.dpdns.org#@𝐕𝟐𝐗𝐍𝐄𝐓
 vless://@V2XNET@104.16.6.189:8443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=mlkem768x25519plus.native.0rtt.BBBQ6KZyjiYmpp2ErhKd0OwCBOm4J6_McyVQdB5yhBI&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=0&host=butimcreepimweirdo.dpdns.org&fp=chrome&type=xhttp&allowInsecure=0&sni=butimcreepimweirdo.dpdns.org#Channel : @Daily_Configs
 vless://@free_conf_iran@104.16.75.127:2095?path=/ed=2560&security=none&encryption=none&host=fr.mamish.ir&type=ws#🔥 @free_conf_iran 🔥 8
+vless://@free_conf_iran@145.239.173.163:443?security=none&encryption=none&headerType=none&type=tcp#@free_conf_iran 👈 کانفیگ جدید

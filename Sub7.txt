@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://691a9a35-76a6-48ea-9379-4f4f638c2b66@45.59.125.228:443?encryption=none&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&fp=chrome&host=&mode=auto&path=/&pbk=BjickB5Lt_-JIEj40uiaI1Sq4aDh1bzhWI1yBY9nbVc&security=reality&sid=29fcba01&sni=www.amd.com&spx=/eCqQXALOMj68VMF&type=xhttp&x_padding_bytes=100-1000#🦉@FreeConfigForYou
 vless://69310498-49c1-485e-b197-9db9938cceae@49.12.100.150:50399?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#@meliproxyy
 vless://69310498-49c1-485e-b197-9db9938cceae@49.12.100.150:50399?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#SHOPSEPI🇩🇪-@lionqh50G
 vless://696915f2-5ad4-452b-987c-d83d29d0503a@185.191.118.33:443?security=reality&encryption=none&pbk=JZppw-ux1-GsHY6eN1B-sFcVjXNVvb1D6-qKBKCrxAo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=de.moktana.app&sid=89c7866901c21bce#TEL;Father_vpn
@@ -503,3 +502,4 @@ vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.22.155:443?security=reality
 vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.22.155:443?security=reality&encryption=none&pbk=Mg3ZxHNUFbX96q1HpS3WReeM7rnhEsXXtlEzxALeTDc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=2.oncloudnineservicestreang.com&sid=d8d3dc6c3ca45dd4#Tel-@Azaranv2ray
 vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.22.155:443?security=reality&encryption=none&pbk=Mg3ZxHNUFbX96q1HpS3WReeM7rnhEsXXtlEzxALeTDc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=2.oncloudnineservicestreang.com&sid=d8d3dc6c3ca45dd4#Tel-@ProxyMtAlpha🌀 3
 vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.22.155:443?security=reality&encryption=none&pbk=Mg3ZxHNUFbX96q1HpS3WReeM7rnhEsXXtlEzxALeTDc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=2.oncloudnineservicestreang.com&sid=d8d3dc6c3ca45dd4#☑➜چنلمون: Express_freevpn@
+vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.22.155:443?security=reality&encryption=none&pbk=Mg3ZxHNUFbX96q1HpS3WReeM7rnhEsXXtlEzxALeTDc&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=2.oncloudnineservicestreang.com&sid=d8d3dc6c3ca45dd4#@MARAMBASHI 🇬🇧
