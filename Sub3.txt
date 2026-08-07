@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://humanity@165.215.250.14:443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&fp=chrome&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=1&sni=www.ignitelimit.com#@v2rayng3
+trojan://humanity@165.215.250.14:443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&fp=chrome&type=ws&allowInsecure=1&sni=www.ignitelimit.com#@v2rayng3
 trojan://humanity@172.64.146.198:443?security=tls&sni=www.gossipglove.com&insecure=1&allowInsecure=1&type=ws&host=www.gossipglove.com&path=/assignment#%FREE_VPN02
 trojan://humanity@172.64.147.224:443?security=tls&sni=www.gossipglove.com&insecure=1&allowInsecure=1&type=ws&host=www.gossipglove.com&path=/assignment#%FREE_VPN02
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com&note=@FreeOnlineVPN#🇫🇷 - FR - @FreeOnlineVPN
@@ -501,5 +503,3 @@ vless://1737df47-a4b2-4096-9fc3-1d869aa50c08@104.21.32.1:443?security=tls&encryp
 vless://1737df47-a4b2-4096-9fc3-1d869aa50c08@104.21.48.1:8080?security=none&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/S0dQP0TopmwsC1K3?ed=2560#CxrolVPN Free (1)
 vless://1737df47-a4b2-4096-9fc3-1d869aa50c08@104.21.64.1:8080?security=none&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/AKzyeMv5F4RdKNLT?ed=2560#CxrolVPN Free (2)
 vless://1737df47-a4b2-4096-9fc3-1d869aa50c08@104.21.64.1:8080?security=none&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/AKzyeMv5F4RdKNLT?ed=2560#🔵@chillguy_vpn
-vless://1737df47-a4b2-4096-9fc3-1d869aa50c08@www.speedtest.net:443?security=tls&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/16K876L0W1BeJ0u0?ed=2560&sni=cxrolvpn.freev2-edb.workers.dev&fp=chrome&alpn=http/1.1#CxrolVPN Free (5)
-vless://1737df47-a4b2-4096-9fc3-1d869aa50c08@www.speedtest.net:80?security=none&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/DBD001v7ZAlmIpnP?ed=2560#CxrolVPN Free (3)
