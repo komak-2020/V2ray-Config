@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://7552bb29-f54e-4b4d-ac51-998611cf7462@ly.gaaaa015.top:55820/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.bilibili.com&fp=chrome&security=reality&pbk=P99AZTuu2iMX7IcuYa_FPwJJnzKzf5lJkTxEx3TSp1Q&sid=e62dd33f#🇸🇬新加坡
 vless://7552bb29-f54e-4b4d-ac51-998611cf7462@ly.gaaaa015.top:55860/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.bilibili.com&fp=chrome&security=reality&pbk=luzv28gIP33SPXQo2aXFx-9bFq8GtF7Km6ncEOdnBBU&sid=33398237#🇹🇼台湾
 vless://7552bb29-f54e-4b4d-ac51-998611cf7462@ly.gaaaa015.top:55910/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.bilibili.com&fp=chrome&security=reality&pbk=sCleOhRhfwCc_nsWmXFzsmo5NJXBcQPPzJvKP_nSakI&sid=801dcf88#🇰🇭柬埔寨
 vless://7552bb29-f54e-4b4d-ac51-998611cf7462@ly.gaaaa015.top:58723/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.bilibili.com&fp=chrome&security=reality&pbk=jWb-MplPdthSzVBmUp09mBmPXaywyZGH3cRXS41jEjM&sid=301edec6#🇭🇰香港
@@ -503,3 +502,4 @@ vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.6:8880?encryption=none&
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.208:8880?mode=gun&security=&encryption=none&fp=chrome&type=grpc#@v2rayngzendegimamad🕊️
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@it1.levikogjgfdd.ir:8880?encryption=none&type=grpc&mode=gun#🇮🇹 @V2RAYNG_IP
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@it1.levikogjgfdd.ir:8880?encryption=none&type=grpc&mode=gun&security=none#🇮🇹 @V2RAYNG_IP
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@it1.levikogjgfdd.ir:8880?mode=gun&security=&encryption=none&type=grpc#🇮🇹 direct
