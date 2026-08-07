@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.7.135:22222?encryption=none&security=none&type=tcp#🇫🇷FR-🚀@VPNine1
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.7.135:22222?encryption=none&security=none&type=tcp#🔵@chillguy_vpn
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.7.135:22223?encryption=none&security=none&type=tcp#@filembad
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.7.135:22223?encryption=none&security=none&type=tcp#🇫🇷137012 | ⚡️Telegram = t.me/SOSkeyNET
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.7.135:22223?encryption=none&security=none&type=tcp#🇫🇷FR-🚀@VPNine1
@@ -503,3 +501,5 @@ vless://f0eac976-e4e2-4e24-bc86-cda82ee31442@5.129.215.87:40443?encryption=none&
 vless://f106648e-0644-40bc-974c-6edc966fe18d@45.130.125.101:8443?mode=auto&path=/?ed&security=tls&alpn=h3,h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=cji.new-persian-song.ir#@v2rayng3
 vless://f1178fbe-1420-4eef-b087-4f33b32b4a19@free-server.techsonic.dev:443/?type=tcp&encryption=none&flow=&security=tls&sni=aka.ms&alpn=h2,http/1.1&allowInsecure=1&fp=chrome#新加坡
 vless://f128bc2c-8018-43a1-8ed7-66eabc8f157c@142.111.244.75:448?encryption=none&fp=&pbk=r8ljXJO_4yLUonHdkPeWbD9A__XqoudwWAiXx9fbcj8&security=reality&sid=39a997621a3598c9&sni=www.samsung.com&type=tcp#🧅19@oneclickvpnkeys
+vless://f128bc2c-8018-43a1-8ed7-66eabc8f157c@142.111.244.75:448?security=reality&encryption=none&pbk=r8ljXJO_4yLUonHdkPeWbD9A__XqoudwWAiXx9fbcj8&headerType=none&fp=chrome&type=tcp&sni=www.samsung.com&sid=39a997621a3598c9#@TEHRANARGO کانالمون 🚀
+vless://f128bc2c-8018-43a1-8ed7-66eabc8f157c@142.111.244.75:448?security=reality&encryption=none&pbk=r8ljXJO_4yLUonHdkPeWbD9A__XqoudwWAiXx9fbcj8&headerType=none&fp=chrome&type=tcp&sni=www.samsung.com&sid=39a997621a3598c9#@configprxy کانالمون 🚀
