@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://b1d206b2-83b8-4756-aa3d-838242451c8d@144.31.157.202:110?security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#@MARAMBASHI 🇹🇷
-vless://b1d206b2-83b8-4756-aa3d-838242451c8d@144.31.157.202:110?security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#@filembad
 vless://b1d206b2-83b8-4756-aa3d-838242451c8d@144.31.157.202:110?security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#Telegram : @Daily_Configs
 vless://b1d206b2-83b8-4756-aa3d-838242451c8d@144.31.157.202:110?security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#Telegram : @proxy_kafee
 vless://b1d206b2-83b8-4756-aa3d-838242451c8d@144.31.157.202:110?security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#filembad-398
@@ -503,3 +501,5 @@ vless://d309d06f-a97f-46e4-b5f2-ee357f6a2bd1@31.57.47.123:443?security=reality&e
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.231:80?security=none&sni=a.ssll.gay&type=ws&path=Twitterfreecodes#@Hope_Net-join-us-on-Telegram
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.231:80?security=none&sni=a.ssll.gay&type=ws&path=Twitterfreecodes#🇪🇪136501 | ⚡️Telegram = t.me/SOSkeyNET
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.231:80?security=none&sni=a.ssll.gay&type=ws&path=Twitterfreecodes#🇪🇪EE-🚀@VPNine1
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@singapore.com:2083?encryption=none&security=tls&sni=index.0x15.workers.DEV&alpn=http/1.1&type=ws&host=index.0x15.workers.dev&path=/9quSDGMroCZkFeWzTk#کانال تلگرام : Free_VPN_CH@
+vless://d35b56de-9a34-439f-b542-9dcad311f24c@144.31.219.205:443?encryption=none&fp=chrome&host=80-253-249-197.sslip.io&path=/teo-ws&security=tls&sni=80-253-249-197.sslip.io&type=ws#🪁29@oneclickvpnkeys

@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@singapore.com:2083?encryption=none&security=tls&sni=index.0x15.workers.DEV&alpn=http/1.1&type=ws&host=index.0x15.workers.dev&path=/9quSDGMroCZkFeWzTk#کانال تلگرام : Free_VPN_CH@
-vless://d35b56de-9a34-439f-b542-9dcad311f24c@144.31.219.205:443?encryption=none&fp=chrome&host=80-253-249-197.sslip.io&path=/teo-ws&security=tls&sni=80-253-249-197.sslip.io&type=ws#🪁29@oneclickvpnkeys
 vless://d35b56de-9a34-439f-b542-9dcad311f24c@144.31.219.205:443?encryption=none&type=ws&security=tls&path=/teo-ws&host=80-253-249-197.sslip.io&sni=80-253-249-197.sslip.io&fp=chrome&insecure=0&allowInsecure=0#@freenettir
 vless://d35b56de-9a34-439f-b542-9dcad311f24c@144.31.219.205:443?encryption=none&type=ws&security=tls&path=/teo-ws&host=80-253-249-197.sslip.io&sni=80-253-249-197.sslip.io&fp=chrome&insecure=0&allowInsecure=0#@meliproxyy
 vless://d35b56de-9a34-439f-b542-9dcad311f24c@144.31.219.205:443?insecure=0&host=80-253-249-197.sslip.io&encryption=none&security=tls&sni=80-253-249-197.sslip.io&path=/teo-ws&allowInsecure=0&fp=chrome&type=ws#@freenettir
@@ -503,3 +501,5 @@ vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@cf.levikogjgfdd.ir:2053?path=/?ed=2
 vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@cf.levikogjgfdd.ir:2053?path=/?ed=2053&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=po.fastbrokencompony.com&fp=chrome&type=ws&allowInsecure=0&sni=po.fastbrokencompony.com#🇩🇪 CDN
 vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@cf.levikogjgfdd.ir:2053?path=/?ed=2053&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=po.fastbrokencompony.com&fp=chrome&type=ws&allowInsecure=0&sni=po.fastbrokencompony.com#🇩🇪@FreakConfig
 vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@cf.levikogjgfdd.ir:2053?path=/?ed=2053&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=po.fastbrokencompony.com&fp=chrome&type=ws&allowInsecure=0&sni=po.fastbrokencompony.com#🇩🇪@V2rayng_Fast
+vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@one-for-all.levikogjgfdd.ir:2053?encryption=none&security=tls&sni=po.fastbrokencompony.com&fp=chrome&alpn=h3,h2&insecure=0&allowInsecure=0&type=ws&host=po.fastbrokencompony.com&path=/#Channel : @Daily_Configs
+vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@one-for-all.levikogjgfdd.ir:2053?path=/&security=tls&alpn=h3,h2&encryption=none&host=po.fastbrokencompony.com&fp=chrome&type=ws&sni=po.fastbrokencompony.com#@Capoit
