@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://86465c9c-1304-42f0-acba-208987365bcd@146.75.119.82:80?type=ws&encryption=none&path=ws/?ed=2048/@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz/?2048&host=rb24.ir&security=none#🇫🇮 AzadMarz [ Irancell / Rightel ]-JOIN  : @AzadMarz
+vless://867bac5c-b78e-4f5c-ac03-4ec4b18141aa@book2.korzelo.ir:2083?encryption=none&type=ws&path=/&host=play.google.com#
 vless://867bac5c-b78e-4f5c-ac03-4ec4b18141aa@book2.korzelo.ir:2083?encryption=none&type=ws&path=/&host=play.google.com#configprxy
 vless://867bac5c-b78e-4f5c-ac03-4ec4b18141aa@book2.korzelo.ir:2083?path=/&security=none&encryption=none&host=play.google.com&type=ws#@tootffarangi🍓-9
 vless://867bac5c-b78e-4f5c-ac03-4ec4b18141aa@book2.korzelo.ir:2083?path=/&security=none&encryption=none&host=play.google.com&type=ws#kurdconfig
@@ -501,5 +503,3 @@ vless://9f135709-60a1-4a9b-b31c-78d326d8752a@104.18.152.233:443?mode=stream-one&
 vless://9f2f92ed-3ed2-4ef3-88e4-c12c5be53b1a@files.toriva.click:443?security=tls&alpn=http/1.1&encryption=mlkem768x25519plus.native.0rtt.xiVmE3k1gSJhST4Uf6szW_l5NSQA32CYkZZH-9r0fDY&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=files.toriva.click#@v2rayng3
 vless://9f323699-9f2b-4697-add2-46a6fd1217a9@7.bmi.ir.varzesh3.com.de:443?security=reality&alpn=http/1.1&encryption=none&pbk=JtA0d5K6Jnmg35oWP9SDOsc1ceuqaxOsNg33fiPHJQs&host=play.google.com&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=e915#@bored_vpn
 vless://9f323699-9f2b-4697-add2-46a6fd1217a9@7.bmi.ir.varzesh3.com.de:443?security=reality&alpn=http/1.1&encryption=none&pbk=JtA0d5K6Jnmg35oWP9SDOsc1ceuqaxOsNg33fiPHJQs&host=play.google.com&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=e915#@mehrosaboran
-vless://9ffcb940-cbf9-43ef-a077-20e26b2bde8c@ger.motorbazan.com:2087?security=none&encryption=none&host=play.google.com/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#@confing_v2rayy کانفینگ بیشتر در چنل 👈
-vless://@MAconnectt@acela.proxy.rlwy.net:11139?mode=auto&path=/&security=reality&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&pbk=g5ySjd0d9K2TqoIvtOklCUd9ZPCmQQeDp_qFGXvITzU&fp=chrome&spx=/&type=xhttp&sni=is1-ssl.mzstatic.com&sid=79f8c143#@MAconnectt
