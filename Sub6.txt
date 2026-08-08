@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://4f160454-fbf5-4e61-9d83-78f6b6c25d80@13.51.238.84:42316?security=none&encryption=none&headerType=none&type=tcp#TEL;Father_vpn
+vless://4f35284c-311a-4c2c-b196-fda3ac8a0b66@85.198.101.160:443?type=tcp&security=reality&sni=api-maps.yandex.ru&pbk=MSHKV2n0D01xQkXUY64I1gSraEVZb1GH8YPF9tF55kQ&fp=chrome&spx=/api/87567408&flow=xtls-rprx-vision&encryption=none#Продлите в боте @opengatevpn_bot - @Raydikalx
 vless://4f35284c-311a-4c2c-b196-fda3ac8a0b66@85.198.101.160:443?type=tcp&security=reality&sni=api-maps.yandex.ru&pbk=MSHKV2n0D01xQkXUY64I1gSraEVZb1GH8YPF9tF55kQ&fp=chrome&spx=/api/87567408&flow=xtls-rprx-vision&encryption=none#☝️ Подключите, чтобы зайти в TG ☝️ - @Raydikalx
 vless://4f35284c-311a-4c2c-b196-fda3ac8a0b66@85.198.101.160:443?type=tcp&security=reality&sni=api-maps.yandex.ru&pbk=MSHKV2n0D01xQkXUY64I1gSraEVZb1GH8YPF9tF55kQ&fp=chrome&spx=/api/87567408&flow=xtls-rprx-vision&encryption=none#🇪🇺  👉 ‼️📱 VPN для Telegram ‼️👈 - @Raydikalx
 vless://4f35284c-311a-4c2c-b196-fda3ac8a0b66@85.198.101.160:443?type=tcp&security=reality&sni=api-maps.yandex.ru&pbk=MSHKV2n0D01xQkXUY64I1gSraEVZb1GH8YPF9tF55kQ&fp=chrome&spx=/api/87567408&flow=xtls-rprx-vision&encryption=none#👇 Подключите, чтобы зайти в TG 👇 - @Raydikalx
@@ -501,5 +503,3 @@ vless://6e5aeb09-49db-4447-b7b4-d2af001f692d@chatgpt.com:2053?path=/&security=tl
 vless://6eb88b45-7c1e-4a0a-afab-aa455447aa78@2.26.0.15:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=max.ru&security=reality&pbk=-fZIJZD5c57nt0a0SyaJfQ80UCCz-7LWcS9E1ia3i3U&sid=6ba85179#channel_@networld_vpn
 vless://6eb89edc-6177-40ce-94bf-f3ed6fb60485@web-production-bb1e0.up.railway.app:443?encryption=none&security=tls&sni=web-production-bb1e0.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=web-production-bb1e0.up.railway.app&path=/ws/6eb89edc-6177-40ce-94bf-f3ed6fb60485#@hollowcon
 vless://6ede8d99-be53-4b7f-9183-255325c71bf2@198.41.209.56:8443?path=/&security=tls&encryption=none&insecure=0&type=httpupgrade&allowInsecure=0&sni=fdsa.cjdpars-m.ir#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️🛜🔷️499🌐🆕️
-vless://6edf57db-0496-4068-a7ad-2096c13c6dd4@144.225.65.214:37003?encryption=none&security=reality&sni=stg-ru-images.shop.samsung.com&fp=chrome&pbk=PoUfJmVVX55emqbNeJhwVu0lnljFGpZU56SqsY1PuQU&sid=748834c8dcf42d0e&spx=/f5LtEMQ7I41vcGZ&type=xhttp&path=/&mode=auto&extra={"mode":"auto","xPaddingBytes":"100-1000"}#Channel : @Daily_Configs
-vless://6f436a44-f703-93da-7e45-615824a39d3b@admin.kermanshahi.org:1000?security=reality&encryption=none&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&headerType=none&fp=chrome&type=tcp&sni=knox.cdn-apple.com&sid=a62d513cd709744a#@VEGAAS_VPN
