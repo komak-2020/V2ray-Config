@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://1e681d1b-3f6e-4bd4-9fed-b8976bd1b3be@afrcloud22.mmv.kr:443?path=/45.76.192.129=24434&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#IR-@V2rayAlpha-8
-vless://1eba8f10-8e16-484b-be7a-613327727d4d@91.98.27.174:4450?security=reality&encryption=none&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com#Arshiavpn12
-vless://1ee1f28d-4975-4d7c-95c7-76172c20eed5@185.143.234.238:2086?path=/&security=none&encryption=none&host=parsi.parsi.sbs&type=ws#kurdconfig
 vless://1ee1f28d-4975-4d7c-95c7-76172c20eed5@185.143.234.238:2086?path=/&security=none&encryption=none&host=parsi.parsi.sbs&type=ws#🇩🇪@FreakConfig
 vless://1ee6dbe4-b7bd-47bd-b6e5-23deb076f95b@45.131.212.22:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn
 vless://1ee6dbe4-b7bd-47bd-b6e5-23deb076f95b@gr5.levikogjgfdd.ir:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#1🇩🇪 @V2RAYNG_IP
@@ -503,3 +500,6 @@ vless://3fd99f0d-e9c4-41f8-ac0d-f3cb90cb3dee@www.parsvds.ir:8080?path=SHHPROXY?e
 vless://3fd99f0d-e9c4-41f8-ac0d-f3cb90cb3dee@www.parsvds.ir:8080?path=SHHPROXY?ed=8080&security=none&encryption=none&host=SHHproxy-shhPROXY-SHHproxy.ntherspeedtest.net.&type=ws#🇨🇦138565 | ⚡️Telegram = t.me/SOSkeyNET
 vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.16.7.70:443?mode=stream-one&path=/de&security=tls&encryption=none&fp=chrome&type=xhttp&sni=de.xn--q9jyb4c.online#floor 555
 vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.16.7.70:443?mode=stream-one&path=/de&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=de.xn--q9jyb4c.online#@free_conf_iran 👈 کانفیگ بیشتر
+vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.16.7.70:443?mode=stream-one&path=/de&security=tls&encryption=none&insecure=0&host=de.xn--q9jyb4c.online&fp=chrome&type=xhttp&allowInsecure=0&sni=de.xn--q9jyb4c.online#@brayirani •☕ | عضو شید قطع نشید.
+vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.16.7.70:443?mode=stream-one&path=/de&security=tls&encryption=none&insecure=0&host=de.xn--q9jyb4c.online&fp=chrome&type=xhttp&allowInsecure=0&sni=de.xn--q9jyb4c.online#@v2rayng3
+vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.16.7.70:443?mode=stream-one&path=/de&security=tls&encryption=none&insecure=1&host=de.xn--q9jyb4c.online&fp=chrome&type=xhttp&allowInsecure=1&sni=de.xn--q9jyb4c.online#@free_conf_iran 👈 کانفیگ بیشتر

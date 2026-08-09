@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://6d3b8cac-9d1c-4219-b282-581b76341060@157.245.43.172:22298?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#ProxyMtpVPN-263
-vless://6d3b8cac-9d1c-4219-b282-581b76341060@157.245.43.172:22298?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩
-vless://6d3b8cac-9d1c-4219-b282-581b76341060@167.99.84.136:22298?Telegram=@HoosheMasnui,@HoosheMasnui,@HoosheMasnui,@HoosheMasnui,@HoosheMasnui,@HoosheMasnui,@HoosheMasnui,@HoosheMasnui&security=&encryption=none&host=play.google.com&headerType=http&type=tcp#@HoosheMasnui 🇬🇧
 vless://6d3b8cac-9d1c-4219-b282-581b76341060@167.99.84.136:22298?Telegram=@HoosheMasnui,@HoosheMasnui,@HoosheMasnui,@HoosheMasnui,@HoosheMasnui,@HoosheMasnui,@HoosheMasnui,@HoosheMasnui,@HoosheMasnui&security=&encryption=none&host=play.google.com&headerType=http&type=tcp#@HoosheMasnui کانال هوش مصنوعی
 vless://6d3b8cac-9d1c-4219-b282-581b76341060@167.99.84.136:22298?encryption=none&headerType=http&host=play.google.com&security=none&type=tcp#✨17@oneclickvpnkeys
 vless://6d57becf-27f3-4136-9289-a2ae5449af83@www.speedtest.net:443?encryption=none&security=tls&sni=kkiihh-iran-abc-iran-1993.kinghooman.com&fp=chrome&type=ws&path=/#کانال تلگرام : Free_VPN_CH@
@@ -503,3 +500,6 @@ vless://867bac5c-b78e-4f5c-ac03-4ec4b18141aa@book2.korzelo.ir:2083?encryption=no
 vless://867bac5c-b78e-4f5c-ac03-4ec4b18141aa@book2.korzelo.ir:2083?encryption=none&type=ws&path=/&host=play.google.com#configprxy
 vless://867bac5c-b78e-4f5c-ac03-4ec4b18141aa@book2.korzelo.ir:2083?path=/&security=none&encryption=none&host=play.google.com&type=ws#kurdconfig
 vless://867bac5c-b78e-4f5c-ac03-4ec4b18141aa@book2.korzelo.ir:2083?path=/&security=none&encryption=none&host=play.google.com&type=ws#🇩🇰@FreakConfig
+vless://867bac5c-b78e-4f5c-ac03-4ec4b18141aa@book2.korzelo.ir:2083?path=/&security=none&encryption=none&host=play.google.com&type=ws#🇩🇰@V2rayng_Fast
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.64.145.202:2095?security=&encryption=none&host=fangbinxingnmsl.pusytroller.gq&type=ws#🚀t.me/iProxyChannel
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.64.146.153:2095?encryption=none&type=ws&path=/&host=fangbinxingnmsl.pusytroller.gq#@MDvpnSECفوق سرعت ☄️
