@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://888193f6-6818-42f4-b223-64c9fd323b76@cf-mtn.coixconqwe1.ir:443?encryption=none&type=ws&security=tls&path=/?ed=2560&host=ef.gm121.havray2025.ir&sni=ef.gm121.havray2025.ir&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#vpnsal
 vless://888193f6-6818-42f4-b223-64c9fd323b76@cf2.coixconqwe1.ir:2086?encryption=none&type=xhttp&path=/?ed=2082&host=ws.Australia2.havray2025.ir&mode=auto#@meliproxyy
 vless://888193f6-6818-42f4-b223-64c9fd323b76@cf2.coixconqwe1.ir:2086?encryption=none&type=xhttp&path=/?ed=2082&host=ws.Australia2.havray2025.ir&mode=auto#vpnsal
 vless://888193f6-6818-42f4-b223-64c9fd323b76@cf2.coixconqwe1.ir:443?encryption=none&type=ws&security=tls&path=/?ed=2560&host=france.havray2025.ir&sni=france.havray2025.ir&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#@meliproxyy
@@ -503,3 +502,4 @@ vless://Telegram:@Free_VPN_CH@193.148.59.145:8443?path=/sg-lnd&security=tls&encr
 vless://Telegram:@Free_VPN_CH@193.233.23.204:443?encryption=none&security=tls&sni=tn1rr.qzz.io&insecure=0&allowInsecure=0&type=ws&host=tn1rr.qzz.io&path=/sg-lnd#کانال تلگرام : Free_VPN_CH@
 vless://Telegram:@Free_VPN_CH@193.53.40.219:8443?path=/sg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#کانال تلگرام : Free_VPN_CH@
 vless://Telegram:@Free_VPN_CH@194.164.235.8:443?encryption=none&security=tls&sni=tn1rr.qzz.io&insecure=0&allowInsecure=0&type=ws&host=tn1rr.qzz.io&path=/sg-lnd#کانال تلگرام : Free_VPN_CH@
+vless://Telegram:@Free_VPN_CH@194.53.54.30:443?encryption=none&security=tls&sni=tn1rr.qzz.io&insecure=0&allowInsecure=0&type=ws&host=tn1rr.qzz.io&path=/sg-lnd#کانال تلگرام : Free_VPN_CH@

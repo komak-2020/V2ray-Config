@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://5445e6d0-69b2-4bc5-bc01-28667bbf2278@cxzczx.moritechs.ir:2086?mode=auto&path=/shop&security=none&encryption=mlkem768x25519plus.native.0rtt.SQCau-x0Qbc6bUpELUFrElTsjvpXiT1-pKmvzuxCrAI&host=wfwvdfs.moritechs.ir&type=xhttp#kurdconfig
 vless://5445e6d0-69b2-4bc5-bc01-28667bbf2278@cxzczx.moritechs.ir:2086?mode=auto&path=/shop&security=none&encryption=mlkem768x25519plus.native.0rtt.SQCau-x0Qbc6bUpELUFrElTsjvpXiT1-pKmvzuxCrAI&host=wfwvdfs.moritechs.ir&type=xhttp#🇨🇦@V2rayng_Fast
 vless://54502a61-2af6-40e7-8331-2c9fc40e5903@time.is:2053?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=old-cloud-a96a.rohamsahh90.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=old-cloud-a96a.rohamsahh90.workers.dev#@MDvpnSEC
 vless://54502a61-2af6-40e7-8331-2c9fc40e5903@time.is:2053?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=old-cloud-a96a.rohamsahh90.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=old-cloud-a96a.rohamsahh90.workers.dev#configprxy
@@ -503,3 +502,4 @@ vless://735f7616-a5cc-45ce-9bdc-b741054cb13e@api.tenneltheducks.ir:2096?encrypti
 vless://735f7616-a5cc-45ce-9bdc-b741054cb13e@api.tenneltheducks.ir:2096?mode=auto&path=/ports/1106&security=tls&alpn=h2,http/1.1&encryption=none&host=FiN-XhTt.SeZaR.OrG&fp=chrome&type=xhttp&sni=FiN-XhTt.SeZaR.OrG#@v2ray_phoenix
 vless://735f7616-a5cc-45ce-9bdc-b741054cb13e@api.tenneltheducks.ir:2096?mode=auto&path=/ports/1106&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=FiN-XhTt.SeZaR.OrG&fp=chrome&type=xhttp&allowInsecure=0&sni=FiN-XhTt.SeZaR.OrG#@irconfiig ⭐
 vless://735f7616-a5cc-45ce-9bdc-b741054cb13e@api.tenneltheducks.ir:2096?mode=auto&path=/ports/1106&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=FiN-XhTt.SeZaR.OrG&fp=chrome&type=xhttp&allowInsecure=0&sni=FiN-XhTt.SeZaR.OrG#🇨🇼@FreakConfig
+vless://735f7616-a5cc-45ce-9bdc-b741054cb13e@cd-site.benomiz.ir:2096?encryption=none&security=tls&sni=FrCh-XhTt.SeZaR.OrG&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=FrCh-XhTt.SeZaR.OrG&path=/ports/1106&mode=auto#@Daily_Configs : کانال
