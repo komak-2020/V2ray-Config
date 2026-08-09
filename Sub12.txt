@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.140.169:22224?security=&encryption=none&headerType=none&type=tcp#@confiig_hub
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.19.59:22222?security=none&encryption=none&headerType=none&type=tcp#MTMVPN 21
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.19.59:22224?security=none&encryption=none&headerType=none&type=tcp#@bored_vpn
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.19.59:22224?security=none&encryption=none&headerType=none&type=tcp#@mehrosaboran
@@ -502,4 +503,3 @@ vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.38.119:8443?path=/?ed&secur
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.38.119:8443?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#@NetAccount-US
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.38.119:8443?security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#@Selinc
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.38.119:8443?security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#🦉@FreeConfigForYou
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.42.163:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=/#t.me/ConfigFori  -  Config 88289
