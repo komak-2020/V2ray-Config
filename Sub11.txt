@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://cd5cf6e7-7ce5-42c9-9316-68210fa72a32@13.193.205.133:27407?security=reality&encryption=none&pbk=SajK6LzHBkkFlEXjIwseyqbpezgPiop5ZnSToou3G04&headerType=none&fp=chrome&type=tcp&sni=bgcpartners.com&sid=e6ac18b63f23#🇯🇵 Join+Telegram:@Farah_VPN 🇯🇵
 vless://cd68a931-c8d4-c0d5-a3b3-5b5a9165a0d6@69.46.46.11:443?path=/ws/cd68a931-c8d4-c0d5-a3b3-5b5a9165a0d6&security=tls&alpn=http/1.1&encryption=none&host=rvg-production-bbc3.up.railway.app&fp=chrome&type=ws&sni=rvg-production-bbc3.up.railway.app#All Operators @MaSTeRSeRVeR1
 vless://cd8002d9-e8fd-4411-8bb6-fc80310ff81d@avval.ir:2053?path=vless-ws/?ed&security=tls&encryption=none&host=vip1-romax-tiktok.hsjsak.ir&fp=chrome&type=ws&sni=vip1-romax-tiktok.hsjsak.ir#🇮🇷138349 | ⚡️Telegram = t.me/SOSkeyNET
 vless://cd8002d9-e8fd-4411-8bb6-fc80310ff81d@avval.ir:2053?security=tls&sni=vip1-romax-tiktok.hsjsak.ir&fp=chrome&type=ws&path=vless-ws/?ed=2048#@Hope_Net-join-us-on-Telegram
@@ -502,4 +503,3 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.197.75.14:22223?encryption=none&
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.197.75.14:22223?encryption=none&security=none&type=tcp#🔵@chillguy_vpn
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.197.75.14:22224?encryption=none&security=none&type=tcp#🇩🇪DE-🚀@VPNine1
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.197.75.14:22224?encryption=none&security=none&type=tcp#🔵@chillguy_vpn
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.124.132.221:22222?security=none&encryption=none&headerType=none&type=tcp#kurdconfig

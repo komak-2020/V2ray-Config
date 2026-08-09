@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://b1d206b2-83b8-4756-aa3d-838242451c8d@144.31.157.202:110?security=none&encryption=none&host=BIA_TELEGRAM?=@ShadowFlux2---@ShadowFlux2---@ShadowFlux2---@ShadowFlux2---@ShadowFlux2&headerType=none&type=tcp#@ShadowFlux2 | کانال ما در تلگرام
 vless://b1d206b2-83b8-4756-aa3d-838242451c8d@144.31.157.202:110?security=none&encryption=none&host=play.google.com&headerType=none&type=tcp#@kakajan
 vless://b1d2a517-3ff2-4eb7-a9cd-2a42a2eb1c29@vl1.salar4040.ir:4040?encryption=none&security=reality&sni=www.nvidia.com&fp=chrome&pbk=H9OGLRos1CxS7C197U2G6vmAINTN6GMasevL3gX9uEI&sid=c57bcc26&spx=/&allowinsecure=0&type=tcp&headerType=none#🇩🇪All⁶ | @BigSmoke_Config
 vless://b1d2a517-3ff2-4eb7-a9cd-2a42a2eb1c29@vl1.salar4040.ir:4040?security=reality&encryption=none&pbk=H9OGLRos1CxS7C197U2G6vmAINTN6GMasevL3gX9uEI&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.nvidia.com&sid=c57bcc26#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
@@ -502,4 +503,3 @@ vless://cccbfdd9-b6fe-45c5-ac08-da49a001e81e@185.231.183.159:80?mode=auto&path=/
 vless://cccdb266-e17a-4411-9017-6935bd2a5fbf@hollowcon-6ogo.onrender.com:443?encryption=none&security=tls&sni=hollowcon-6ogo.onrender.com&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=hollowcon-6ogo.onrender.com&path=/ws/cccdb266-e17a-4411-9017-6935bd2a5fbf#@hollowcon
 vless://cd1673b3-7cec-4fe6-bedf-b534eb54e647@ddc-chr-lt2.astralweb.tech:443/?type=tcp&encryption=none&flow=&security=tls&sni=ddc-chr-lt2.astralweb.tech&allowInsecure=1&fp=chrome#立陶宛
 vless://cd3d0650-a767-47f2-9b1a-dedc1aceafc9@mahdipok.paydar.site:80?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇫🇮@v2ryNG01 همه اپراتور
-vless://cd5cf6e7-7ce5-42c9-9316-68210fa72a32@13.193.205.133:27407?security=reality&encryption=none&pbk=SajK6LzHBkkFlEXjIwseyqbpezgPiop5ZnSToou3G04&headerType=none&fp=chrome&type=tcp&sni=bgcpartners.com&sid=e6ac18b63f23#🇯🇵 Join+Telegram:@Farah_VPN 🇯🇵

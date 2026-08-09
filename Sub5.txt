@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@delilah.ns.cloudflare.com:2096?path=/45.76.183.217=49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=0&sni=hetz.x-smm.com#channel : @freedomofinfor
 vless://3f176170-afe0-4847-91f9-64e05d004eec@netherland.panelbaz.com:5000?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=play.google.com#@confing_v2rayy کانفینگ بیشتر در چنل 👈
 vless://3f3bb5cc-da8b-4551-8b76-ba223f1a5255@18.192.50.101:443?security=none&encryption=none&headerType=none&type=tcp#TEL;Father_vpn
 vless://3f3bb5cc-da8b-4551-8b76-ba223f1a5255@18.192.50.101:443?security=none&encryption=none&headerType=none&type=tcp#🇩🇪 @GozargahVPN
@@ -502,4 +503,3 @@ vless://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@172.67.215.240:80/?type=ws&encrypti
 vless://4ea312d7-3844-4ff8-8062-ed2e03ddc2a1@151.101.66.133:80?path=/ws&security=none&encryption=none&host=scp-only.ws.com&type=ws#@V2rayi_net
 vless://4eede923-dd21-3c92-a6d5-266917141bab@timazadi-production-177e.up.railway.app:443?path=/ws/4eede923-dd21-3c92-a6d5-266917141bab&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=timazadi-production-177e.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=timazadi-production-177e.up.railway.app#@TimAzadi
 vless://4ef1ccb8-05e0-49c7-aec8-6f634b569ef9@4sipg.pastilbastani.ir:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@prrofile_purple  ♥️👈 تلگرام
-vless://4f160454-fbf5-4e61-9d83-78f6b6c25d80@13.51.238.84:42316?security=none&encryption=none&headerType=none&type=tcp#TEL;Father_vpn
