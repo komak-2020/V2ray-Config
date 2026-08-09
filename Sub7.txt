@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://69472b80-5a66-42e7-a70d-0f862a78b673@167.71.137.226:39692?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@meliproxyy
-vless://69472b80-5a66-42e7-a70d-0f862a78b673@167.71.137.226:39692?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@v2ray_phoenix
 vless://69472b80-5a66-42e7-a70d-0f862a78b673@167.71.137.226:39692?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#VConfing
 vless://69472b80-5a66-42e7-a70d-0f862a78b673@167.71.137.226:39692?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩
 vless://696915f2-5ad4-452b-987c-d83d29d0503a@185.191.118.33:443?security=reality&encryption=none&pbk=JZppw-ux1-GsHY6eN1B-sFcVjXNVvb1D6-qKBKCrxAo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=de.moktana.app&sid=89c7866901c21bce#TEL;Father_vpn
@@ -503,3 +501,5 @@ vless://83b69fd2-ae76-4a35-8f0e-65b90babcc6f@167.233.233.187:1234?security=none&
 vless://83b69fd2-ae76-4a35-8f0e-65b90babcc6f@168.119.156.100:1234/?encryption=none&flow=&host=play.google.com&path=/&type=tcp&headerType=http#channel_@networld_vpn
 vless://83f03646-fb28-44cc-9d2c-8853f6c09285@104.18.4.130:8443?path=/XIXVPN?ed&security=tls&alpn=http/1.1&encryption=none&host=r4fnviw9jl4i4rx.zjde5.de5.net&fp=chrome&type=ws&sni=r4fnviw9jl4i4rx.zjde5.de5.net#@CUSTOMVPNSERVER
 vless://83f03646-fb28-44cc-9d2c-8853f6c09285@104.18.4.130:8443?path=/XIXVPN?ed&security=tls&alpn=http/1.1&encryption=none&host=r4fnviw9jl4i4rx.zjde5.de5.net&fp=chrome&type=ws&sni=r4fnviw9jl4i4rx.zjde5.de5.net#⚡Telegram =@CUSTOMVPNSERVER
+vless://83f03646-fb28-44cc-9d2c-8853f6c09285@104.18.4.130:8443?path=/XIXVPN?ed&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=r4fnviw9jl4i4rx.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=r4fnviw9jl4i4rx.zjde5.de5.net#@KAFING_2
+vless://840336f4-2c42-4f97-9f0f-97f13642bc5a@get2s.skystreamgame.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=get2s.skystreamgame.com&fp=chrome&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&sid=4326&type=tcp&headerType=none#🇸🇪138532 | ⚡️Telegram = t.me/SOSkeyNET
